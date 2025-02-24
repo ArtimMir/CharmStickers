@@ -1,0 +1,498 @@
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Сравнение цен Steam и Swap.gg</title>
+        <style>
+            table {
+                width: 80%;
+                margin: 20px auto;
+                border-collapse: collapse;
+            }
+            th, td {
+                border: 1px solid #ddd;
+                padding: 8px;
+                text-align: center;
+            }
+            th {
+                background-color: #f2f2f2;
+                cursor: pointer;
+            }
+            th:hover {
+                background-color: #ddd;
+            }
+            tr:nth-child(even) {
+                background-color: #f9f9f9;
+            }
+        </style>
+        <script>
+            function sortTable() {
+                var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
+                table = document.querySelector("table");
+                switching = true;
+                dir = "asc"; // Направление сортировки: по возрастанию
+                while (switching) {
+                    switching = false;
+                    rows = table.rows;
+                    for (i = 1; i < (rows.length - 1); i++) {
+                        shouldSwitch = false;
+                        x = rows[i].getElementsByTagName("td")[3]; // Последний столбец (Процент выгоды)
+                        y = rows[i + 1].getElementsByTagName("td")[3];
+                        var xValue = parseFloat(x.innerHTML);
+                        var yValue = parseFloat(y.innerHTML);
+                        if (dir == "asc") {
+                            if (xValue > yValue) {
+                                shouldSwitch = true;
+                                break;
+                            }
+                        } else if (dir == "desc") {
+                            if (xValue < yValue) {
+                                shouldSwitch = true;
+                                break;
+                            }
+                        }
+                    }
+                    if (shouldSwitch) {
+                        rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+                        switching = true;
+                        switchcount++;
+                    } else {
+                        if (switchcount == 0 && dir == "asc") {
+                            dir = "desc";
+                            switching = true;
+                        }
+                    }
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <table>
+            <tr>
+                <th>Название предмета</th>
+                <th>Цена в Steam ($)</th>
+                <th>Цена на Swap.gg ($)</th>
+                <th onclick="sortTable()">Процент выгоды (%)</th>
+            </tr>
+    
+            <tr>
+                <td>MAG-7 | SWAG-7 (Field-Tested)</td>
+                <td>0.50</td>
+                <td>0.46</td>
+                <td>8.00</td>
+            </tr>
+        
+            <tr>
+                <td>Dreams & Nightmares Case</td>
+                <td>2.15</td>
+                <td>2.40</td>
+                <td>-11.63</td>
+            </tr>
+        
+            <tr>
+                <td>StatTrak™ Galil AR | Rocket Pop (Battle-Scarred)</td>
+                <td>1.84</td>
+                <td>1.92</td>
+                <td>-4.35</td>
+            </tr>
+        
+            <tr>
+                <td>Desert Eagle | Tilted (Field-Tested)</td>
+                <td>0.38</td>
+                <td>0.49</td>
+                <td>-28.95</td>
+            </tr>
+        
+            <tr>
+                <td>SG 553 | Phantom (Field-Tested)</td>
+                <td>0.70</td>
+                <td>0.71</td>
+                <td>-1.43</td>
+            </tr>
+        
+            <tr>
+                <td>MP7 | Bloodsport (Well-Worn)</td>
+                <td>2.84</td>
+                <td>3.28</td>
+                <td>-15.49</td>
+            </tr>
+        
+            <tr>
+                <td>10 Year Birthday Sticker Capsule</td>
+                <td>1.24</td>
+                <td>1.29</td>
+                <td>-4.03</td>
+            </tr>
+        
+            <tr>
+                <td>PP-Bizon | Jungle Slipstream (Battle-Scarred)</td>
+                <td>10.17</td>
+                <td>12.21</td>
+                <td>-20.06</td>
+            </tr>
+        
+            <tr>
+                <td>Sticker | The Pro (Foil)</td>
+                <td>4.88</td>
+                <td>5.49</td>
+                <td>-12.50</td>
+            </tr>
+        
+            <tr>
+                <td>M4A4 | Faded Zebra (Field-Tested)</td>
+                <td>6.49</td>
+                <td>7.86</td>
+                <td>-21.11</td>
+            </tr>
+        
+            <tr>
+                <td>M4A4 | Faded Zebra (Field-Tested)</td>
+                <td>6.49</td>
+                <td>7.86</td>
+                <td>-21.11</td>
+            </tr>
+        
+            <tr>
+                <td>M4A4 | Faded Zebra (Field-Tested)</td>
+                <td>6.49</td>
+                <td>7.86</td>
+                <td>-21.11</td>
+            </tr>
+        
+            <tr>
+                <td>R8 Revolver | Skull Crusher (Field-Tested)</td>
+                <td>2.45</td>
+                <td>2.62</td>
+                <td>-6.94</td>
+            </tr>
+        
+            <tr>
+                <td>StatTrak™ XM1014 | Zombie Offensive (Field-Tested)</td>
+                <td>0.74</td>
+                <td>0.72</td>
+                <td>2.70</td>
+            </tr>
+        
+            <tr>
+                <td>G3SG1 | Scavenger (Minimal Wear)</td>
+                <td>1.07</td>
+                <td>1.22</td>
+                <td>-14.02</td>
+            </tr>
+        
+            <tr>
+                <td>StatTrak™ M4A4 | Magnesium (Field-Tested)</td>
+                <td>1.69</td>
+                <td>2.07</td>
+                <td>-22.49</td>
+            </tr>
+        
+            <tr>
+                <td>SSG 08 | Halftone Whorl (Factory New)</td>
+                <td>0.41</td>
+                <td>0.45</td>
+                <td>-9.76</td>
+            </tr>
+        
+            <tr>
+                <td>Five-SeveN | Midnight Paintover (Minimal Wear)</td>
+                <td>0.21</td>
+                <td>0.27</td>
+                <td>-28.57</td>
+            </tr>
+        
+            <tr>
+                <td>Sticker | IEM (Holo) | Rio 2022</td>
+                <td>0.54</td>
+                <td>0.55</td>
+                <td>-1.85</td>
+            </tr>
+        
+            <tr>
+                <td>Sticker | BIG (Foil) | 2020 RMR</td>
+                <td>0.20</td>
+                <td>0.20</td>
+                <td>0.00</td>
+            </tr>
+        
+            <tr>
+                <td>Sticker | BIG (Foil) | 2020 RMR</td>
+                <td>0.20</td>
+                <td>0.20</td>
+                <td>0.00</td>
+            </tr>
+        
+            <tr>
+                <td>P2000 | Coral Halftone (Minimal Wear)</td>
+                <td>0.35</td>
+                <td>0.34</td>
+                <td>2.86</td>
+            </tr>
+        
+            <tr>
+                <td>Negev | Wall Bang (Field-Tested)</td>
+                <td>0.18</td>
+                <td>0.21</td>
+                <td>-16.67</td>
+            </tr>
+        
+            <tr>
+                <td>StatTrak™ MAC-10 | Monkeyflage (Field-Tested)</td>
+                <td>0.20</td>
+                <td>0.20</td>
+                <td>0.00</td>
+            </tr>
+        
+            <tr>
+                <td>P90 | Wash me (Field-Tested)</td>
+                <td>0.18</td>
+                <td>0.21</td>
+                <td>-16.67</td>
+            </tr>
+        
+            <tr>
+                <td>Negev | Wall Bang (Field-Tested)</td>
+                <td>0.18</td>
+                <td>0.21</td>
+                <td>-16.67</td>
+            </tr>
+        
+            <tr>
+                <td>MAC-10 | Pipsqueak (Battle-Scarred)</td>
+                <td>0.92</td>
+                <td>1.10</td>
+                <td>-19.57</td>
+            </tr>
+        
+            <tr>
+                <td>Nova | Wurst Hölle (Battle-Scarred)</td>
+                <td>0.92</td>
+                <td>1.03</td>
+                <td>-11.96</td>
+            </tr>
+        
+            <tr>
+                <td>P90 | Randy Rush (Field-Tested)</td>
+                <td>1.53</td>
+                <td>1.73</td>
+                <td>-13.07</td>
+            </tr>
+        
+            <tr>
+                <td>Desert Eagle | Calligraffiti (Field-Tested)</td>
+                <td>0.25</td>
+                <td>0.26</td>
+                <td>-4.00</td>
+            </tr>
+        
+            <tr>
+                <td>MAG-7 | Popdog (Battle-Scarred)</td>
+                <td>0.18</td>
+                <td>0.17</td>
+                <td>5.56</td>
+            </tr>
+        
+            <tr>
+                <td>Sticker | Econometer (Lenticular)</td>
+                <td>2.89</td>
+                <td>3.54</td>
+                <td>-22.49</td>
+            </tr>
+        
+            <tr>
+                <td>M249 | Downtown (Minimal Wear)</td>
+                <td>1.12</td>
+                <td>1.21</td>
+                <td>-8.04</td>
+            </tr>
+        
+            <tr>
+                <td>Sticker | Dragon Tale</td>
+                <td>0.12</td>
+                <td>0.14</td>
+                <td>-16.67</td>
+            </tr>
+        
+            <tr>
+                <td>Sealed Graffiti | Noodles</td>
+                <td>0.47</td>
+                <td>0.55</td>
+                <td>-17.02</td>
+            </tr>
+        
+            <tr>
+                <td>Sticker | Rage</td>
+                <td>4.96</td>
+                <td>5.24</td>
+                <td>-5.65</td>
+            </tr>
+        
+            <tr>
+                <td>Sticker | Space Marine (Holo)</td>
+                <td>1.35</td>
+                <td>1.61</td>
+                <td>-19.26</td>
+            </tr>
+        
+            <tr>
+                <td>Sticker | Tyranids Hive Tyrant (Holo)</td>
+                <td>1.21</td>
+                <td>1.32</td>
+                <td>-9.09</td>
+            </tr>
+        
+            <tr>
+                <td>Sticker | Space Marine (Holo)</td>
+                <td>1.35</td>
+                <td>1.61</td>
+                <td>-19.26</td>
+            </tr>
+        
+            <tr>
+                <td>AK-47 | Safari Mesh (Well-Worn)</td>
+                <td>0.15</td>
+                <td>0.15</td>
+                <td>0.00</td>
+            </tr>
+        
+            <tr>
+                <td>M4A1-S | Emphorosaur-S (Battle-Scarred)</td>
+                <td>0.65</td>
+                <td>0.70</td>
+                <td>-7.69</td>
+            </tr>
+        
+            <tr>
+                <td>Sticker | magixx (Holo, Champion) | Shanghai 2024</td>
+                <td>0.19</td>
+                <td>0.19</td>
+                <td>0.00</td>
+            </tr>
+        
+            <tr>
+                <td>SCAR-20 | Jungle Slipstream (Field-Tested)</td>
+                <td>0.15</td>
+                <td>0.15</td>
+                <td>0.00</td>
+            </tr>
+        
+            <tr>
+                <td>AK-47 | Safari Mesh (Well-Worn)</td>
+                <td>0.15</td>
+                <td>0.15</td>
+                <td>0.00</td>
+            </tr>
+        
+            <tr>
+                <td>Five-SeveN | Midnight Paintover (Minimal Wear)</td>
+                <td>0.21</td>
+                <td>0.27</td>
+                <td>-28.57</td>
+            </tr>
+        
+            <tr>
+                <td>MAC-10 | Allure (Minimal Wear)</td>
+                <td>1.03</td>
+                <td>1.17</td>
+                <td>-13.59</td>
+            </tr>
+        
+            <tr>
+                <td>MP9 | Deadly Poison (Minimal Wear)</td>
+                <td>1.27</td>
+                <td>1.50</td>
+                <td>-18.11</td>
+            </tr>
+        
+            <tr>
+                <td>SSG 08 | Hand Brake (Factory New)</td>
+                <td>1.20</td>
+                <td>1.22</td>
+                <td>-1.67</td>
+            </tr>
+        
+            <tr>
+                <td>StatTrak™ MP9 | Featherweight (Well-Worn)</td>
+                <td>0.21</td>
+                <td>0.21</td>
+                <td>0.00</td>
+            </tr>
+        
+            <tr>
+                <td>MAC-10 | Allure (Field-Tested)</td>
+                <td>0.53</td>
+                <td>0.59</td>
+                <td>-11.32</td>
+            </tr>
+        
+            <tr>
+                <td>P250 | Inferno (Minimal Wear)</td>
+                <td>1.33</td>
+                <td>1.82</td>
+                <td>-36.84</td>
+            </tr>
+        
+            <tr>
+                <td>Glock-18 | Teal Graf (Factory New)</td>
+                <td>2.09</td>
+                <td>2.50</td>
+                <td>-19.62</td>
+            </tr>
+        
+            <tr>
+                <td>Glock-18 | Teal Graf (Well-Worn)</td>
+                <td>1.04</td>
+                <td>1.25</td>
+                <td>-20.19</td>
+            </tr>
+        
+            <tr>
+                <td>Galil AR | Metallic Squeezer (Field-Tested)</td>
+                <td>1.18</td>
+                <td>1.42</td>
+                <td>-20.34</td>
+            </tr>
+        
+            <tr>
+                <td>Sticker | sh1ro (Holo, Champion) | Shanghai 2024</td>
+                <td>0.13</td>
+                <td>0.13</td>
+                <td>0.00</td>
+            </tr>
+        
+            <tr>
+                <td>Sticker | jkaem (Gold) | Paris 2023</td>
+                <td>1.03</td>
+                <td>1.16</td>
+                <td>-12.62</td>
+            </tr>
+        
+            <tr>
+                <td>Music Kit | Meechy Darko, Gothic Luxury</td>
+                <td>2.25</td>
+                <td>2.58</td>
+                <td>-14.67</td>
+            </tr>
+        
+            <tr>
+                <td>MP9 | Modest Threat (Minimal Wear)</td>
+                <td>0.21</td>
+                <td>0.22</td>
+                <td>-4.76</td>
+            </tr>
+        
+            <tr>
+                <td>MAC-10 | Allure (Field-Tested)</td>
+                <td>0.53</td>
+                <td>0.59</td>
+                <td>-11.32</td>
+            </tr>
+        
+            <tr>
+                <td>MAC-10 | Allure (Field-Tested)</td>
+                <td>0.53</td>
+                <td>0.59</td>
+                <td>-11.32</td>
+            </tr>
+        
