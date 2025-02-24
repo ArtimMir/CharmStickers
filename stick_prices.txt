@@ -1,0 +1,1502 @@
+{"success": "TACO | MLG Columbus 2016", "lowest_price": "$4.20 USD"}
+{"success": "Ivette (Holo)", "lowest_price": "$2.31 USD", "volume": "23", "median_price": "$2.12 USD"}
+{"success": "Lucky | Katowice 2019", "lowest_price": "$0.87 USD", "volume": "1", "median_price": "$0.88 USD"}
+{"success": "oSee | Paris 2023", "lowest_price": "$0.03 USD", "volume": "149", "median_price": "$0.01 USD"}
+{"success": "FalleN | Antwerp 2022", "lowest_price": "$0.09 USD", "volume": "125", "median_price": "$0.09 USD"}
+{"success": "KSCERATO | Paris 2023", "lowest_price": "$0.03 USD", "volume": "94", "median_price": "$0.01 USD"}
+{"success": "The Bomber", "lowest_price": "$0.30 USD", "volume": "6", "median_price": "$0.30 USD"}
+{"success": "Drug War Veteran", "lowest_price": "$1.11 USD", "volume": "123", "median_price": "$1.09 USD"}
+{"success": "Obey SAS", "lowest_price": "$0.10 USD", "volume": "71", "median_price": "$0.09 USD"}
+{"success": "BLAST.tv (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "2,110", "median_price": "$0.01 USD"}
+{"success": "Endless Cycle", "lowest_price": "$0.05 USD", "volume": "68", "median_price": "$0.04 USD"}
+{"success": "Viggo", "lowest_price": "$0.59 USD", "volume": "16", "median_price": "$0.58 USD"}
+{"success": "Spirit (Holo) | 2020 RMR", "lowest_price": "$0.32 USD", "volume": "170", "median_price": "$0.36 USD"}
+{"success": "North (Holo) | 2020 RMR", "lowest_price": "$0.25 USD", "volume": "137", "median_price": "$0.28 USD"}
+{"success": "AmaNEk | Berlin 2019", "lowest_price": "$0.08 USD", "volume": "9", "median_price": "$0.07 USD"}
+{"success": "Monte | Paris 2023", "lowest_price": "$0.03 USD", "volume": "1,805", "median_price": "$0.01 USD"}
+{"success": "Astralis | Antwerp 2022", "lowest_price": "$0.06 USD", "volume": "205", "median_price": "$0.05 USD"}
+{"success": "Team Liquid | Paris 2023", "lowest_price": "$0.03 USD", "volume": "2,617", "median_price": "$0.01 USD"}
+{"success": "Thomas (Gold) | Paris 2023", "lowest_price": "$2.92 USD", "volume": "2", "median_price": "$3.06 USD"}
+{"success": "Heroic (Glitter) | Paris 2023", "lowest_price": "$0.04 USD", "volume": "565", "median_price": "$0.02 USD"}
+{"success": "IEM | Rio 2022", "lowest_price": "$0.03 USD", "volume": "325", "median_price": "$0.01 USD"}
+{"success": "9z Team | Rio 2022", "lowest_price": "$0.07 USD", "volume": "161", "median_price": "$0.04 USD"}
+{"success": "History | Paris 2023", "lowest_price": "$0.03 USD", "volume": "172", "median_price": "$0.04 USD"}
+{"success": "rain (Glitter) | Paris 2023", "lowest_price": "$0.04 USD", "volume": "22", "median_price": "$0.02 USD"}
+{"success": "es3tag | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "39", "median_price": "$0.01 USD"}
+{"success": "Heroic (Holo) | 2020 RMR", "lowest_price": "$0.07 USD", "volume": "171", "median_price": "$0.07 USD"}
+{"success": "Fight like a Girl", "lowest_price": "$1.06 USD", "volume": "7", "median_price": "$0.86 USD"}
+{"success": "Ninjas in Pyjamas (Foil) | 2020 RMR", "lowest_price": "$0.18 USD", "volume": "33", "median_price": "$0.18 USD"}
+{"success": "Boombl4 | Stockholm 2021", "lowest_price": "$0.03 USD", "volume": "267", "median_price": "$0.01 USD"}
+{"success": "Good Sports", "lowest_price": "$0.08 USD", "volume": "29", "median_price": "$0.07 USD"}
+{"success": "ANNIHILATION (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "32", "median_price": "$0.01 USD"}
+{"success": "Ninjas in Pyjamas | Rio 2022", "lowest_price": "$0.03 USD", "volume": "57", "median_price": "$0.01 USD"}
+{"success": "Noble", "lowest_price": "$0.51 USD", "volume": "58", "median_price": "$0.61 USD"}
+{"success": "BF 2042", "lowest_price": "$0.27 USD", "volume": "14", "median_price": "$0.27 USD"}
+{"success": "electroNic | Stockholm 2021", "lowest_price": "$0.03 USD", "volume": "164", "median_price": "$0.01 USD"}
+{"success": "Sting Like A Butterfly", "lowest_price": "$0.05 USD", "volume": "126", "median_price": "$0.03 USD"}
+{"success": "Liazz | Paris 2023", "lowest_price": "$0.03 USD", "volume": "87", "median_price": "$0.01 USD"}
+{"success": "IEM (Glitter) | Rio 2022", "lowest_price": "$0.04 USD", "volume": "57", "median_price": "$0.02 USD"}
+{"success": "device | Berlin 2019", "lowest_price": "$0.49 USD", "volume": "7", "median_price": "$0.43 USD"}
+{"success": "GamerLegion (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "251", "median_price": "$0.01 USD"}
+{"success": "Ninjas in Pyjamas | 2020 RMR", "lowest_price": "$0.03 USD", "volume": "392", "median_price": "$0.01 USD"}
+{"success": "Lambda", "lowest_price": "$0.86 USD", "volume": "45", "median_price": "$0.88 USD"}
+{"success": "Battle Scarred", "lowest_price": "$3.97 USD", "volume": "52", "median_price": "$4.01 USD"}
+{"success": "Salty (Holo)", "lowest_price": "$2.01 USD", "volume": "34", "median_price": "$2.09 USD"}
+{"success": "Badge of Service", "lowest_price": "$0.10 USD", "volume": "832", "median_price": "$0.10 USD"}
+{"success": "aliStair (Glitter) | Antwerp 2022", "lowest_price": "$0.04 USD", "volume": "3", "median_price": "$0.01 USD"}
+{"success": "FaZe Clan | Stockholm 2021", "lowest_price": "$0.12 USD", "volume": "112", "median_price": "$0.12 USD"}
+{"success": "woxic | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "63", "median_price": "$0.01 USD"}
+{"success": "FaNg | Paris 2023", "lowest_price": "$0.03 USD", "volume": "136", "median_price": "$0.01 USD"}
+{"success": "Heroic | 2020 RMR", "lowest_price": "$0.03 USD", "volume": "886", "median_price": "$0.01 USD"}
+{"success": "Natus Vincere | Antwerp 2022", "lowest_price": "$0.04 USD", "volume": "343", "median_price": "$0.04 USD"}
+{"success": "isak (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "60", "median_price": "$0.02 USD"}
+{"success": "Spinx (Champion) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "929", "median_price": "$0.01 USD"}
+{"success": "drop | Paris 2023", "lowest_price": "$0.03 USD", "volume": "62", "median_price": "$0.01 USD"}
+{"success": "Cbbl (Holo)", "lowest_price": "$1.65 USD", "volume": "88", "median_price": "$1.62 USD"}
+{"success": "FURIA | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "218", "median_price": "$0.01 USD"}
+{"success": "Basilisk", "lowest_price": "$1.43 USD", "volume": "20", "median_price": "$1.31 USD"}
+{"success": "Merietta", "lowest_price": "$0.15 USD", "volume": "119", "median_price": "$0.15 USD"}
+{"success": "TYLOO | 2020 RMR", "lowest_price": "$0.08 USD", "volume": "640", "median_price": "$0.07 USD"}
+{"success": "JT | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "17", "median_price": "$0.01 USD"}
+{"success": "Jerry | Paris 2023", "lowest_price": "$0.03 USD", "volume": "155", "median_price": "$0.01 USD"}
+{"success": "Enemy Spotted", "lowest_price": "$0.13 USD", "volume": "182", "median_price": "$0.13 USD"}
+{"success": "Hard Cluck Life (Foil)", "lowest_price": "$0.98 USD"}
+{"success": "broky (Glitter) | Rio 2022", "lowest_price": "$0.08 USD", "volume": "3", "median_price": "$0.04 USD"}
+{"success": "Nemiga | 2020 RMR", "lowest_price": "$0.08 USD", "volume": "615", "median_price": "$0.09 USD"}
+{"success": "Fast Banana", "lowest_price": "$0.88 USD", "volume": "49", "median_price": "$0.93 USD"}
+{"success": "sergej | Berlin 2019", "lowest_price": "$0.08 USD", "volume": "5", "median_price": "$0.07 USD"}
+{"success": "Nemiga (Holo) | 2020 RMR", "lowest_price": "$0.19 USD", "volume": "77", "median_price": "$0.19 USD"}
+{"success": "Friend Code", "lowest_price": "$0.11 USD", "volume": "59", "median_price": "$0.09 USD"}
+{"success": "Natus Vincere | Paris 2023", "lowest_price": "$0.03 USD", "volume": "2,676", "median_price": "$0.02 USD"}
+{"success": "Evil Geniuses (Holo) | Stockholm 2021", "lowest_price": "$0.97 USD", "volume": "45", "median_price": "$1.00 USD"}
+{"success": "This Is Fine (H)", "lowest_price": "$0.07 USD", "volume": "90", "median_price": "$0.06 USD"}
+{"success": "100 Thieves | 2020 RMR", "lowest_price": "$0.03 USD", "volume": "403", "median_price": "$0.01 USD"}
+{"success": "electronic | Paris 2023", "lowest_price": "$0.03 USD", "volume": "47", "median_price": "$0.01 USD"}
+{"success": "Sprout Esports | Rio 2022", "lowest_price": "$0.09 USD", "volume": "159", "median_price": "$0.09 USD"}
+{"success": "Vitality | Paris 2023", "lowest_price": "$0.03 USD", "volume": "2,609", "median_price": "$0.01 USD"}
+{"success": "Natus Vincere | 2020 RMR", "lowest_price": "$0.04 USD", "volume": "821", "median_price": "$0.02 USD"}
+{"success": "F1KU (Glitter) | Rio 2022", "lowest_price": "$0.09 USD", "volume": "6", "median_price": "$0.10 USD"}
+{"success": "Magisk (Glitter) | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "6", "median_price": "$0.02 USD"}
+{"success": "OG | Paris 2023", "lowest_price": "$0.03 USD", "volume": "1,318", "median_price": "$0.01 USD"}
+{"success": "The MongolZ (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "991", "median_price": "$0.01 USD"}
+{"success": "OG (Glitter) | Paris 2023", "lowest_price": "$0.04 USD", "volume": "272", "median_price": "$0.02 USD"}
+{"success": "felps | Paris 2023", "lowest_price": "$0.03 USD", "volume": "60", "median_price": "$0.01 USD"}
+{"success": "FaZe Clan (Glitter) | Paris 2023", "lowest_price": "$0.06 USD", "volume": "905", "median_price": "$0.04 USD"}
+{"success": "Fnatic | Rio 2022", "lowest_price": "$0.03 USD", "volume": "146", "median_price": "$0.01 USD"}
+{"success": "r3salt | Paris 2023", "lowest_price": "$0.03 USD", "volume": "250", "median_price": "$0.01 USD"}
+{"success": "torzsi | Paris 2023", "lowest_price": "$0.03 USD", "volume": "60", "median_price": "$0.04 USD"}
+{"success": "Broken Fang", "lowest_price": "$0.97 USD", "volume": "119", "median_price": "$1.02 USD"}
+{"success": "Dead Eye (Holo)", "lowest_price": "$10.50 USD", "volume": "4", "median_price": "$10.45 USD"}
+{"success": "Virtus.pro (Holo) | 2020 RMR", "lowest_price": "$0.17 USD", "volume": "79", "median_price": "$0.13 USD"}
+{"success": "Spirit | 2020 RMR", "lowest_price": "$0.06 USD", "volume": "889", "median_price": "$0.05 USD"}
+{"success": "BIG (Glitter) | Antwerp 2022", "lowest_price": "$0.06 USD", "volume": "32", "median_price": "$0.03 USD"}
+{"success": "Renegades | 2020 RMR", "lowest_price": "$0.03 USD", "volume": "347", "median_price": "$0.01 USD"}
+{"success": "Pain Train (Holo)", "lowest_price": "$0.34 USD", "volume": "38", "median_price": "$0.32 USD"}
+{"success": "NEOFRAG (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "9", "median_price": "$0.01 USD"}
+{"success": "Unicorn", "lowest_price": "$1.22 USD", "volume": "6", "median_price": "$1.10 USD"}
+{"success": "karrigan (Champion) | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "142", "median_price": "$0.02 USD"}
+{"success": "Evil Geniuses (Holo) | 2020 RMR", "lowest_price": "$0.06 USD", "volume": "413", "median_price": "$0.07 USD"}
+{"success": "Bad News Eagles (Glitter) | Paris 2023", "lowest_price": "$0.04 USD", "volume": "645", "median_price": "$0.02 USD"}
+{"success": "Bash (Holo)", "lowest_price": "$4.27 USD", "volume": "4", "median_price": "$3.16 USD"}
+{"success": "The MongolZ (Holo) | Paris 2023", "lowest_price": "$0.21 USD", "volume": "199", "median_price": "$0.21 USD"}
+{"success": "sk0R | Paris 2023", "lowest_price": "$0.03 USD", "volume": "220", "median_price": "$0.01 USD"}
+{"success": "KSCERATO | Stockholm 2021", "lowest_price": "$0.03 USD", "volume": "11", "median_price": "$0.01 USD"}
+{"success": "GODSENT | 2020 RMR", "lowest_price": "$0.04 USD", "volume": "100", "median_price": "$0.02 USD"}
+{"success": "PGL | Stockholm 2021", "lowest_price": "$0.04 USD", "volume": "635", "median_price": "$0.02 USD"}
+{"success": "FL1T | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "21", "median_price": "$0.04 USD"}
+{"success": "Stewie2K | Berlin 2019", "lowest_price": "$0.19 USD", "volume": "9", "median_price": "$0.19 USD"}
+{"success": "Liquid (Holo) | 2020 RMR", "lowest_price": "$0.30 USD", "volume": "107", "median_price": "$0.34 USD"}
+{"success": "Magisk (Champion) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "209", "median_price": "$0.01 USD"}
+{"success": "Aleksib | Berlin 2019", "lowest_price": "$0.10 USD", "volume": "8", "median_price": "$0.11 USD"}
+{"success": "Vitality | Rio 2022", "lowest_price": "$0.03 USD", "volume": "55", "median_price": "$0.01 USD"}
+{"success": "iM | Paris 2023", "lowest_price": "$0.03 USD", "volume": "82", "median_price": "$0.01 USD"}
+{"success": "Outsiders | Antwerp 2022", "lowest_price": "$0.05 USD", "volume": "416", "median_price": "$0.03 USD"}
+{"success": "ESPADA (Holo) | 2020 RMR", "lowest_price": "$0.07 USD", "volume": "79", "median_price": "$0.07 USD"}
+{"success": "Fancy Koi", "lowest_price": "$0.43 USD", "volume": "13", "median_price": "$0.40 USD"}
+{"success": "ENCE | Paris 2023", "lowest_price": "$0.03 USD", "volume": "1,983", "median_price": "$0.01 USD"}
+{"success": "RpK | Berlin 2019", "lowest_price": "$0.07 USD", "volume": "7", "median_price": "$0.05 USD"}
+{"success": "BIG | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "943", "median_price": "$0.01 USD"}
+{"success": "Coiled Strike", "lowest_price": "$0.41 USD", "volume": "111", "median_price": "$0.41 USD"}
+{"success": "Bad News Eagles | Paris 2023", "lowest_price": "$0.03 USD", "volume": "2,019", "median_price": "$0.01 USD"}
+{"success": "Web Stuck", "lowest_price": "$0.51 USD", "volume": "236", "median_price": "$0.50 USD"}
+{"success": "Greetings", "lowest_price": "$0.09 USD", "volume": "53", "median_price": "$0.08 USD"}
+{"success": "FURIA | Paris 2023", "lowest_price": "$0.03 USD", "volume": "1,498", "median_price": "$0.01 USD"}
+{"success": "MOUZ | Paris 2023", "lowest_price": "$0.03 USD", "volume": "2,002", "median_price": "$0.01 USD"}
+{"success": "MOUZ | Rio 2022", "lowest_price": "$0.03 USD", "volume": "380", "median_price": "$0.01 USD"}
+{"success": "FaZe Clan | Rio 2022", "lowest_price": "$0.04 USD", "volume": "162", "median_price": "$0.02 USD"}
+{"success": "Sharks Esports | Stockholm 2021", "lowest_price": "$0.05 USD", "volume": "266", "median_price": "$0.03 USD"}
+{"success": "Clutch Or Kick", "lowest_price": "$0.11 USD", "volume": "29", "median_price": "$0.11 USD"}
+{"success": "The MongolZ | Paris 2023", "lowest_price": "$0.03 USD", "volume": "2,160", "median_price": "$0.01 USD"}
+{"success": "The Guru", "lowest_price": "$0.29 USD", "volume": "15", "median_price": "$0.26 USD"}
+{"success": "Boombl4 | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "237", "median_price": "$0.02 USD"}
+{"success": "fnx | Antwerp 2022", "lowest_price": "$0.04 USD", "volume": "76", "median_price": "$0.03 USD"}
+{"success": "Spinx (Glitter) | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "15", "median_price": "$0.01 USD"}
+{"success": "Heresy", "lowest_price": "$0.55 USD", "volume": "14", "median_price": "$0.54 USD"}
+{"success": "kennyS | Cologne 2015", "lowest_price": "$12.50 USD", "volume": "4", "median_price": "$12.50 USD"}
+{"success": "FaZe | 2020 RMR", "lowest_price": "$0.16 USD", "volume": "465", "median_price": "$0.16 USD"}
+{"success": "Chief (Holo)", "lowest_price": "$0.51 USD", "volume": "14", "median_price": "$0.51 USD"}
+{"success": "BLAST.tv | Paris 2023", "lowest_price": "$0.03 USD", "volume": "6,104", "median_price": "$0.01 USD"}
+{"success": "9z Team | Antwerp 2022", "lowest_price": "$0.21 USD", "volume": "180", "median_price": "$0.20 USD"}
+{"success": "JOTA | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "18", "median_price": "$0.01 USD"}
+{"success": "Sherry", "lowest_price": "$0.39 USD", "volume": "103", "median_price": "$0.39 USD"}
+{"success": "ESPADA | 2020 RMR", "lowest_price": "$0.03 USD", "volume": "670", "median_price": "$0.01 USD"}
+{"success": "Vortigaunt the Painter", "lowest_price": "$0.04 USD", "volume": "25", "median_price": "$0.03 USD"}
+{"success": "Team Liquid (Glitter) | Paris 2023", "lowest_price": "$0.05 USD", "volume": "658", "median_price": "$0.03 USD"}
+{"success": "Spartan", "lowest_price": "$0.27 USD", "volume": "43", "median_price": "$0.27 USD"}
+{"success": "apEX | Cologne 2016", "lowest_price": "$7.37 USD"}
+{"success": "Brollan | Paris 2023", "lowest_price": "$0.03 USD", "volume": "96", "median_price": "$0.01 USD"}
+{"success": "Cheongsam (Holo)", "lowest_price": "$1.72 USD", "volume": "33", "median_price": "$1.57 USD"}
+{"success": "Spinx | Paris 2023", "lowest_price": "$0.03 USD", "volume": "34", "median_price": "$0.01 USD"}
+{"success": "Team Spirit (Glitter) | Antwerp 2022", "lowest_price": "$0.46 USD", "volume": "30", "median_price": "$0.46 USD"}
+{"success": "boltz | Antwerp 2022", "lowest_price": "$0.04 USD", "volume": "58", "median_price": "$0.02 USD"}
+{"success": "broky (Champion) | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "51", "median_price": "$0.01 USD"}
+{"success": "Imperial Esports | Rio 2022", "lowest_price": "$0.03 USD", "volume": "73", "median_price": "$0.04 USD"}
+{"success": "Fluxo (Glitter) | Paris 2023", "lowest_price": "$0.06 USD", "volume": "940", "median_price": "$0.05 USD"}
+{"success": "Grayhound Gaming | Paris 2023", "lowest_price": "$0.03 USD", "volume": "2,959", "median_price": "$0.01 USD"}
+{"success": "Norwi | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "10", "median_price": "$0.01 USD"}
+{"success": "Bosh (Holo)", "lowest_price": "$3.84 USD", "volume": "5", "median_price": "$3.84 USD"}
+{"success": "CeRq | Rio 2022", "lowest_price": "$0.13 USD", "volume": "38", "median_price": "$0.13 USD"}
+{"success": "Speedy T", "lowest_price": "$0.29 USD", "volume": "12", "median_price": "$0.25 USD"}
+{"success": "Eternal Fire | Antwerp 2022", "lowest_price": "$0.09 USD", "volume": "334", "median_price": "$0.09 USD"}
+{"success": "PAC AI", "lowest_price": "$0.31 USD", "volume": "18", "median_price": "$0.34 USD"}
+{"success": "Shaolin", "lowest_price": "$0.24 USD", "volume": "12", "median_price": "$0.25 USD"}
+{"success": "Not For Resale", "lowest_price": "$0.06 USD", "volume": "136", "median_price": "$0.06 USD"}
+{"success": "100 Thieves (Holo) | 2020 RMR", "lowest_price": "$0.09 USD", "volume": "175", "median_price": "$0.09 USD"}
+{"success": "MIBR | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "73", "median_price": "$0.01 USD"}
+{"success": "G2 (Holo) | 2020 RMR", "lowest_price": "$0.32 USD", "volume": "35", "median_price": "$0.30 USD"}
+{"success": "Green Gnar", "lowest_price": "$0.49 USD", "volume": "10", "median_price": "$0.32 USD"}
+{"success": "Green Swallow", "lowest_price": "$0.38 USD", "volume": "5", "median_price": "$0.39 USD"}
+{"success": "G2 Esports (Glitter) | Antwerp 2022", "lowest_price": "$0.31 USD", "volume": "9", "median_price": "$0.32 USD"}
+{"success": "Lucky | Berlin 2019", "lowest_price": "$0.89 USD", "volume": "124", "median_price": "$0.90 USD"}
+{"success": "Cloud9 | Antwerp 2022", "lowest_price": "$0.06 USD", "volume": "294", "median_price": "$0.05 USD"}
+{"success": "Supreme Master First Class", "lowest_price": "$0.07 USD", "volume": "25", "median_price": "$0.09 USD"}
+{"success": "Boom (Holo) | 2020 RMR", "lowest_price": "$0.19 USD", "volume": "93", "median_price": "$0.15 USD"}
+{"success": "Ninjas in Pyjamas | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "259", "median_price": "$0.01 USD"}
+{"success": "Operation Riptide", "lowest_price": "$0.23 USD", "volume": "11", "median_price": "$0.21 USD"}
+{"success": "PGL | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "434", "median_price": "$0.01 USD"}
+{"success": "North | 2020 RMR", "lowest_price": "$0.03 USD", "volume": "257", "median_price": "$0.02 USD"}
+{"success": "xseveN | Berlin 2019", "lowest_price": "$0.08 USD", "volume": "16", "median_price": "$0.06 USD"}
+{"success": "Mastermind (Holo)", "lowest_price": "$0.52 USD", "volume": "71", "median_price": "$0.53 USD"}
+{"success": "Rush More", "lowest_price": "$0.24 USD", "volume": "117", "median_price": "$0.23 USD"}
+{"success": "s1mple | Stockholm 2021", "lowest_price": "$0.07 USD", "volume": "392", "median_price": "$0.06 USD"}
+{"success": "Virtus.Pro | Cologne 2015", "lowest_price": "$3.25 USD", "volume": "8", "median_price": "$3.46 USD"}
+{"success": "Nice Shot", "lowest_price": "$1.70 USD", "volume": "7", "median_price": "$1.68 USD"}
+{"success": "Boom | 2020 RMR", "lowest_price": "$0.03 USD", "volume": "231", "median_price": "$0.01 USD"}
+{"success": "Zeus | Berlin 2019", "lowest_price": "$0.11 USD", "volume": "57", "median_price": "$0.10 USD"}
+{"success": "FURIA (Holo) | 2020 RMR", "lowest_price": "$0.13 USD", "volume": "142", "median_price": "$0.13 USD"}
+{"success": "shox | Berlin 2019", "lowest_price": "$0.11 USD", "volume": "7", "median_price": "$0.10 USD"}
+{"success":"Operation Riptide","lowest_price":"$0.23 USD","volume":"11","median_price":"$0.21 USD"}
+{"success": "yuurih (Holo) | Stockholm 2021", "lowest_price": "$0.47 USD", "volume": "3", "median_price": "$0.37 USD"}
+{"success": "Stalking Prey", "lowest_price": "$0.26 USD", "volume": "85", "median_price": "$0.25 USD"}
+{"success": "Dragon's Keep", "lowest_price": "$0.05 USD", "volume": "46", "median_price": "$0.04 USD"}
+{"success": "Twistzz (Champion) | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "61", "median_price": "$0.01 USD"}
+{"success": "LETN1 | Berlin 2019", "lowest_price": "$0.11 USD", "volume": "3", "median_price": "$0.13 USD"}
+{"success": "paiN Gaming | Paris 2023", "lowest_price": "$0.03 USD", "volume": "1,322", "median_price": "$0.01 USD"}
+{"success": "Mastermind", "lowest_price": "$0.13 USD", "volume": "105", "median_price": "$0.14 USD"}
+{"success": "100 Thieves (Foil) | 2020 RMR", "lowest_price": "$0.23 USD", "volume": "36", "median_price": "$0.22 USD"}
+{"success": "Evil Geniuses (Gold) | 2020 RMR", "lowest_price": "$1.22 USD", "volume": "7", "median_price": "$0.96 USD"}
+{"success": "Thomas (Glitter) | Paris 2023", "lowest_price": "$0.04 USD", "volume": "39", "median_price": "$0.02 USD"}
+{"success": "Into The Breach | Paris 2023", "lowest_price": "$0.03 USD", "volume": "42,864", "median_price": "$0.01 USD"}
+{"success": "Natus Vincere (Glitter) | Paris 2023", "lowest_price": "$0.09 USD", "volume": "407", "median_price": "$0.08 USD"}
+{"success": "Copenhagen Flames | Antwerp 2022", "lowest_price": "$0.04 USD", "volume": "274", "median_price": "$0.03 USD"}
+{"success": "fer | Antwerp 2022", "lowest_price": "$0.04 USD", "volume": "27", "median_price": "$0.01 USD"}
+{"success": "imoRR | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "13", "median_price": "$0.03 USD"}
+{"success": "karrigan (Glitter) | Paris 2023", "lowest_price": "$0.04 USD", "volume": "28", "median_price": "$0.04 USD"}
+{"success": "Vitality | 2020 RMR", "lowest_price": "$0.03 USD", "volume": "585", "median_price": "$0.01 USD"}
+{"success": "Vitality | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "461", "median_price": "$0.01 USD"}
+{"success": "Kawaii Killer CT", "lowest_price": "$1.15 USD", "volume": "41", "median_price": "$1.12 USD"}
+{"success": "REZ | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "14", "median_price": "$0.01 USD"}
+{"success": "FURIA | 2020 RMR", "lowest_price": "$0.03 USD", "volume": "841", "median_price": "$0.01 USD"}
+{"success": "Free Hugs", "lowest_price": "$0.71 USD", "volume": "55", "median_price": "$0.71 USD"}
+{"success": "Too Late", "lowest_price": "$0.06 USD", "volume": "55", "median_price": "$0.04 USD"}
+{"success": "Team Liquid | Stockholm 2021", "lowest_price": "$0.04 USD", "volume": "390", "median_price": "$0.02 USD"}
+{"success": "Cloud9 | Katowice 2019", "lowest_price": "$2.01 USD", "volume": "3", "median_price": "$1.82 USD"}
+{"success": "Evil Geniuses | 2020 RMR", "lowest_price": "$0.03 USD", "volume": "494", "median_price": "$0.01 USD"}
+{"success": "9INE | Paris 2023", "lowest_price": "$0.03 USD", "volume": "1,509", "median_price": "$0.01 USD"}
+{"success": "slaxz- | Rio 2022", "lowest_price": "$0.09 USD", "volume": "23", "median_price": "$0.05 USD"}
+{"success": "Xyp9x | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "25", "median_price": "$0.01 USD"}
+{"success": "Magisk | Paris 2023", "lowest_price": "$0.03 USD", "volume": "114", "median_price": "$0.01 USD"}
+{"success": "Astralis | 2020 RMR", "lowest_price": "$0.05 USD", "volume": "252", "median_price": "$0.03 USD"}
+{"success": "Ninjas in Pyjamas | Paris 2023", "lowest_price": "$0.03 USD", "volume": "836", "median_price": "$0.01 USD"}
+{"success": "saffee | Paris 2023", "lowest_price": "$0.03 USD", "volume": "46", "median_price": "$0.01 USD"}
+{"success": "G2 Esports | Paris 2023", "lowest_price": "$0.03 USD", "volume": "1,246", "median_price": "$0.01 USD"}
+{"success": "Baby Fire Serpent", "lowest_price": "$0.15 USD", "volume": "43", "median_price": "$0.15 USD"}
+{"success": "Ninjas in Pyjamas | Cologne 2014", "lowest_price": "$5.69 USD", "volume": "1", "median_price": "$4.94 USD"}
+{"success": "GamerLegion | Paris 2023", "lowest_price": "$0.03 USD", "volume": "1,813", "median_price": "$0.01 USD"}
+{"success": "Cloud9 | Krakow 2017", "lowest_price": "$2.09 USD", "volume": "1", "median_price": "$1.88 USD"}
+{"success": "Ninjas in Pyjamas | Stockholm 2021", "lowest_price": "$0.03 USD", "volume": "169", "median_price": "$0.01 USD"}
+{"success": "EliGE | Berlin 2019", "lowest_price": "$0.14 USD", "volume": "5", "median_price": "$0.14 USD"}
+{"success": "Good Versus Evil", "lowest_price": "$0.39 USD", "volume": "63", "median_price": "$0.38 USD"}
+{"success": "ZywOo | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "12", "median_price": "$0.01 USD"}
+{"success": "apEX (Champion) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "233", "median_price": "$0.01 USD"}
+{"success": "Global Elite", "lowest_price": "$0.40 USD", "volume": "49", "median_price": "$0.33 USD"}
+{"success": "Virtus.pro | 2020 RMR", "lowest_price": "$0.03 USD", "volume": "756", "median_price": "$0.02 USD"}
+{"success": "Ancient Protector", "lowest_price": "$0.11 USD", "volume": "157", "median_price": "$0.10 USD"}
+{"success": "Fluxo | Paris 2023", "lowest_price": "$0.03 USD", "volume": "2,738", "median_price": "$0.01 USD"}
+{"success": "rain (Champion) | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "55", "median_price": "$0.01 USD"}
+{"success": "ropz (Champion) | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "2,161", "median_price": "$0.03 USD"}
+{"success": "Exo Jumper", "lowest_price": "$0.05 USD", "volume": "74", "median_price": "$0.03 USD"}
+{"success": "Jerry | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "3", "median_price": "$0.01 USD"}
+{"success": "exit (Glitter) | Antwerp 2022", "lowest_price": "$0.07 USD", "volume": "21", "median_price": "$0.03 USD"}
+{"success": "ISSAA | Berlin 2019", "lowest_price": "$0.10 USD", "volume": "17", "median_price": "$0.11 USD"}
+{"success": "BLAST.tv (Holo) | Paris 2023", "lowest_price": "$0.08 USD", "volume": "260", "median_price": "$0.06 USD"}
+{"success": "FaZe Clan | Paris 2023", "lowest_price": "$0.03 USD", "volume": "5,378", "median_price": "$0.01 USD"}
+{"success": "Twistzz (Glitter) | Paris 2023", "lowest_price": "$0.04 USD", "volume": "25", "median_price": "$0.03 USD"}
+{"success": "Vitality (Holo) | 2020 RMR", "lowest_price": "$0.07 USD", "volume": "215", "median_price": "$0.05 USD"}
+{"success": "Gen.G | 2020 RMR", "lowest_price": "$0.03 USD", "volume": "435", "median_price": "$0.01 USD"}
+{"success": "qikert | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "16", "median_price": "$0.04 USD"}
+{"success": "Fnatic | Paris 2023", "lowest_price": "$0.03 USD", "volume": "2,604", "median_price": "$0.01 USD"}
+{"success": "s1mple | Paris 2023", "lowest_price": "$0.10 USD", "volume": "87", "median_price": "$0.07 USD"}
+{"success": "FURIA (Glitter) | Paris 2023", "lowest_price": "$0.06 USD", "volume": "486", "median_price": "$0.04 USD"}
+{"success": "Fnatic | 2020 RMR", "lowest_price": "$0.04 USD", "volume": "322", "median_price": "$0.02 USD"}
+{"success": "zevy | Paris 2023", "lowest_price": "$0.03 USD", "volume": "55", "median_price": "$0.01 USD"}
+{"success": "rain (Glitter) | Rio 2022", "lowest_price": "$0.21 USD", "volume": "2", "median_price": "$0.19 USD"}
+{"success": "Bite Me (Foil)", "lowest_price": "$1.42 USD", "volume": "6", "median_price": "$1.12 USD"}
+{"success": "Rice Bomb", "lowest_price": "$0.11 USD", "volume": "11", "median_price": "$0.10 USD"}
+{"success": "Arms Race", "lowest_price": "$0.06 USD", "volume": "64", "median_price": "$0.04 USD"}
+{"success": "pashaBiceps | Krakow 2017", "lowest_price": "$6.82 USD", "volume": "1", "median_price": "$5.42 USD"}
+{"success": "Hello AUG", "lowest_price": "$0.57 USD", "volume": "10", "median_price": "$0.52 USD"}
+{"success": "Stone Scales", "lowest_price": "$0.20 USD", "volume": "102", "median_price": "$0.24 USD"}
+{"success": "Heroic | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "154", "median_price": "$0.04 USD"}
+{"success": "Gnome Mercy", "lowest_price": "$0.11 USD", "volume": "67", "median_price": "$0.12 USD"}
+{"success": "G2 Esports | Stockholm 2021", "lowest_price": "$0.04 USD", "volume": "130", "median_price": "$0.02 USD"}
+{"success": "syrsoN | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "15", "median_price": "$0.01 USD"}
+{"success": "Complexity Gaming | Paris 2023", "lowest_price": "$0.03 USD", "volume": "1,883", "median_price": "$0.01 USD"}
+{"success": "Mahjong Fa", "lowest_price": "$0.78 USD", "volume": "7", "median_price": "$0.74 USD"}
+{"success": "Heroic | Paris 2023", "lowest_price": "$0.03 USD", "volume": "2,067", "median_price": "$0.01 USD"}
+{"success": "Dreams And Mimics", "lowest_price": "$0.07 USD", "volume": "92", "median_price": "$0.06 USD"}
+{"success": "WOOD7 | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "12", "median_price": "$0.01 USD"}
+{"success": "Silver", "lowest_price": "$0.32 USD", "volume": "40", "median_price": "$0.33 USD"}
+{"success": "9INE (Glitter) | Paris 2023", "lowest_price": "$0.09 USD", "volume": "409", "median_price": "$0.07 USD"}
+{"success": "Aztec", "lowest_price": "$0.09 USD", "volume": "61", "median_price": "$0.09 USD"}
+{"success": "frozen | Paris 2023", "lowest_price": "$0.03 USD", "volume": "52", "median_price": "$0.01 USD"}
+{"success": "Apeks | Paris 2023", "lowest_price": "$0.03 USD", "volume": "1,090", "median_price": "$0.01 USD"}
+{"success": "Chief", "lowest_price": "$0.16 USD", "volume": "50", "median_price": "$0.16 USD"}
+{"success": "juanflatroo | Paris 2023", "lowest_price": "$0.03 USD", "volume": "36", "median_price": "$0.04 USD"}
+{"success": "Thomas | Paris 2023", "lowest_price": "$0.03 USD", "volume": "36", "median_price": "$0.01 USD"}
+{"success": "mezii | Paris 2023", "lowest_price": "$0.03 USD", "volume": "13", "median_price": "$0.01 USD"}
+{"success": "KEi | Paris 2023", "lowest_price": "$0.03 USD", "volume": "53", "median_price": "$0.03 USD"}
+{"success": "t0rick | Berlin 2019", "lowest_price": "$0.24 USD", "volume": "2", "median_price": "$0.18 USD"}
+{"success": "OG (Holo) | 2020 RMR", "lowest_price": "$0.17 USD", "volume": "123", "median_price": "$0.15 USD"}
+{"success": "BIG | 2020 RMR", "lowest_price": "$0.03 USD", "volume": "645", "median_price": "$0.01 USD"}
+{"success": "allu (Foil) | Berlin 2019", "lowest_price": "$0.41 USD", "volume": "4", "median_price": "$0.43 USD"}
+{"success": "Liazz | Berlin 2019", "lowest_price": "$0.10 USD", "volume": "6", "median_price": "$0.09 USD"}
+{"success": "SANJI | Berlin 2019", "lowest_price": "$0.09 USD", "volume": "13", "median_price": "$0.06 USD"}
+{"success": "exit | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "40", "median_price": "$0.04 USD"}
+{"success": "chelo | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "28", "median_price": "$0.01 USD"}
+{"success": "FaZe (Holo) | 2020 RMR", "lowest_price": "$0.52 USD", "volume": "50", "median_price": "$0.51 USD"}
+{"success": "Don't Worry, I'm Pro", "lowest_price": "$1.16 USD", "volume": "4", "median_price": "$1.15 USD"}
+{"success": "cadiaN | Rio 2022", "lowest_price": "$0.09 USD", "volume": "41", "median_price": "$0.07 USD"}
+{"success": "S1ren (Glitter) | Rio 2022", "lowest_price": "$0.08 USD", "volume": "16", "median_price": "$0.06 USD"}
+{"success": "NAF (Glitter) | Rio 2022", "lowest_price": "$0.07 USD", "volume": "2", "median_price": "$0.05 USD"}
+{"success": "degster (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "6", "median_price": "$0.01 USD"}
+{"success": "NiKo | Paris 2023", "lowest_price": "$0.05 USD", "volume": "166", "median_price": "$0.04 USD"}
+{"success": "Monster", "lowest_price": "$0.10 USD", "volume": "144", "median_price": "$0.10 USD"}
+{"success": "Heroic (Glitter) | Antwerp 2022", "lowest_price": "$0.12 USD", "volume": "44", "median_price": "$0.11 USD"}
+{"success": "Outsiders (Glitter) | Antwerp 2022", "lowest_price": "$0.17 USD", "volume": "52", "median_price": "$0.19 USD"}
+{"success": "Master Guardian", "lowest_price": "$0.08 USD", "volume": "28", "median_price": "$0.06 USD"}
+{"success": "NertZ | Paris 2023", "lowest_price": "$0.03 USD", "volume": "175", "median_price": "$0.01 USD"}
+{"success": "The Leader", "lowest_price": "$0.69 USD", "volume": "7", "median_price": "$0.69 USD"}
+{"success": "The Ninja", "lowest_price": "$0.94 USD", "volume": "10", "median_price": "$0.79 USD"}
+{"success": "Support", "lowest_price": "$0.66 USD", "volume": "8", "median_price": "$0.69 USD"}
+{"success": "The Fragger", "lowest_price": "$0.84 USD", "volume": "10", "median_price": "$0.86 USD"}
+{"success": "FaZe Clan (Holo) | Katowice 2019", "lowest_price": "$6.47 USD"}
+{"success": "Gold Nova", "lowest_price": "$1.79 USD", "volume": "18", "median_price": "$1.79 USD"}
+{"success": "Roosty Boosty", "lowest_price": "$0.17 USD", "volume": "3", "median_price": "$0.19 USD"}
+{"success": "gob b | London 2018", "lowest_price": "$1.03 USD"}
+{"success": "Twin Koi (Holo)", "lowest_price": "$1.23 USD", "volume": "39", "median_price": "$1.23 USD"}
+{"success": "Into The Breach (Glitter) | Paris 2023", "lowest_price": "$0.08 USD", "volume": "5,102", "median_price": "$0.07 USD"}
+{"success": "Counter-Tech", "lowest_price": "$0.25 USD", "volume": "72", "median_price": "$0.25 USD"}
+{"success": "ENCE | Stockholm 2021", "lowest_price": "$0.04 USD", "volume": "53", "median_price": "$0.02 USD"}
+{"success": "Dycha | Paris 2023", "lowest_price": "$0.03 USD", "volume": "103", "median_price": "$0.01 USD"}
+{"success": "acoR | Paris 2023", "lowest_price": "$0.03 USD", "volume": "156", "median_price": "$0.01 USD"}
+{"success": "F1KU | Paris 2023", "lowest_price": "$0.03 USD", "volume": "443", "median_price": "$0.01 USD"}
+{"success": "Poorly Drawn FBI", "lowest_price": "$0.34 USD", "volume": "5", "median_price": "$0.31 USD"}
+{"success": "Natus Vincere | Stockholm 2021", "lowest_price": "$0.06 USD", "volume": "223", "median_price": "$0.07 USD"}
+{"success": "Tuurtle | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "10", "median_price": "$0.01 USD"}
+{"success": "luken (Glitter) | Antwerp 2022", "lowest_price": "$0.31 USD", "volume": "6", "median_price": "$0.30 USD"}
+{"success": "G2 Esports | Katowice 2019", "lowest_price": "$3.04 USD"}
+{"success": "Perfecto | Berlin 2019", "lowest_price": "$0.18 USD", "volume": "1", "median_price": "$0.17 USD"}
+{"success": "tarik | Berlin 2019", "lowest_price": "$0.15 USD", "volume": "3", "median_price": "$0.16 USD"}
+{"success": "Miami Buttery (Holo)", "lowest_price": "$11.56 USD", "volume": "1", "median_price": "$11.15 USD"}
+{"success": "Complexity Gaming (Holo) | Antwerp 2022", "lowest_price": "$2.07 USD", "volume": "30", "median_price": "$2.02 USD"}
+{"success": "Phoenix (Foil)", "lowest_price": "$3.49 USD", "volume": "1", "median_price": "$3.48 USD"}
+{"success": "Complexity Gaming (Holo) | Paris 2023", "lowest_price": "$0.62 USD", "volume": "135", "median_price": "$0.61 USD"}
+{"success": "Firestarter (Holo)", "lowest_price": "$4.80 USD", "volume": "6", "median_price": "$4.82 USD"}
+{"success": "Ninjas in Pyjamas (Glitter) | Antwerp 2022", "lowest_price": "$0.09 USD", "volume": "48", "median_price": "$0.06 USD"}
+{"success": "FL1T (Glitter) | Antwerp 2022", "lowest_price": "$0.10 USD", "volume": "4", "median_price": "$0.10 USD"}
+{"success": "Krad (Glitter) | Paris 2023", "lowest_price": "$0.04 USD", "volume": "96", "median_price": "$0.02 USD"}
+{"success": "Vitality (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "476", "median_price": "$0.01 USD"}
+{"success": "apEX (Glitter, Champion) | Paris 2023", "lowest_price": "$0.04 USD", "volume": "722", "median_price": "$0.03 USD"}
+{"success": "dupreeh (Glitter, Champion) | Paris 2023", "lowest_price": "$0.04 USD", "volume": "673", "median_price": "$0.03 USD"}
+{"success": "Natus Vincere (Holo) | 2020 RMR", "lowest_price": "$0.26 USD", "volume": "207", "median_price": "$0.26 USD"}
+{"success": "Fnatic | Cologne 2015", "lowest_price": "$2.72 USD", "volume": "3", "median_price": "$2.74 USD"}
+{"success": "Grim | Paris 2023", "lowest_price": "$0.03 USD", "volume": "84", "median_price": "$0.01 USD"}
+{"success": "Kawaii T (Holo)", "lowest_price": "$9.03 USD", "volume": "33", "median_price": "$8.88 USD"}
+{"success": "Complexity Gaming (Glitter) | Antwerp 2022", "lowest_price": "$0.26 USD", "volume": "40", "median_price": "$0.25 USD"}
+{"success": "Pure Malt (Foil)", "lowest_price": "$0.64 USD", "volume": "19", "median_price": "$0.65 USD"}
+{"success": "My Other Awp", "lowest_price": "$0.82 USD", "volume": "6", "median_price": "$0.75 USD"}
+{"success": "Kimberly", "lowest_price": "$2.90 USD", "volume": "198", "median_price": "$2.93 USD"}
+{"success": "Separate Pixels", "lowest_price": "$0.08 USD", "volume": "63", "median_price": "$0.06 USD"}
+{"success": "s1mple (Holo) | Stockholm 2021", "lowest_price": "$1.64 USD", "volume": "43", "median_price": "$1.65 USD"}
+{"success": "Natus Vincere (Glitter) | Antwerp 2022", "lowest_price": "$0.23 USD", "volume": "41", "median_price": "$0.22 USD"}
+{"success": "FaZe Clan (Glitter) | Antwerp 2022", "lowest_price": "$0.37 USD", "volume": "51", "median_price": "$0.34 USD"}
+{"success": "Purrurists (Foil)", "lowest_price": "$8.44 USD", "volume": "10", "median_price": "$9.09 USD"}
+{"success": "forZe eSports | Paris 2023", "lowest_price": "$0.03 USD", "volume": "844", "median_price": "$0.01 USD"}
+{"success": "Spectators", "lowest_price": "$0.08 USD", "volume": "84", "median_price": "$0.06 USD"}
+{"success": "Complexity Gaming | Antwerp 2022", "lowest_price": "$0.04 USD", "volume": "109", "median_price": "$0.02 USD"}
+{"success": "Zeused", "lowest_price": "$0.30 USD", "volume": "69", "median_price": "$0.39 USD"}
+{"success": "Explosive Strength", "lowest_price": "$0.06 USD", "volume": "115", "median_price": "$0.06 USD"}
+{"success": "Knife's Edge", "lowest_price": "$0.04 USD", "volume": "199", "median_price": "$0.02 USD"}
+{"success": "Gambit Gaming | Stockholm 2021", "lowest_price": "$0.04 USD", "volume": "1,017", "median_price": "$0.03 USD"}
+{"success": "hampus | Stockholm 2021", "lowest_price": "$0.03 USD", "volume": "8", "median_price": "$0.01 USD"}
+{"success": "JDC | Paris 2023", "lowest_price": "$0.03 USD", "volume": "146", "median_price": "$0.01 USD"}
+{"success": "Jame (Glitter, Champion) | Rio 2022", "lowest_price": "$0.09 USD", "volume": "14", "median_price": "$0.08 USD"}
+{"success": "XANTARES | Antwerp 2022", "lowest_price": "$0.12 USD", "volume": "70", "median_price": "$0.12 USD"}
+{"success": "jks | Berlin 2019", "lowest_price": "$0.30 USD", "volume": "5", "median_price": "$0.28 USD"}
+{"success": "dupreeh (Champion) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "184", "median_price": "$0.01 USD"}
+{"success": "ZywOo (Champion) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "140", "median_price": "$0.01 USD"}
+{"success": "OG | 2020 RMR", "lowest_price": "$0.03 USD", "volume": "196", "median_price": "$0.01 USD"}
+{"success": "qikert (Champion) | Rio 2022", "lowest_price": "$0.03 USD", "volume": "56", "median_price": "$0.02 USD"}
+{"success": "Grim (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "12", "median_price": "$0.01 USD"}
+{"success": "Broken Fang (Holo)", "lowest_price": "$1.39 USD", "volume": "45", "median_price": "$1.30 USD"}
+{"success": "Rush 4x20 (Holo)", "lowest_price": "$1.86 USD", "volume": "12", "median_price": "$1.85 USD"}
+{"success": "volt | Paris 2023", "lowest_price": "$0.03 USD", "volume": "36", "median_price": "$0.01 USD"}
+{"success": "CRUC1AL | Paris 2023", "lowest_price": "$0.03 USD", "volume": "94", "median_price": "$0.01 USD"}
+{"success": "Poorly Drawn SAS", "lowest_price": "$0.57 USD", "volume": "14", "median_price": "$0.60 USD"}
+{"success": "kinqie | Berlin 2019", "lowest_price": "$0.23 USD", "volume": "4", "median_price": "$0.21 USD"}
+{"success": "FURIA (Glitter) | Antwerp 2022", "lowest_price": "$0.10 USD", "volume": "41", "median_price": "$0.10 USD"}
+{"success": "MOUZ (Glitter) | Paris 2023", "lowest_price": "$0.06 USD", "volume": "1,064", "median_price": "$0.04 USD"}
+{"success": "Call Your Flashes", "lowest_price": "$0.18 USD", "volume": "84", "median_price": "$0.18 USD"}
+{"success": "C-S On The Go", "lowest_price": "$0.05 USD", "volume": "97", "median_price": "$0.04 USD"}
+{"success": "Green's Problem", "lowest_price": "$0.59 USD", "volume": "77", "median_price": "$0.59 USD"}
+{"success": "ZywOo (Glitter, Champion) | Paris 2023", "lowest_price": "$0.05 USD", "volume": "97", "median_price": "$0.03 USD"}
+{"success": "G2 Esports (Foil) | Stockholm 2021", "lowest_price": "$2.38 USD", "volume": "4", "median_price": "$2.10 USD"}
+{"success": "Grayhound Gaming (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "669", "median_price": "$0.01 USD"}
+{"success": "Dessert Eagle", "lowest_price": "$0.17 USD", "volume": "8", "median_price": "$0.24 USD"}
+{"success": "Plopski (Holo) | Antwerp 2022", "lowest_price": "$0.40 USD", "volume": "1", "median_price": "$0.40 USD"}
+{"success": "Team Spirit | Antwerp 2022", "lowest_price": "$0.04 USD", "volume": "183", "median_price": "$0.02 USD"}
+{"success": "m0NESY | Paris 2023", "lowest_price": "$0.06 USD", "volume": "146", "median_price": "$0.04 USD"}
+{"success": "arT | Paris 2023", "lowest_price": "$0.03 USD", "volume": "33", "median_price": "$0.01 USD"}
+{"success": "Last Vance", "lowest_price": "$0.05 USD", "volume": "49", "median_price": "$0.03 USD"}
+{"success": "Aim And Fire", "lowest_price": "$0.03 USD", "volume": "165", "median_price": "$0.03 USD"}
+{"success": "Run T, Run", "lowest_price": "$0.11 USD", "volume": "116", "median_price": "$0.12 USD"}
+{"success": "dexter (Glitter) | Paris 2023", "lowest_price": "$0.10 USD", "volume": "73", "median_price": "$0.09 USD"}
+{"success": "sinnopsyy | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "9", "median_price": "$0.01 USD"}
+{"success": "SunPayus | Paris 2023", "lowest_price": "$0.03 USD", "volume": "35", "median_price": "$0.03 USD"}
+{"success": "maden (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "16", "median_price": "$0.01 USD"}
+{"success": "aliStair | Paris 2023", "lowest_price": "$0.03 USD", "volume": "63", "median_price": "$0.01 USD"}
+{"success": "FalleN (Foil) | Berlin 2019", "lowest_price": "$1.58 USD", "volume": "3", "median_price": "$1.48 USD"}
+{"success": "stavn | Rio 2022", "lowest_price": "$0.03 USD", "volume": "20", "median_price": "$0.03 USD"}
+{"success": "maden | Rio 2022", "lowest_price": "$0.03 USD", "volume": "6", "median_price": "$0.02 USD"}
+{"success": "REZ | Rio 2022", "lowest_price": "$0.07 USD", "volume": "14", "median_price": "$0.03 USD"}
+{"success": "nafany | Rio 2022", "lowest_price": "$0.11 USD", "volume": "4", "median_price": "$0.09 USD"}
+{"success": "FL1T (Champion) | Rio 2022", "lowest_price": "$0.03 USD", "volume": "26", "median_price": "$0.01 USD"}
+{"success": "Master Guardian (Holo)", "lowest_price": "$0.53 USD", "volume": "24", "median_price": "$0.55 USD"}
+{"success": "Master Guardian Elite (Holo)", "lowest_price": "$0.80 USD", "volume": "15", "median_price": "$0.80 USD"}
+{"success": "ENCE (Holo) | Berlin 2019", "lowest_price": "$0.37 USD", "volume": "10", "median_price": "$0.35 USD"}
+{"success": "Master Guardian Elite", "lowest_price": "$0.15 USD", "volume": "40", "median_price": "$0.15 USD"}
+{"success": "Aerial (Foil) | Berlin 2019", "lowest_price": "$0.37 USD", "volume": "2", "median_price": "$0.37 USD"}
+{"success": "biguzera (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "5", "median_price": "$0.01 USD"}
+{"success": "refrezh (Holo) | Stockholm 2021", "lowest_price": "$0.27 USD", "volume": "5", "median_price": "$0.25 USD"}
+{"success": "Nuke Beast", "lowest_price": "$0.19 USD", "volume": "69", "median_price": "$0.19 USD"}
+{"success": "Bad News Eagles (Holo) | Paris 2023", "lowest_price": "$0.19 USD", "volume": "152", "median_price": "$0.22 USD"}
+{"success": "Dust FA (Foil)", "lowest_price": "$3.10 USD", "volume": "2", "median_price": "$2.93 USD"}
+{"success": "Twistzz (Glitter, Champion) | Antwerp 2022", "lowest_price": "$0.09 USD", "volume": "32", "median_price": "$0.07 USD"}
+{"success": "Press Start", "lowest_price": "$0.06 USD", "volume": "100", "median_price": "$0.03 USD"}
+{"success": "Noodles", "lowest_price": "$0.14 USD", "volume": "9", "median_price": "$0.16 USD"}
+{"success": "Outsiders (Glitter) | Rio 2022", "lowest_price": "$0.12 USD", "volume": "21", "median_price": "$0.11 USD"}
+{"success": "GO", "lowest_price": "$1.12 USD", "volume": "100", "median_price": "$2.03 USD"}
+{"success": "OG | Rio 2022", "lowest_price": "$0.03 USD", "volume": "134", "median_price": "$0.01 USD"}
+{"success": "Wallbang", "lowest_price": "$0.25 USD", "volume": "14", "median_price": "$0.20 USD"}
+{"success": "Repulsor", "lowest_price": "$0.17 USD", "volume": "13", "median_price": "$0.19 USD"}
+{"success": "Combine Helmet", "lowest_price": "$0.20 USD", "volume": "54", "median_price": "$0.20 USD"}
+{"success": "Complexity Gaming (Glitter) | Paris 2023", "lowest_price": "$0.05 USD", "volume": "635", "median_price": "$0.03 USD"}
+{"success": "felps (Foil) | Katowice 2019", "lowest_price": "$2.14 USD"}
+{"success": "Flickshot", "lowest_price": "$1.10 USD", "volume": "7", "median_price": "$1.11 USD"}
+{"success": "REZ | Paris 2023", "lowest_price": "$0.03 USD", "volume": "85", "median_price": "$0.01 USD"}
+{"success": "Staehr (Glitter) | Rio 2022", "lowest_price": "$0.07 USD", "volume": "3", "median_price": "$0.05 USD"}
+{"success": "The Lurker", "lowest_price": "$0.62 USD", "volume": "12", "median_price": "$0.63 USD"}
+{"success": "Small Arms (Holo)", "lowest_price": "$1.68 USD", "volume": "2", "median_price": "$1.49 USD"}
+{"success": "First Blood", "lowest_price": "$4.64 USD", "volume": "44", "median_price": "$4.74 USD"}
+{"success": "Cerberus", "lowest_price": "$0.46 USD", "volume": "9", "median_price": "$0.46 USD"}
+{"success": "Black Dog", "lowest_price": "$0.70 USD", "volume": "14", "median_price": "$0.66 USD"}
+{"success": "Lurker", "lowest_price": "$0.42 USD", "volume": "25", "median_price": "$0.43 USD"}
+{"success": "No Time", "lowest_price": "$0.30 USD", "volume": "30", "median_price": "$0.23 USD"}
+{"success": "Surf's Up", "lowest_price": "$0.16 USD", "volume": "59", "median_price": "$0.19 USD"}
+{"success": "FlameZ | Paris 2023", "lowest_price": "$0.03 USD", "volume": "414", "median_price": "$0.01 USD"}
+{"success": "degster | Paris 2023", "lowest_price": "$0.03 USD", "volume": "49", "median_price": "$0.03 USD"}
+{"success": "Team Spirit | Rio 2022", "lowest_price": "$0.05 USD", "volume": "386", "median_price": "$0.03 USD"}
+{"success": "Boombl4 (Holo) | Stockholm 2021", "lowest_price": "$0.14 USD", "volume": "50", "median_price": "$0.14 USD"}
+{"success": "Renegades | Stockholm 2021", "lowest_price": "$0.03 USD", "volume": "19", "median_price": "$0.01 USD"}
+{"success": "Gold Web", "lowest_price": "$0.66 USD", "volume": "145", "median_price": "$0.66 USD"}
+{"success": "Goofy | Paris 2023", "lowest_price": "$0.03 USD", "volume": "86", "median_price": "$0.01 USD"}
+{"success": "NiKo | Antwerp 2022", "lowest_price": "$0.15 USD", "volume": "60", "median_price": "$0.15 USD"}
+{"success": "IHC Esports | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "152", "median_price": "$0.01 USD"}
+{"success": "broky | Rio 2022", "lowest_price": "$0.04 USD", "volume": "27", "median_price": "$0.02 USD"}
+{"success": "360 No Scope", "lowest_price": "$0.06 USD", "volume": "136", "median_price": "$0.04 USD"}
+{"success": "EZ", "lowest_price": "$1.00 USD", "volume": "16", "median_price": "$0.58 USD"}
+{"success": "Hobbit | Antwerp 2022", "lowest_price": "$0.04 USD", "volume": "63", "median_price": "$0.03 USD"}
+{"success": "LNZ | Stockholm 2021", "lowest_price": "$0.20 USD", "volume": "114", "median_price": "$0.21 USD"}
+{"success": "REZ | Stockholm 2021", "lowest_price": "$0.18 USD", "volume": "85", "median_price": "$0.19 USD"}
+{"success": "Cloud9 | Boston 2018", "lowest_price": "$3.15 USD", "volume": "6", "median_price": "$3.33 USD"}
+{"success": "Ivette", "lowest_price": "$0.36 USD", "volume": "94", "median_price": "$0.32 USD"}
+{"success": "Perfecto (Holo) | Stockholm 2021", "lowest_price": "$0.16 USD", "volume": "42", "median_price": "$0.14 USD"}
+{"success": "Ninjas in Pyjamas (Holo) | 2020 RMR", "lowest_price": "$0.07 USD", "volume": "225", "median_price": "$0.05 USD"}
+{"success": "Kawaii Killer Terrorist", "lowest_price": "$1.15 USD", "volume": "40", "median_price": "$1.12 USD"}
+{"success": "b1t | Stockholm 2021", "lowest_price": "$0.03 USD", "volume": "172", "median_price": "$0.01 USD"}
+{"success": "Perfecto | Stockholm 2021", "lowest_price": "$0.03 USD", "volume": "107", "median_price": "$0.01 USD"}
+{"success": "Magisk (Glitter, Champion) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "410", "median_price": "$0.01 USD"}
+{"success": "Jame | Antwerp 2022", "lowest_price": "$0.06 USD", "volume": "14", "median_price": "$0.03 USD"}
+{"success": "Outsiders | Rio 2022", "lowest_price": "$0.04 USD", "volume": "430", "median_price": "$0.02 USD"}
+{"success": "Pixel Avenger", "lowest_price": "$0.12 USD", "volume": "41", "median_price": "$0.09 USD"}
+{"success": "Aleksib | Paris 2023", "lowest_price": "$0.03 USD", "volume": "84", "median_price": "$0.01 USD"}
+{"success": "Renegades | Katowice 2019", "lowest_price": "$0.98 USD"}
+{"success": "FaZe Clan | Katowice 2019", "lowest_price": "$3.13 USD", "volume": "1", "median_price": "$3.16 USD"}
+{"success": "Gratisfaction | Katowice 2019", "lowest_price": "$0.41 USD", "volume": "4", "median_price": "$0.41 USD"}
+{"success": "Conspiracy Club (Holo)", "lowest_price": "$0.52 USD", "volume": "21", "median_price": "$0.46 USD"}
+{"success": "Zap Cat", "lowest_price": "$0.09 USD", "volume": "199", "median_price": "$0.07 USD"}
+{"success": "SK Gaming | Atlanta 2017", "lowest_price": "$2.91 USD", "volume": "3", "median_price": "$3.00 USD"}
+{"success": "k0nfig | Paris 2023", "lowest_price": "$0.03 USD", "volume": "53", "median_price": "$0.01 USD"}
+{"success": "DemQQ | Paris 2023", "lowest_price": "$0.03 USD", "volume": "75", "median_price": "$0.01 USD"}
+{"success": "Ninjas in Pyjamas (Glitter) | Paris 2023", "lowest_price": "$0.04 USD", "volume": "247", "median_price": "$0.02 USD"}
+{"success": "Pros Don't Fake", "lowest_price": "$5.43 USD", "volume": "10", "median_price": "$5.46 USD"}
+{"success": "Go Boom (Glitter)", "lowest_price": "$0.50 USD", "volume": "25", "median_price": "$0.51 USD"}
+{"success": "Chi Bomb", "lowest_price": "$1.11 USD", "volume": "10", "median_price": "$0.94 USD"}
+{"success": "ENCE (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "565", "median_price": "$0.01 USD"}
+{"success": "Cloud9 | Rio 2022", "lowest_price": "$0.04 USD", "volume": "118", "median_price": "$0.02 USD"}
+{"success": "chelo (Glitter) | Antwerp 2022", "lowest_price": "$0.05 USD", "volume": "16", "median_price": "$0.03 USD"}
+{"success": "Clicking Heads", "lowest_price": "$0.11 USD", "volume": "66", "median_price": "$0.07 USD"}
+{"success": "Countdown", "lowest_price": "$0.40 USD", "volume": "15", "median_price": "$0.37 USD"}
+{"success": "apEX (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "21", "median_price": "$0.01 USD"}
+{"success": "9z Team (Glitter) | Antwerp 2022", "lowest_price": "$1.26 USD", "volume": "53", "median_price": "$1.36 USD"}
+{"success": "flusha | Cluj-Napoca 2015", "lowest_price": "$3.17 USD"}
+{"success": "sk0R (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "29", "median_price": "$0.01 USD"}
+{"success": "shalfey (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "14", "median_price": "$0.01 USD"}
+{"success": "nexa | Stockholm 2021", "lowest_price": "$0.03 USD", "volume": "37", "median_price": "$0.01 USD"}
+{"success": "Bad News Eagles | Rio 2022", "lowest_price": "$0.03 USD", "volume": "132", "median_price": "$0.01 USD"}
+{"success": "Knives Out", "lowest_price": "$0.19 USD", "volume": "38", "median_price": "$0.28 USD"}
+{"success": "EliGE | Paris 2023", "lowest_price": "$0.03 USD", "volume": "106", "median_price": "$0.01 USD"}
+{"success": "Poorly Drawn IDF", "lowest_price": "$0.27 USD", "volume": "22", "median_price": "$0.23 USD"}
+{"success": "Laser Beam", "lowest_price": "$0.10 USD", "volume": "36", "median_price": "$0.08 USD"}
+{"success": "KENSi | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "20", "median_price": "$0.01 USD"}
+{"success": "dycha | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "22", "median_price": "$0.01 USD"}
+{"success": "Baby Cerberus", "lowest_price": "$0.16 USD", "volume": "63", "median_price": "$0.16 USD"}
+{"success": "The MongolZ (Gold) | Paris 2023", "lowest_price": "$0.59 USD", "volume": "18", "median_price": "$0.63 USD"}
+{"success": "Into The Breach (Holo) | Paris 2023", "lowest_price": "$0.95 USD", "volume": "1,510", "median_price": "$0.77 USD"}
+{"success": "9INE (Holo) | Paris 2023", "lowest_price": "$1.12 USD", "volume": "111", "median_price": "$0.91 USD"}
+{"success": "OG (Holo) | Paris 2023", "lowest_price": "$0.38 USD", "volume": "74", "median_price": "$0.39 USD"}
+{"success": "Heroic (Holo) | Paris 2023", "lowest_price": "$0.36 USD", "volume": "93", "median_price": "$0.32 USD"}
+{"success": "fame (Holo, Champion) | Rio 2022", "lowest_price": "$0.43 USD", "volume": "1", "median_price": "$0.45 USD"}
+{"success": "Dirty Money", "lowest_price": "$0.64 USD", "volume": "48", "median_price": "$0.75 USD"}
+{"success": "Batter Up", "lowest_price": "$0.04 USD", "volume": "164", "median_price": "$0.02 USD"}
+{"success": "Headshot Guarantee", "lowest_price": "$1.08 USD", "volume": "5", "median_price": "$1.10 USD"}
+{"success": "sh1ro | Stockholm 2021", "lowest_price": "$0.04 USD", "volume": "24", "median_price": "$0.02 USD"}
+{"success": "Ax1Le (Glitter) | Rio 2022", "lowest_price": "$0.10 USD", "volume": "4", "median_price": "$0.09 USD"}
+{"success": "ENCE (Glitter) | Antwerp 2022", "lowest_price": "$0.05 USD", "volume": "27", "median_price": "$0.04 USD"}
+{"success": "hades (Glitter) | Antwerp 2022", "lowest_price": "$0.04 USD", "volume": "15", "median_price": "$0.02 USD"}
+{"success": "Vitality (Holo) | Paris 2023", "lowest_price": "$0.61 USD", "volume": "104", "median_price": "$0.63 USD"}
+{"success": "chrisJ | Berlin 2019", "lowest_price": "$0.18 USD", "volume": "3", "median_price": "$0.17 USD"}
+{"success": "S0tF1k | Katowice 2019", "lowest_price": "$1.42 USD"}
+{"success": "KRIMZ | London 2018", "lowest_price": "$0.77 USD"}
+{"success": "karrigan | London 2018", "lowest_price": "$1.65 USD", "volume": "1", "median_price": "$1.66 USD"}
+{"success": "CS20 Classic (Holo)", "lowest_price": "$0.63 USD", "volume": "25", "median_price": "$0.61 USD"}
+{"success": "fer | Rio 2022", "lowest_price": "$0.16 USD", "volume": "16", "median_price": "$0.17 USD"}
+{"success": "TRY | Rio 2022", "lowest_price": "$0.14 USD", "volume": "10", "median_price": "$0.11 USD"}
+{"success": "coldzera | Rio 2022", "lowest_price": "$0.39 USD", "volume": "55", "median_price": "$0.43 USD"}
+{"success": "VINI | Rio 2022", "lowest_price": "$0.20 USD", "volume": "9", "median_price": "$0.21 USD"}
+{"success": "chelo | Rio 2022", "lowest_price": "$0.11 USD", "volume": "11", "median_price": "$0.10 USD"}
+{"success": "GODSENT | Stockholm 2021", "lowest_price": "$0.04 USD", "volume": "112", "median_price": "$0.05 USD"}
+{"success": "Woro2k | Paris 2023", "lowest_price": "$0.03 USD", "volume": "88", "median_price": "$0.03 USD"}
+{"success": "sdy | Paris 2023", "lowest_price": "$0.03 USD", "volume": "70", "median_price": "$0.01 USD"}
+{"success": "Monte (Glitter) | Paris 2023", "lowest_price": "$0.07 USD", "volume": "262", "median_price": "$0.05 USD"}
+{"success": "jL | Paris 2023", "lowest_price": "$0.03 USD", "volume": "57", "median_price": "$0.03 USD"}
+{"success": "Ninjas in Pyjamas (Holo) | Antwerp 2022", "lowest_price": "$0.52 USD", "volume": "4", "median_price": "$0.50 USD"}
+{"success": "Manticore (Holo)", "lowest_price": "$1.05 USD", "volume": "4", "median_price": "$0.73 USD"}
+{"success": "Vitality (Gold) | Paris 2023", "lowest_price": "$1.18 USD", "volume": "17", "median_price": "$1.11 USD"}
+{"success": "Max", "lowest_price": "$0.26 USD", "volume": "20", "median_price": "$0.24 USD"}
+{"success": "Avangar | Katowice 2019", "lowest_price": "$2.39 USD", "volume": "1", "median_price": "$2.23 USD"}
+{"success": "forZe eSports (Glitter) | Paris 2023", "lowest_price": "$0.07 USD", "volume": "345", "median_price": "$0.07 USD"}
+{"success": "Ancient Beast", "lowest_price": "$0.07 USD", "volume": "1,135", "median_price": "$0.05 USD"}
+{"success": "Joan", "lowest_price": "$0.54 USD", "volume": "17", "median_price": "$0.48 USD"}
+{"success": "STYKO | Boston 2018", "lowest_price": "$1.72 USD", "volume": "1", "median_price": "$1.72 USD"}
+{"success": "innocent | Krakow 2017", "lowest_price": "$1.63 USD", "volume": "6", "median_price": "$1.51 USD"}
+{"success": "sdy | Rio 2022", "lowest_price": "$0.09 USD", "volume": "40", "median_price": "$0.09 USD"}
+{"success": "nicoodoz | Rio 2022", "lowest_price": "$0.12 USD", "volume": "36", "median_price": "$0.09 USD"}
+{"success": "FL1T | Rio 2022", "lowest_price": "$0.12 USD", "volume": "31", "median_price": "$0.05 USD"}
+{"success": "fame (Glitter) | Rio 2022", "lowest_price": "$1.27 USD", "volume": "7", "median_price": "$1.21 USD"}
+{"success": "Ace Clutch Co. (Holo)", "lowest_price": "$0.82 USD", "volume": "29", "median_price": "$0.72 USD"}
+{"success": "G2 Esports (Glitter) | Paris 2023", "lowest_price": "$0.07 USD", "volume": "371", "median_price": "$0.07 USD"}
+{"success": "Astralis (Glitter) | Antwerp 2022", "lowest_price": "$0.49 USD", "volume": "26", "median_price": "$0.50 USD"}
+{"success": "Team Liquid | Rio 2022", "lowest_price": "$0.03 USD", "volume": "208", "median_price": "$0.01 USD"}
+{"success": "Watermelon Tentaskull", "lowest_price": "$1.52 USD", "volume": "4", "median_price": "$1.53 USD"}
+{"success": "Stan", "lowest_price": "$0.32 USD", "volume": "16", "median_price": "$0.34 USD"}
+{"success": "Scavenger (Holo)", "lowest_price": "$0.70 USD", "volume": "20", "median_price": "$0.69 USD"}
+{"success": "Rat Pack", "lowest_price": "$0.09 USD", "volume": "19", "median_price": "$0.11 USD"}
+{"success": "biguzera (Holo) | Paris 2023", "lowest_price": "$0.19 USD", "volume": "1", "median_price": "$0.16 USD"}
+{"success": "Ancient Marauder", "lowest_price": "$0.29 USD", "volume": "36", "median_price": "$0.30 USD"}
+{"success": "FURIA | Stockholm 2021", "lowest_price": "$0.03 USD", "volume": "106", "median_price": "$0.02 USD"}
+{"success": "FaZe Clan | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "130", "median_price": "$0.03 USD"}
+{"success": "forZe eSports (Glitter) | Antwerp 2022", "lowest_price": "$0.05 USD", "volume": "27", "median_price": "$0.03 USD"}
+{"success": "drop | Stockholm 2021", "lowest_price": "$0.04 USD", "volume": "12", "median_price": "$0.02 USD"}
+{"success": "coldzera | Berlin 2019", "lowest_price": "$0.27 USD", "volume": "21", "median_price": "$0.27 USD"}
+{"success": "luken | Antwerp 2022", "lowest_price": "$0.06 USD", "volume": "81", "median_price": "$0.06 USD"}
+{"success": "ENCE | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "198", "median_price": "$0.04 USD"}
+{"success": "B-Day", "lowest_price": "$0.06 USD", "volume": "80", "median_price": "$0.05 USD"}
+{"success": "Team Liquid (Glitter) | Antwerp 2022", "lowest_price": "$0.13 USD", "volume": "31", "median_price": "$0.11 USD"}
+{"success": "Zyphon | Rio 2022", "lowest_price": "$0.12 USD", "volume": "9", "median_price": "$0.09 USD"}
+{"success": "Distinguished Master Guardian", "lowest_price": "$0.07 USD", "volume": "21", "median_price": "$0.04 USD"}
+{"success": "Ninjas in Pyjamas (Holo) | Stockholm 2021", "lowest_price": "$0.40 USD", "volume": "40", "median_price": "$0.41 USD"}
+{"success": "ropz | Rio 2022", "lowest_price": "$0.06 USD", "volume": "17", "median_price": "$0.03 USD"}
+{"success": "Ax1Le | Rio 2022", "lowest_price": "$0.16 USD", "volume": "12", "median_price": "$0.08 USD"}
+{"success": "Hobbit | Rio 2022", "lowest_price": "$0.23 USD", "volume": "8", "median_price": "$0.22 USD"}
+{"success": "Friendly Fire", "lowest_price": "$0.75 USD", "volume": "4", "median_price": "$0.61 USD"}
+{"success": "Legendary Eagle", "lowest_price": "$0.16 USD", "volume": "24", "median_price": "$0.17 USD"}
+{"success": "cadiaN | Paris 2023", "lowest_price": "$0.03 USD", "volume": "145", "median_price": "$0.03 USD"}
+{"success": "War", "lowest_price": "$0.30 USD", "volume": "29", "median_price": "$0.36 USD"}
+{"success": "k0nfig | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "18", "median_price": "$0.03 USD"}
+{"success": "refrezh | Stockholm 2021", "lowest_price": "$0.03 USD", "volume": "4", "median_price": "$0.01 USD"}
+{"success": "stavn | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "10", "median_price": "$0.01 USD"}
+{"success": "paiN Gaming (Glitter) | Paris 2023", "lowest_price": "$0.04 USD", "volume": "622", "median_price": "$0.05 USD"}
+{"success": "Natus Vincere | Rio 2022", "lowest_price": "$0.04 USD", "volume": "160", "median_price": "$0.02 USD"}
+{"success": "Kyojin (Holo) | Stockholm 2021", "lowest_price": "$0.41 USD", "volume": "8", "median_price": "$0.44 USD"}
+{"success": "rigoN | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "25", "median_price": "$0.04 USD"}
+{"success": "gxx- | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "25", "median_price": "$0.03 USD"}
+{"success": "SENER1 | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "8", "median_price": "$0.04 USD"}
+{"success": "Cloud9 (Glitter) | Antwerp 2022", "lowest_price": "$0.76 USD", "volume": "67", "median_price": "$0.74 USD"}
+{"success": "chopper | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "18", "median_price": "$0.02 USD"}
+{"success": "KSCERATO (Holo) | Stockholm 2021", "lowest_price": "$0.83 USD", "volume": "1", "median_price": "$0.77 USD"}
+{"success": "TACO | Berlin 2019", "lowest_price": "$0.12 USD", "volume": "27", "median_price": "$0.15 USD"}
+{"success": "f0rest | Cluj-Napoca 2015", "lowest_price": "$6.06 USD"}
+{"success": "Copenhagen Flames (Holo) | Stockholm 2021", "lowest_price": "$4.90 USD", "volume": "16", "median_price": "$4.89 USD"}
+{"success": "FaZe Clan (Gold) | Paris 2023", "lowest_price": "$2.01 USD", "volume": "14", "median_price": "$2.00 USD"}
+{"success": "FaZe Clan (Holo) | Paris 2023", "lowest_price": "$0.93 USD", "volume": "132", "median_price": "$0.90 USD"}
+{"success": "Phoenix Balaclava Co. (Holo)", "lowest_price": "$1.43 USD", "volume": "19", "median_price": "$1.40 USD"}
+{"success": "Coiled Strike (Holo)", "lowest_price": "$1.57 USD", "volume": "53", "median_price": "$1.55 USD"}
+{"success": "Temperance", "lowest_price": "$0.05 USD", "volume": "93", "median_price": "$0.05 USD"}
+{"success": "Not A Bot", "lowest_price": "$0.07 USD", "volume": "51", "median_price": "$0.06 USD"}
+{"success": "GODSENT (Holo) | 2020 RMR", "lowest_price": "$0.15 USD", "volume": "51", "median_price": "$0.14 USD"}
+{"success": "olofmeister | London 2018", "lowest_price": "$2.54 USD"}
+{"success": "Mahjong Rooster", "lowest_price": "$0.34 USD", "volume": "10", "median_price": "$0.31 USD"}
+{"success": "Nezha", "lowest_price": "$0.35 USD", "volume": "9", "median_price": "$0.29 USD"}
+{"success": "TeSeS | Paris 2023", "lowest_price": "$0.03 USD", "volume": "52", "median_price": "$0.01 USD"}
+{"success": "ENCE | Rio 2022", "lowest_price": "$0.03 USD", "volume": "267", "median_price": "$0.01 USD"}
+{"success": "rallen | Paris 2023", "lowest_price": "$0.03 USD", "volume": "162", "median_price": "$0.03 USD"}
+{"success": "PENTA Sports | Krakow 2017", "lowest_price": "$1.65 USD"}
+{"success": "F1KU (Gold) | Paris 2023", "lowest_price": "$0.95 USD", "volume": "3", "median_price": "$0.98 USD"}
+{"success": "Unicorn (Holo)", "lowest_price": "$3.41 USD", "volume": "36", "median_price": "$3.49 USD"}
+{"success": "Sico | Paris 2023", "lowest_price": "$0.03 USD", "volume": "84", "median_price": "$0.03 USD"}
+{"success": "Cheongsam", "lowest_price": "$1.72 USD", "volume": "8", "median_price": "$1.72 USD"}
+{"success": "rain (Holo) | Rio 2022", "lowest_price": "$1.85 USD"}
+{"success": "Snappi (Holo) | Rio 2022", "lowest_price": "$0.66 USD"}
+{"success": "Let's Roll-oll", "lowest_price": "$0.26 USD", "volume": "5", "median_price": "$0.17 USD"}
+{"success": "xand | Berlin 2019", "lowest_price": "$0.13 USD", "volume": "4", "median_price": "$0.13 USD"}
+{"success": "Fnatic | Katowice 2014", "lowest_price": "$499.59 USD"}
+{"success": "Gambit Gaming (Holo) | Stockholm 2021", "lowest_price": "$1.09 USD", "volume": "63", "median_price": "$1.08 USD"}
+{"success": "sjuush (Glitter) | Antwerp 2022", "lowest_price": "$0.04 USD", "volume": "2", "median_price": "$0.01 USD"}
+{"success": "REZ (Glitter) | Antwerp 2022", "lowest_price": "$0.05 USD", "volume": "4", "median_price": "$0.02 USD"}
+{"success": "electroNic (Holo) | Stockholm 2021", "lowest_price": "$0.15 USD", "volume": "53", "median_price": "$0.15 USD"}
+{"success": "Manticore", "lowest_price": "$0.26 USD", "volume": "19", "median_price": "$0.20 USD"}
+{"success": "Adepta Sororitas", "lowest_price": "$0.53 USD", "volume": "7", "median_price": "$0.51 USD"}
+{"success": "ropz (Glitter, Champion) | Antwerp 2022", "lowest_price": "$0.10 USD", "volume": "48", "median_price": "$0.09 USD"}
+{"success": "saffee (Glitter) | Antwerp 2022", "lowest_price": "$0.07 USD", "volume": "3", "median_price": "$0.06 USD"}
+{"success": "dupreeh | Paris 2023", "lowest_price": "$0.03 USD", "volume": "40", "median_price": "$0.01 USD"}
+{"success": "Virtus.Pro | Boston 2018", "lowest_price": "$2.88 USD", "volume": "1", "median_price": "$2.88 USD"}
+{"success": "Beaky Decade", "lowest_price": "$0.15 USD", "volume": "96", "median_price": "$0.21 USD"}
+{"success": "Boris", "lowest_price": "$0.31 USD", "volume": "44", "median_price": "$0.33 USD"}
+{"success": "Street Artist (Glitter)", "lowest_price": "$0.11 USD", "volume": "54", "median_price": "$0.11 USD"}
+{"success": "Enemy Spotted (Holo)", "lowest_price": "$0.77 USD", "volume": "40", "median_price": "$0.77 USD"}
+{"success": "100 Thieves (Gold) | 2020 RMR", "lowest_price": "$1.21 USD", "volume": "11", "median_price": "$1.17 USD"}
+{"success": "Save Me", "lowest_price": "$0.05 USD", "volume": "88", "median_price": "$0.03 USD"}
+{"success": "BIG (Holo) | 2020 RMR", "lowest_price": "$0.14 USD", "volume": "68", "median_price": "$0.12 USD"}
+{"success": "Snappi | Paris 2023", "lowest_price": "$0.03 USD", "volume": "47", "median_price": "$0.02 USD"}
+{"success": "Hippocamp (Holo)", "lowest_price": "$0.69 USD", "volume": "4", "median_price": "$0.67 USD"}
+{"success": "DreamEaters | Berlin 2019", "lowest_price": "$0.42 USD", "volume": "13", "median_price": "$0.41 USD"}
+{"success": "GamerLegion | Rio 2022", "lowest_price": "$0.03 USD", "volume": "257", "median_price": "$0.01 USD"}
+{"success": "Aleksib (Holo) | Rio 2022", "lowest_price": "$0.72 USD"}
+{"success": "refrezh (Holo) | Rio 2022", "lowest_price": "$1.52 USD"}
+{"success": "fer (Holo) | Rio 2022", "lowest_price": "$2.31 USD", "volume": "1", "median_price": "$2.31 USD"}
+{"success": "sh1ro (Holo) | Rio 2022", "lowest_price": "$2.21 USD"}
+{"success": "TACO (Holo) | Rio 2022", "lowest_price": "$2.09 USD"}
+{"success": "Copenhagen Flames | Stockholm 2021", "lowest_price": "$0.06 USD", "volume": "141", "median_price": "$0.04 USD"}
+{"success": "karrigan | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "12", "median_price": "$0.01 USD"}
+{"success": "G2 | 2020 RMR", "lowest_price": "$0.05 USD", "volume": "365", "median_price": "$0.05 USD"}
+{"success": "magixx (Glitter) | Rio 2022", "lowest_price": "$0.10 USD", "volume": "3", "median_price": "$0.07 USD"}
+{"success": "Renegades (Holo) | 2020 RMR", "lowest_price": "$0.10 USD", "volume": "94", "median_price": "$0.10 USD"}
+{"success": "Dragon Tale", "lowest_price": "$0.14 USD", "volume": "89", "median_price": "$0.11 USD"}
+{"success": "Evil Geniuses | Stockholm 2021", "lowest_price": "$0.03 USD", "volume": "224", "median_price": "$0.02 USD"}
+{"success": "max | Rio 2022", "lowest_price": "$0.13 USD", "volume": "11", "median_price": "$0.13 USD"}
+{"success": "Perfecto | Rio 2022", "lowest_price": "$0.08 USD", "volume": "16", "median_price": "$0.04 USD"}
+{"success": "electronic | Rio 2022", "lowest_price": "$0.05 USD", "volume": "24", "median_price": "$0.05 USD"}
+{"success": "Keoz | Paris 2023", "lowest_price": "$0.03 USD", "volume": "61", "median_price": "$0.01 USD"}
+{"success": "Silent Ninja", "lowest_price": "$0.23 USD", "volume": "10", "median_price": "$0.19 USD"}
+{"success": "m0NESY | Antwerp 2022", "lowest_price": "$0.14 USD", "volume": "237", "median_price": "$0.12 USD"}
+{"success": "shalfey | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "22", "median_price": "$0.01 USD"}
+{"success": "misutaaa | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "6", "median_price": "$0.01 USD"}
+{"success": "Legendary", "lowest_price": "$0.24 USD", "volume": "59", "median_price": "$0.27 USD"}
+{"success": "bLitz | Paris 2023", "lowest_price": "$0.03 USD", "volume": "160", "median_price": "$0.02 USD"}
+{"success": "BLAST.tv (Gold) | Paris 2023", "lowest_price": "$0.39 USD", "volume": "73", "median_price": "$0.39 USD"}
+{"success": "Into The Breach (Gold) | Paris 2023", "lowest_price": "$2.90 USD", "volume": "348", "median_price": "$2.85 USD"}
+{"success": "Shooting Star Return", "lowest_price": "$0.87 USD"}
+{"success": "arT | Stockholm 2021", "lowest_price": "$0.04 USD", "volume": "207", "median_price": "$0.02 USD"}
+{"success": "Chicken Whisperer", "lowest_price": "$0.04 USD", "volume": "160", "median_price": "$0.02 USD"}
+{"success": "Noble Steed", "lowest_price": "$0.04 USD", "volume": "64", "median_price": "$0.01 USD"}
+{"success": "Kylar | Paris 2023", "lowest_price": "$0.03 USD", "volume": "263", "median_price": "$0.01 USD"}
+{"success": "qikert (Glitter, Champion) | Rio 2022", "lowest_price": "$0.07 USD", "volume": "15", "median_price": "$0.05 USD"}
+{"success": "arT | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "9", "median_price": "$0.02 USD"}
+{"success": "Farlig | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "8", "median_price": "$0.01 USD"}
+{"success": "Farlig (Glitter) | Antwerp 2022", "lowest_price": "$0.04 USD", "volume": "8", "median_price": "$0.02 USD"}
+{"success": "chrisJ | Cluj-Napoca 2015", "lowest_price": "$9.94 USD"}
+{"success": "Brollan | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "8", "median_price": "$0.01 USD"}
+{"success": "hampus | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "22", "median_price": "$0.01 USD"}
+{"success": "qikert | Berlin 2019", "lowest_price": "$0.10 USD", "volume": "87", "median_price": "$0.11 USD"}
+{"success": "Heroic (Glitter) | Rio 2022", "lowest_price": "$0.06 USD", "volume": "26", "median_price": "$0.06 USD"}
+{"success": "Bad News Eagles | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "673", "median_price": "$0.01 USD"}
+{"success": "Hello MP9", "lowest_price": "$0.38 USD", "volume": "11", "median_price": "$0.34 USD"}
+{"success": "Terrorist-Tech", "lowest_price": "$0.13 USD", "volume": "69", "median_price": "$0.15 USD"}
+{"success": "dexter | Paris 2023", "lowest_price": "$0.05 USD", "volume": "309", "median_price": "$0.02 USD"}
+{"success": "hazed | Cologne 2015", "lowest_price": "$5.15 USD"}
+{"success": "Kjaerbye | Berlin 2019", "lowest_price": "$0.35 USD", "volume": "2", "median_price": "$0.26 USD"}
+{"success": "Evil Geniuses | Rio 2022", "lowest_price": "$0.03 USD", "volume": "41", "median_price": "$0.01 USD"}
+{"success": "Baited", "lowest_price": "$0.54 USD", "volume": "45", "median_price": "$0.54 USD"}
+{"success": "StarLadder (Foil) | Berlin 2019", "lowest_price": "$0.86 USD"}
+{"success": "Cat Call", "lowest_price": "$1.11 USD"}
+{"success": "Incineration", "lowest_price": "$0.89 USD", "volume": "33", "median_price": "$0.91 USD"}
+{"success": "TV On Mirage", "lowest_price": "$0.05 USD", "volume": "55", "median_price": "$0.01 USD"}
+{"success": "nin9 | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "26", "median_price": "$0.01 USD"}
+{"success": "Hippocamp", "lowest_price": "$0.16 USD", "volume": "16", "median_price": "$0.16 USD"}
+{"success": "FaZe Clan | Cologne 2016", "lowest_price": "$6.11 USD"}
+{"success": "loWel | Atlanta 2017", "lowest_price": "$7.50 USD"}
+{"success": "Astralis | Katowice 2019", "lowest_price": "$1.40 USD"}
+{"success": "Lekr0 | Berlin 2019", "lowest_price": "$0.08 USD", "volume": "11", "median_price": "$0.06 USD"}
+{"success": "NiKo | Berlin 2019", "lowest_price": "$2.16 USD", "volume": "22", "median_price": "$2.13 USD"}
+{"success": "The Zombie", "lowest_price": "$0.32 USD", "volume": "13", "median_price": "$0.32 USD"}
+{"success": "Krad (Holo) | Paris 2023", "lowest_price": "$0.92 USD", "volume": "52", "median_price": "$1.09 USD"}
+{"success": "Clutchman (Holo)", "lowest_price": "$0.47 USD", "volume": "16", "median_price": "$0.42 USD"}
+{"success": "ShahZaM | Berlin 2019", "lowest_price": "$0.10 USD", "volume": "12", "median_price": "$0.06 USD"}
+{"success": "Jame | Berlin 2019", "lowest_price": "$0.10 USD", "volume": "12", "median_price": "$0.09 USD"}
+{"success": "jkaem | Berlin 2019", "lowest_price": "$0.10 USD", "volume": "5", "median_price": "$0.07 USD"}
+{"success": "One Shot One Kill", "lowest_price": "$1.09 USD", "volume": "3", "median_price": "$1.04 USD"}
+{"success": "Phoenix Reborn", "lowest_price": "$0.41 USD", "volume": "16", "median_price": "$0.42 USD"}
+{"success": "n0rb3r7 (Champion) | Rio 2022", "lowest_price": "$0.03 USD", "volume": "58", "median_price": "$0.04 USD"}
+{"success": "Agent Select", "lowest_price": "$0.07 USD", "volume": "72", "median_price": "$0.05 USD"}
+{"success": "Shattered Web", "lowest_price": "$0.26 USD", "volume": "80", "median_price": "$0.23 USD"}
+{"success": "FalleN | Boston 2018", "lowest_price": "$4.50 USD", "volume": "3", "median_price": "$4.50 USD"}
+{"success": "GeT_RiGhT (Foil) | Berlin 2019", "lowest_price": "$0.86 USD", "volume": "2", "median_price": "$0.84 USD"}
+{"success": "f0rest (Foil) | Berlin 2019", "lowest_price": "$0.85 USD"}
+{"success": "REZ (Foil) | Berlin 2019", "lowest_price": "$0.55 USD"}
+{"success": "Lekr0 (Foil) | Berlin 2019", "lowest_price": "$0.41 USD", "volume": "2", "median_price": "$0.42 USD"}
+{"success": "cadiaN | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "19", "median_price": "$0.03 USD"}
+{"success": "Astralis (Holo) | 2020 RMR", "lowest_price": "$0.31 USD", "volume": "136", "median_price": "$0.33 USD"}
+{"success": "Team Liquid (Holo) | Stockholm 2021", "lowest_price": "$3.03 USD", "volume": "45", "median_price": "$3.21 USD"}
+{"success": "Sphinx (Holo)", "lowest_price": "$0.96 USD", "volume": "8", "median_price": "$1.00 USD"}
+{"success": "NEO | London 2018", "lowest_price": "$2.10 USD", "volume": "2", "median_price": "$2.41 USD"}
+{"success": "NEO | Berlin 2019", "lowest_price": "$0.21 USD", "volume": "10", "median_price": "$0.16 USD"}
+{"success": "Fade Lethal", "lowest_price": "$0.69 USD", "volume": "3", "median_price": "$0.59 USD"}
+{"success": "Fire in the Hole (Holo)", "lowest_price": "$4.50 USD", "volume": "20", "median_price": "$4.18 USD"}
+{"success": "Perry (Holo)", "lowest_price": "$4.07 USD", "volume": "9", "median_price": "$4.16 USD"}
+{"success": "Bombsquad", "lowest_price": "$0.12 USD", "volume": "12", "median_price": "$0.11 USD"}
+{"success": "skullz (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "17", "median_price": "$0.03 USD"}
+{"success": "Hello PP-Bizon", "lowest_price": "$0.27 USD", "volume": "1", "median_price": "$0.21 USD"}
+{"success": "Heads Up", "lowest_price": "$0.17 USD", "volume": "1", "median_price": "$0.11 USD"}
+{"success": "felps (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "38", "median_price": "$0.04 USD"}
+{"success": "MIBR | Berlin 2019", "lowest_price": "$0.55 USD", "volume": "11", "median_price": "$0.57 USD"}
+{"success": "Backstab", "lowest_price": "$0.37 USD", "volume": "7", "median_price": "$0.37 USD"}
+{"success": "Assassin", "lowest_price": "$1.91 USD", "volume": "33", "median_price": "$1.92 USD"}
+{"success": "cadiaN | Stockholm 2021", "lowest_price": "$0.05 USD", "volume": "12", "median_price": "$0.03 USD"}
+{"success": "Tyloo | Stockholm 2021", "lowest_price": "$0.30 USD", "volume": "66", "median_price": "$0.29 USD"}
+{"success": "hades | Paris 2023", "lowest_price": "$0.03 USD", "volume": "63", "median_price": "$0.01 USD"}
+{"success": "Zyphon (Glitter) | Antwerp 2022", "lowest_price": "$0.05 USD", "volume": "15", "median_price": "$0.03 USD"}
+{"success": "w0nderful | Rio 2022", "lowest_price": "$0.04 USD", "volume": "10", "median_price": "$0.02 USD"}
+{"success": "PTFO", "lowest_price": "$0.21 USD", "volume": "18", "median_price": "$0.20 USD"}
+{"success": "Dr. Dazzles", "lowest_price": "$0.16 USD", "volume": "19", "median_price": "$0.14 USD"}
+{"success": "sdy (Glitter) | Paris 2023", "lowest_price": "$0.05 USD", "volume": "24", "median_price": "$0.03 USD"}
+{"success": "Guinea Pig (Holo)", "lowest_price": "$0.34 USD", "volume": "26", "median_price": "$0.42 USD"}
+{"success": "Good Game", "lowest_price": "$6.68 USD", "volume": "13", "median_price": "$6.50 USD"}
+{"success": "Don't Worry", "lowest_price": "$0.08 USD", "volume": "21", "median_price": "$0.07 USD"}
+{"success": "Natus Vincere (Glitter) | Rio 2022", "lowest_price": "$0.17 USD", "volume": "58", "median_price": "$0.18 USD"}
+{"success": "hardzao | Paris 2023", "lowest_price": "$0.03 USD", "volume": "82", "median_price": "$0.01 USD"}
+{"success": "lauNX | Rio 2022", "lowest_price": "$0.09 USD", "volume": "6", "median_price": "$0.08 USD"}
+{"success": "Killjoy", "lowest_price": "$1.40 USD", "volume": "17", "median_price": "$1.36 USD"}
+{"success": "Renegades (Glitter) | Antwerp 2022", "lowest_price": "$0.06 USD", "volume": "48", "median_price": "$0.04 USD"}
+{"success": "frozen (Foil) | Berlin 2019", "lowest_price": "$2.43 USD"}
+{"success": "acoR (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "42", "median_price": "$0.04 USD"}
+{"success": "Good Luck", "lowest_price": "$1.50 USD", "volume": "5", "median_price": "$1.50 USD"}
+{"success": "Have Fun", "lowest_price": "$0.55 USD", "volume": "6", "median_price": "$0.55 USD"}
+{"success": "karrigan | Rio 2022", "lowest_price": "$0.05 USD", "volume": "10", "median_price": "$0.03 USD"}
+{"success": "Fnatic (Glitter) | Rio 2022", "lowest_price": "$0.08 USD", "volume": "38", "median_price": "$0.08 USD"}
+{"success": "Mondays", "lowest_price": "$0.04 USD", "volume": "72", "median_price": "$0.02 USD"}
+{"success": "Hard Carry", "lowest_price": "$0.05 USD", "volume": "21", "median_price": "$0.04 USD"}
+{"success": "juanflatroo | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "36", "median_price": "$0.01 USD"}
+{"success": "ANNIHILATION | Paris 2023", "lowest_price": "$0.03 USD", "volume": "95", "median_price": "$0.01 USD"}
+{"success": "Techno4K | Paris 2023", "lowest_price": "$0.03 USD", "volume": "109", "median_price": "$0.01 USD"}
+{"success": "apEX | Stockholm 2021", "lowest_price": "$0.03 USD", "volume": "17", "median_price": "$0.01 USD"}
+{"success": "Liazz (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "20", "median_price": "$0.01 USD"}
+{"success": "floppy | Paris 2023", "lowest_price": "$0.03 USD", "volume": "110", "median_price": "$0.01 USD"}
+{"success": "VINI (Glitter) | Antwerp 2022", "lowest_price": "$0.28 USD", "volume": "10", "median_price": "$0.22 USD"}
+{"success": "Scavenger", "lowest_price": "$0.17 USD", "volume": "46", "median_price": "$0.19 USD"}
+{"success": "NiKo (Glitter) | Paris 2023", "lowest_price": "$0.26 USD", "volume": "59", "median_price": "$0.27 USD"}
+{"success": "This Is Fine (CT)", "lowest_price": "$0.16 USD", "volume": "33", "median_price": "$0.10 USD"}
+{"success": "This Is Fine (T)", "lowest_price": "$0.21 USD", "volume": "30", "median_price": "$0.03 USD"}
+{"success": "NBK- (Foil) | Berlin 2019", "lowest_price": "$0.47 USD", "volume": "2", "median_price": "$0.44 USD"}
+{"success": "REZ (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "17", "median_price": "$0.01 USD"}
+{"success": "ENCE (Glitter) | Rio 2022", "lowest_price": "$0.07 USD", "volume": "26", "median_price": "$0.07 USD"}
+{"success": "North (Foil) | 2020 RMR", "lowest_price": "$0.57 USD", "volume": "14", "median_price": "$0.57 USD"}
+{"success": "FaZe Clan | Krakow 2017", "lowest_price": "$1.69 USD", "volume": "3", "median_price": "$1.66 USD"}
+{"success": "Jame (Champion) | Rio 2022", "lowest_price": "$0.03 USD", "volume": "82", "median_price": "$0.01 USD"}
+{"success": "G2 Esports | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "104", "median_price": "$0.02 USD"}
+{"success": "siuhy | Paris 2023", "lowest_price": "$0.03 USD", "volume": "141", "median_price": "$0.01 USD"}
+{"success": "Ninjas in Pyjamas (Glitter) | Rio 2022", "lowest_price": "$0.06 USD", "volume": "25", "median_price": "$0.07 USD"}
+{"success": "oSee | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "6", "median_price": "$0.04 USD"}
+{"success": "kennyS | Berlin 2019", "lowest_price": "$1.51 USD", "volume": "15", "median_price": "$1.81 USD"}
+{"success": "PGL (Foil) | Stockholm 2021", "lowest_price": "$0.76 USD", "volume": "12", "median_price": "$0.79 USD"}
+{"success": "3DMAX | Katowice 2015", "lowest_price": "$85.28 USD"}
+{"success": "HellRaisers (Foil) | Katowice 2015", "lowest_price": "$204.35 USD"}
+{"success": "Poorly Drawn Terrorist", "lowest_price": "$0.77 USD", "volume": "9", "median_price": "$0.78 USD"}
+{"success": "Lucaozy | Paris 2023", "lowest_price": "$0.03 USD", "volume": "92", "median_price": "$0.01 USD"}
+{"success": "Evil Geniuses (Foil) | 2020 RMR", "lowest_price": "$0.29 USD", "volume": "24", "median_price": "$0.28 USD"}
+{"success": "ESPADA (Foil) | 2020 RMR", "lowest_price": "$0.39 USD", "volume": "7", "median_price": "$0.39 USD"}
+{"success": "Heroic (Foil) | 2020 RMR", "lowest_price": "$0.18 USD", "volume": "31", "median_price": "$0.17 USD"}
+{"success": "apEX | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "10", "median_price": "$0.01 USD"}
+{"success": "SENER1 (Holo) | Paris 2023", "lowest_price": "$0.24 USD", "volume": "7", "median_price": "$0.21 USD"}
+{"success": "Fnatic (Glitter) | Paris 2023", "lowest_price": "$0.06 USD", "volume": "622", "median_price": "$0.06 USD"}
+{"success": "Pandamonium", "lowest_price": "$0.97 USD", "volume": "2", "median_price": "$0.93 USD"}
+{"success": "SENER1 (Glitter) | Rio 2022", "lowest_price": "$0.07 USD", "volume": "2", "median_price": "$0.04 USD"}
+{"success": "ZywOo | Stockholm 2021", "lowest_price": "$0.04 USD", "volume": "25", "median_price": "$0.02 USD"}
+{"success": "b1t (Holo) | Stockholm 2021", "lowest_price": "$0.21 USD", "volume": "90", "median_price": "$0.21 USD"}
+{"success": "Legendary Eagle Master (Holo)", "lowest_price": "$1.67 USD", "volume": "10", "median_price": "$1.67 USD"}
+{"success": "maden | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "27", "median_price": "$0.01 USD"}
+{"success": "ELEAGUE (Holo) | Boston 2018", "lowest_price": "$2.01 USD", "volume": "1", "median_price": "$2.02 USD"}
+{"success": "Imperial Esports | Antwerp 2022", "lowest_price": "$0.06 USD", "volume": "146", "median_price": "$0.04 USD"}
+{"success": "JACKZ (Holo) | Stockholm 2021", "lowest_price": "$0.66 USD", "volume": "6", "median_price": "$0.68 USD"}
+{"success": "FaZe (Foil) | 2020 RMR", "lowest_price": "$8.35 USD", "volume": "19", "median_price": "$8.33 USD"}
+{"success": "Natus Vincere | London 2018", "lowest_price": "$1.26 USD", "volume": "2", "median_price": "$1.27 USD"}
+{"success": "Queen Of Pain", "lowest_price": "$1.10 USD", "volume": "5", "median_price": "$1.05 USD"}
+{"success": "NEKiZ | Paris 2023", "lowest_price": "$0.03 USD", "volume": "48", "median_price": "$0.01 USD"}
+{"success": "Dark Water Surf Ava (Foil)", "lowest_price": "$13.34 USD", "volume": "13", "median_price": "$8.84 USD"}
+{"success": "niko (Glitter)  | Paris 2023", "lowest_price": "$0.08 USD", "volume": "32", "median_price": "$0.06 USD"}
+{"success": "FalleN (Glitter) | Antwerp 2022", "lowest_price": "$0.29 USD", "volume": "21", "median_price": "$0.27 USD"}
+{"success": "flusha | MLG Columbus 2016", "lowest_price": "$2.71 USD"}
+{"success": "Boom", "lowest_price": "$0.30 USD", "volume": "7", "median_price": "$0.23 USD"}
+{"success": "KENSi (Glitter) | Antwerp 2022", "lowest_price": "$0.05 USD", "volume": "5", "median_price": "$0.05 USD"}
+{"success": "KSCERATO | Rio 2022", "lowest_price": "$0.05 USD", "volume": "27", "median_price": "$0.03 USD"}
+{"success": "Get Clucked", "lowest_price": "$0.31 USD", "volume": "19", "median_price": "$0.34 USD"}
+{"success": "Apeks (Glitter) | Paris 2023", "lowest_price": "$0.08 USD", "volume": "374", "median_price": "$0.09 USD"}
+{"success": "The Samurai", "lowest_price": "$0.35 USD", "volume": "13", "median_price": "$0.31 USD"}
+{"success": "Mister Chief", "lowest_price": "$0.82 USD", "volume": "50", "median_price": "$0.97 USD"}
+{"success": "huNter | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "44", "median_price": "$0.01 USD"}
+{"success": "TeSeS (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "58", "median_price": "$0.01 USD"}
+{"success": "Astralis | Atlanta 2017", "lowest_price": "$6.69 USD", "volume": "1", "median_price": "$6.75 USD"}
+{"success": "device | Cologne 2016", "lowest_price": "$15.57 USD"}
+{"success": "interz | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "140", "median_price": "$0.01 USD"}
+{"success": "Yellow Cyclawps", "lowest_price": "$0.16 USD", "volume": "6", "median_price": "$0.12 USD"}
+{"success": "MOUZ | Stockholm 2021", "lowest_price": "$0.23 USD", "volume": "12", "median_price": "$0.22 USD"}
+{"success": "HObbit | Stockholm 2021", "lowest_price": "$0.36 USD", "volume": "68", "median_price": "$0.30 USD"}
+{"success": "skullz | Paris 2023", "lowest_price": "$0.03 USD", "volume": "63", "median_price": "$0.01 USD"}
+{"success": "Fnatic | Katowice 2015", "lowest_price": "$13.01 USD"}
+{"success": "MIBR (Glitter) | Antwerp 2022", "lowest_price": "$0.08 USD", "volume": "81", "median_price": "$0.07 USD"}
+{"success": "Vitality | Stockholm 2021", "lowest_price": "$0.03 USD", "volume": "125", "median_price": "$0.01 USD"}
+{"success": "Boom (Foil) | 2020 RMR", "lowest_price": "$0.30 USD", "volume": "18", "median_price": "$0.27 USD"}
+{"success": "Hard Cluck Life", "lowest_price": "$0.08 USD", "volume": "12", "median_price": "$0.08 USD"}
+{"success": "Natus Vincere | Cluj-Napoca 2015", "lowest_price": "$3.02 USD", "volume": "1", "median_price": "$2.94 USD"}
+{"success": "Move It", "lowest_price": "$0.59 USD", "volume": "14", "median_price": "$0.61 USD"}
+{"success": "Hi, My Game Is", "lowest_price": "$0.35 USD", "volume": "22", "median_price": "$0.35 USD"}
+{"success": "Dycha (Holo) | Paris 2023", "lowest_price": "$0.13 USD", "volume": "10", "median_price": "$0.12 USD"}
+{"success": "Pegasus", "lowest_price": "$0.43 USD", "volume": "12", "median_price": "$0.43 USD"}
+{"success": "Entropiq | Stockholm 2021", "lowest_price": "$0.19 USD", "volume": "87", "median_price": "$0.19 USD"}
+{"success": "Guardian Dragon", "lowest_price": "$0.26 USD", "volume": "7", "median_price": "$0.28 USD"}
+{"success": "Virtus.Pro | Stockholm 2021", "lowest_price": "$0.07 USD", "volume": "36", "median_price": "$0.06 USD"}
+{"success": "juanflatroo (Glitter) | Paris 2023", "lowest_price": "$0.04 USD", "volume": "9", "median_price": "$0.01 USD"}
+{"success": "Web Stuck (Holo)", "lowest_price": "$0.63 USD", "volume": "51", "median_price": "$0.63 USD"}
+{"success": "Chabo", "lowest_price": "$1.07 USD", "volume": "8", "median_price": "$0.85 USD"}
+{"success": "Kitted Out", "lowest_price": "$0.11 USD", "volume": "9", "median_price": "$0.06 USD"}
+{"success": "Poorly Drawn Ava", "lowest_price": "$0.23 USD", "volume": "9", "median_price": "$0.22 USD"}
+{"success": "Xyp9x | Berlin 2019", "lowest_price": "$0.09 USD", "volume": "19", "median_price": "$0.06 USD"}
+{"success": "FL1T (Glitter, Champion) | Rio 2022", "lowest_price": "$0.07 USD", "volume": "13", "median_price": "$0.04 USD"}
+{"success": "Rickeh | Berlin 2019", "lowest_price": "$0.08 USD", "volume": "4", "median_price": "$0.06 USD"}
+{"success": "STYKO (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "21", "median_price": "$0.01 USD"}
+{"success": "Necron", "lowest_price": "$0.26 USD", "volume": "14", "median_price": "$0.27 USD"}
+{"success": "Liquid | 2020 RMR", "lowest_price": "$0.03 USD", "volume": "104", "median_price": "$0.01 USD"}
+{"success": "yuurih | Berlin 2019", "lowest_price": "$0.15 USD", "volume": "6", "median_price": "$0.20 USD"}
+{"success": "Baited (Holo)", "lowest_price": "$1.24 USD", "volume": "13", "median_price": "$1.21 USD"}
+{"success": "Retro Leet", "lowest_price": "$0.10 USD", "volume": "33", "median_price": "$0.09 USD"}
+{"success": "Cluck", "lowest_price": "$1.16 USD", "volume": "41", "median_price": "$1.16 USD"}
+{"success": "apEX | Paris 2023", "lowest_price": "$0.03 USD", "volume": "16", "median_price": "$0.03 USD"}
+{"success": "Watermelon Stabbyfish", "lowest_price": "$0.26 USD", "volume": "6", "median_price": "$0.20 USD"}
+{"success": "Double Dip (Holo)", "lowest_price": "$0.73 USD", "volume": "1", "median_price": "$0.74 USD"}
+{"success": "HellRaisers | Atlanta 2017", "lowest_price": "$11.50 USD", "volume": "6", "median_price": "$12.36 USD"}
+{"success": "Twistzz (Foil) | Berlin 2019", "lowest_price": "$5.77 USD"}
+{"success": "LUCAS1 | Berlin 2019", "lowest_price": "$0.14 USD", "volume": "23", "median_price": "$0.14 USD"}
+{"success": "COLDYY1 | Katowice 2019", "lowest_price": "$0.62 USD", "volume": "1", "median_price": "$0.60 USD"}
+{"success": "felps | Katowice 2019", "lowest_price": "$0.35 USD", "volume": "2", "median_price": "$0.33 USD"}
+{"success": "Combine Helmet (Holo)", "lowest_price": "$0.93 USD", "volume": "29", "median_price": "$0.85 USD"}
+{"success": "MIBR (Holo) | Antwerp 2022", "lowest_price": "$2.23 USD", "volume": "18", "median_price": "$2.10 USD"}
+{"success": "Flashblack (Holo)", "lowest_price": "$0.83 USD", "volume": "14", "median_price": "$0.94 USD"}
+{"success": "Techno4K (Holo) | Paris 2023", "lowest_price": "$0.52 USD", "volume": "14", "median_price": "$0.50 USD"}
+{"success": "magixx | Rio 2022", "lowest_price": "$0.03 USD", "volume": "12", "median_price": "$0.02 USD"}
+{"success": "shox | London 2018", "lowest_price": "$0.83 USD"}
+{"success": "Toxic", "lowest_price": "$0.32 USD", "volume": "52", "median_price": "$0.38 USD"}
+{"success": "Xyp9x | Krakow 2017", "lowest_price": "$2.47 USD"}
+{"success": "Fnatic (Holo) | 2020 RMR", "lowest_price": "$0.27 USD", "volume": "53", "median_price": "$0.28 USD"}
+{"success": "flamie | Berlin 2019", "lowest_price": "$0.08 USD", "volume": "7", "median_price": "$0.07 USD"}
+{"success": "b1t | Paris 2023", "lowest_price": "$0.03 USD", "volume": "61", "median_price": "$0.01 USD"}
+{"success": "SunPayus (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "14", "median_price": "$0.01 USD"}
+{"success": "Merietta (Holo)", "lowest_price": "$0.80 USD", "volume": "17", "median_price": "$0.74 USD"}
+{"success": "TYLOO (Holo) | 2020 RMR", "lowest_price": "$0.39 USD", "volume": "270", "median_price": "$0.41 USD"}
+{"success": "cajunb | Krakow 2017", "lowest_price": "$1.97 USD", "volume": "1", "median_price": "$1.96 USD"}
+{"success": "Gambit | Krakow 2017", "lowest_price": "$1.00 USD", "volume": "4", "median_price": "$1.01 USD"}
+{"success": "Hobbit | Krakow 2017", "lowest_price": "$1.68 USD", "volume": "1", "median_price": "$1.69 USD"}
+{"success": "00 Nation | Rio 2022", "lowest_price": "$0.17 USD", "volume": "118", "median_price": "$0.16 USD"}
+{"success": "dgt (Glitter) | Antwerp 2022", "lowest_price": "$0.13 USD", "volume": "3", "median_price": "$0.12 USD"}
+{"success": "allu | Katowice 2019", "lowest_price": "$0.53 USD", "volume": "2", "median_price": "$0.54 USD"}
+{"success": "Aleksib | Katowice 2019", "lowest_price": "$1.15 USD", "volume": "2", "median_price": "$1.14 USD"}
+{"success": "sergej | Katowice 2019", "lowest_price": "$0.54 USD"}
+{"success": "oskar | Berlin 2019", "lowest_price": "$0.13 USD", "volume": "9", "median_price": "$0.12 USD"}
+{"success": "B Hop", "lowest_price": "$0.19 USD", "volume": "34", "median_price": "$0.01 USD"}
+{"success": "Hamster Hawk", "lowest_price": "$1.11 USD", "volume": "4", "median_price": "$1.11 USD"}
+{"success": "Banana", "lowest_price": "$1.52 USD", "volume": "18", "median_price": "$1.54 USD"}
+{"success": "Martha", "lowest_price": "$0.06 USD", "volume": "179", "median_price": "$0.06 USD"}
+{"success": "Aerial | Katowice 2019", "lowest_price": "$0.42 USD", "volume": "1", "median_price": "$0.43 USD"}
+{"success": "xseveN | Katowice 2019", "lowest_price": "$0.46 USD", "volume": "1", "median_price": "$0.45 USD"}
+{"success": "Red Shark Shooter", "lowest_price": "$0.27 USD", "volume": "7", "median_price": "$0.26 USD"}
+{"success": "Choose Wisely", "lowest_price": "$0.08 USD", "volume": "47", "median_price": "$0.02 USD"}
+{"success": "Blue Gem (Glitter)", "lowest_price": "$4.50 USD", "volume": "48", "median_price": "$4.39 USD"}
+{"success": "Camper", "lowest_price": "$0.30 USD", "volume": "5", "median_price": "$0.32 USD"}
+{"success": "tabseN | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "22", "median_price": "$0.03 USD"}
+{"success": "sinnopsyy | Paris 2023", "lowest_price": "$0.03 USD", "volume": "58", "median_price": "$0.04 USD"}
+{"success": "gxx- | Paris 2023", "lowest_price": "$0.03 USD", "volume": "36", "median_price": "$0.01 USD"}
+{"success": "fame | Rio 2022", "lowest_price": "$0.07 USD", "volume": "36", "median_price": "$0.05 USD"}
+{"success": "rigoN (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "14", "median_price": "$0.01 USD"}
+{"success": "NBK- | Berlin 2019", "lowest_price": "$0.08 USD", "volume": "16", "median_price": "$0.10 USD"}
+{"success": "Edward | Katowice 2019", "lowest_price": "$0.78 USD", "volume": "4", "median_price": "$0.76 USD"}
+{"success": "Lucky 13", "lowest_price": "$0.51 USD", "volume": "3", "median_price": "$0.41 USD"}
+{"success": "Counter Logic Gaming | Katowice 2015", "lowest_price": "$21.47 USD"}
+{"success": "Booth", "lowest_price": "$0.05 USD", "volume": "136", "median_price": "$0.03 USD"}
+{"success": "Ax1Le | Stockholm 2021", "lowest_price": "$0.03 USD", "volume": "16", "median_price": "$0.01 USD"}
+{"success": "dupreeh | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "16", "median_price": "$0.01 USD"}
+{"success": "Heroic | Rio 2022", "lowest_price": "$0.03 USD", "volume": "175", "median_price": "$0.01 USD"}
+{"success": "Ready For Battle", "lowest_price": "$0.07 USD", "volume": "23", "median_price": "$0.05 USD"}
+{"success": "Team Spirit (Glitter) | Rio 2022", "lowest_price": "$0.14 USD", "volume": "28", "median_price": "$0.14 USD"}
+{"success": "REZ (Glitter) | Rio 2022", "lowest_price": "$0.07 USD", "volume": "9", "median_price": "$0.04 USD"}
+{"success": "FaZe Clan (Glitter) | Rio 2022", "lowest_price": "$0.27 USD", "volume": "26", "median_price": "$0.27 USD"}
+{"success": "TeSeS | Stockholm 2021", "lowest_price": "$0.03 USD", "volume": "21", "median_price": "$0.04 USD"}
+{"success": "Wingsuit (Holo)", "lowest_price": "$0.42 USD", "volume": "13", "median_price": "$0.29 USD"}
+{"success": "Chicken of the Sky", "lowest_price": "$2.10 USD", "volume": "9", "median_price": "$2.10 USD"}
+{"success": "roeJ (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "18", "median_price": "$0.01 USD"}
+{"success": "nitr0 | Paris 2023", "lowest_price": "$0.03 USD", "volume": "547", "median_price": "$0.01 USD"}
+{"success": "stavn (Glitter) | Antwerp 2022", "lowest_price": "$0.04 USD", "volume": "6", "median_price": "$0.01 USD"}
+{"success": "felps (Holo) | Paris 2023", "lowest_price": "$0.64 USD", "volume": "10", "median_price": "$0.65 USD"}
+{"success": "Hello UMP-45", "lowest_price": "$0.30 USD", "volume": "4", "median_price": "$0.30 USD"}
+{"success": "hatz | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "9", "median_price": "$0.01 USD"}
+{"success": "oSee (Holo) | Paris 2023", "lowest_price": "$0.29 USD", "volume": "1", "median_price": "$0.25 USD"}
+{"success": "gxx- (Glitter) | Antwerp 2022", "lowest_price": "$0.04 USD", "volume": "5", "median_price": "$0.02 USD"}
+{"success": "Run CT, Run", "lowest_price": "$0.46 USD", "volume": "17", "median_price": "$0.01 USD"}
+{"success": "Blue Shark Shooter", "lowest_price": "$0.31 USD", "volume": "8", "median_price": "$0.29 USD"}
+{"success": "JaCkz | Berlin 2019", "lowest_price": "$0.09 USD", "volume": "11", "median_price": "$0.06 USD"}
+{"success": "ropz | Paris 2023", "lowest_price": "$0.03 USD", "volume": "944", "median_price": "$0.01 USD"}
+{"success": "Team Liquid | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "169", "median_price": "$0.01 USD"}
+{"success": "Hello SG 553", "lowest_price": "$0.40 USD", "volume": "7", "median_price": "$0.47 USD"}
+{"success": "Devouring Flame", "lowest_price": "$0.43 USD", "volume": "8", "median_price": "$0.44 USD"}
+{"success": "Gutted", "lowest_price": "$0.42 USD", "volume": "14", "median_price": "$0.36 USD"}
+{"success": "Fnatic | Cologne 2016", "lowest_price": "$3.17 USD", "volume": "3", "median_price": "$3.21 USD"}
+{"success": "CR4ZY | Berlin 2019", "lowest_price": "$0.52 USD", "volume": "8", "median_price": "$0.53 USD"}
+{"success": "Entry Fragger", "lowest_price": "$0.32 USD", "volume": "3", "median_price": "$0.26 USD"}
+{"success": "siuhy | Rio 2022", "lowest_price": "$0.03 USD", "volume": "8", "median_price": "$0.04 USD"}
+{"success": "TeSeS | Rio 2022", "lowest_price": "$0.08 USD", "volume": "22", "median_price": "$0.08 USD"}
+{"success": "Norwi (Glitter) | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "14", "median_price": "$0.04 USD"}
+{"success": "zorte (Glitter) | Antwerp 2022", "lowest_price": "$0.05 USD", "volume": "134", "median_price": "$0.03 USD"}
+{"success": "Cloud9 (Glitter) | Rio 2022", "lowest_price": "$0.24 USD", "volume": "33", "median_price": "$0.23 USD"}
+{"success": "Baby Howl", "lowest_price": "$1.11 USD", "volume": "47", "median_price": "$0.70 USD"}
+{"success": "Zeusception (Holo)", "lowest_price": "$0.75 USD", "volume": "40", "median_price": "$0.64 USD"}
+{"success": "Battlefield Portal", "lowest_price": "$0.10 USD", "volume": "21", "median_price": "$0.06 USD"}
+{"success": "Skull Lil Boney", "lowest_price": "$0.99 USD", "volume": "7", "median_price": "$1.02 USD"}
+{"success": "Skull Troop", "lowest_price": "$0.15 USD", "volume": "8", "median_price": "$0.13 USD"}
+{"success": "Copenhagen Flames (Glitter) | Antwerp 2022", "lowest_price": "$0.17 USD", "volume": "74", "median_price": "$0.16 USD"}
+{"success": "yuurih | Paris 2023", "lowest_price": "$0.03 USD", "volume": "35", "median_price": "$0.01 USD"}
+{"success": "fer | Berlin 2019", "lowest_price": "$1.00 USD", "volume": "36", "median_price": "$1.20 USD"}
+{"success": "NRG | Berlin 2019", "lowest_price": "$1.73 USD", "volume": "2", "median_price": "$1.74 USD"}
+{"success": "INS | Paris 2023", "lowest_price": "$0.03 USD", "volume": "151", "median_price": "$0.01 USD"}
+{"success": "No Pats", "lowest_price": "$1.06 USD", "volume": "19", "median_price": "$1.05 USD"}
+{"success": "Team Liquid (Glitter) | Rio 2022", "lowest_price": "$0.09 USD", "volume": "35", "median_price": "$0.07 USD"}
+{"success": "Shifty Tactics", "lowest_price": "$0.36 USD", "volume": "44", "median_price": "$0.35 USD"}
+{"success": "Sprout Esports | Boston 2018", "lowest_price": "$9.59 USD"}
+{"success": "Knife Club", "lowest_price": "$1.15 USD"}
+{"success": "In The Fire (Foil)", "lowest_price": "$0.59 USD", "volume": "13", "median_price": "$0.61 USD"}
+{"success": "Sherry (Holo)", "lowest_price": "$1.91 USD", "volume": "23", "median_price": "$1.93 USD"}
+{"success": "Great Wave (Foil)", "lowest_price": "$18.11 USD"}
+{"success": "Noble (Holo)", "lowest_price": "$1.46 USD", "volume": "25", "median_price": "$1.49 USD"}
+{"success": "cadiaN (Glitter) | Paris 2023", "lowest_price": "$0.04 USD", "volume": "15", "median_price": "$0.03 USD"}
+{"success": "Salute!", "lowest_price": "$0.16 USD", "volume": "17", "median_price": "$0.17 USD"}
+{"success": "Legendary Eagle (Holo)", "lowest_price": "$0.87 USD", "volume": "3", "median_price": "$0.88 USD"}
+{"success": "NiKo (Glitter) | Antwerp 2022", "lowest_price": "$0.98 USD", "volume": "11", "median_price": "$0.89 USD"}
+{"success": "xfl0ud (Glitter) | Antwerp 2022", "lowest_price": "$0.05 USD", "volume": "57", "median_price": "$0.04 USD"}
+{"success": "Bite Me", "lowest_price": "$0.26 USD", "volume": "30", "median_price": "$0.26 USD"}
+{"success": "Hello AK-47", "lowest_price": "$0.72 USD", "volume": "4", "median_price": "$0.73 USD"}
+{"success": "NBK- | Cologne 2015", "lowest_price": "$3.65 USD"}
+{"success": "Jack", "lowest_price": "$0.76 USD", "volume": "12", "median_price": "$0.72 USD"}
+{"success": "Space Marine", "lowest_price": "$0.30 USD", "volume": "21", "median_price": "$0.28 USD"}
+{"success": "Twistzz | Paris 2023", "lowest_price": "$0.03 USD", "volume": "99", "median_price": "$0.01 USD"}
+{"success": "Approaching Site (Foil)", "lowest_price": "$3.35 USD", "volume": "17", "median_price": "$3.19 USD"}
+{"success": "Flick Shotter", "lowest_price": "$0.51 USD", "volume": "28", "median_price": "$0.52 USD"}
+{"success": "Dragon", "lowest_price": "$0.26 USD", "volume": "32", "median_price": "$0.26 USD"}
+{"success": "Tornado Chaos (Foil)", "lowest_price": "$8.86 USD", "volume": "2", "median_price": "$6.86 USD"}
+{"success": "Lucaozy (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "116", "median_price": "$0.02 USD"}
+{"success": "Eternal Fire (Glitter) | Antwerp 2022", "lowest_price": "$0.96 USD", "volume": "63", "median_price": "$0.97 USD"}
+{"success": "Avangar | Berlin 2019", "lowest_price": "$0.71 USD", "volume": "3", "median_price": "$0.67 USD"}
+{"success": "mynio | Paris 2023", "lowest_price": "$0.03 USD", "volume": "61", "median_price": "$0.01 USD"}
+{"success": "ENCE | Katowice 2019", "lowest_price": "$0.54 USD", "volume": "14", "median_price": "$0.55 USD"}
+{"success": "sjuush | Paris 2023", "lowest_price": "$0.03 USD", "volume": "55", "median_price": "$0.01 USD"}
+{"success": "s1mple | Katowice 2019", "lowest_price": "$3.96 USD", "volume": "3", "median_price": "$4.01 USD"}
+{"success": "WOOD7 | Paris 2023", "lowest_price": "$0.03 USD", "volume": "85", "median_price": "$0.02 USD"}
+{"success": "Techno4K (Glitter) | Antwerp 2022", "lowest_price": "$0.06 USD", "volume": "1", "median_price": "$0.04 USD"}
+{"success": "sk0R (Glitter) | Antwerp 2022", "lowest_price": "$0.23 USD", "volume": "3", "median_price": "$0.21 USD"}
+{"success": "kabal (Glitter) | Antwerp 2022", "lowest_price": "$0.04 USD", "volume": "9", "median_price": "$0.02 USD"}
+{"success": "Ninjas in Pyjamas (Holo) | Berlin 2019", "lowest_price": "$0.49 USD", "volume": "7", "median_price": "$0.46 USD"}
+{"success": "frozen | Rio 2022", "lowest_price": "$0.07 USD", "volume": "3", "median_price": "$0.05 USD"}
+{"success": "Death Comes", "lowest_price": "$1.11 USD", "volume": "8", "median_price": "$1.06 USD"}
+{"success": "ELEAGUE | Boston 2018", "lowest_price": "$1.20 USD", "volume": "1", "median_price": "$1.03 USD"}
+{"success": "nicoodoz (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "5", "median_price": "$0.01 USD"}
+{"success": "stavn | Paris 2023", "lowest_price": "$0.03 USD", "volume": "27", "median_price": "$0.01 USD"}
+{"success": "YEKINDAR (Glitter) | Antwerp 2022", "lowest_price": "$0.12 USD", "volume": "6", "median_price": "$0.08 USD"}
+{"success": "PGL | Krakow 2017", "lowest_price": "$1.30 USD"}
+{"success": "nicoodoz | Paris 2023", "lowest_price": "$0.03 USD", "volume": "48", "median_price": "$0.01 USD"}
+{"success": "MLG (Holo) | MLG Columbus 2016", "lowest_price": "$31.29 USD"}
+{"success": "Defuse It (Holo)", "lowest_price": "$0.34 USD", "volume": "23", "median_price": "$0.34 USD"}
+{"success": "Tamara", "lowest_price": "$1.07 USD", "volume": "107", "median_price": "$1.06 USD"}
+{"success": "The Awper", "lowest_price": "$0.87 USD", "volume": "9", "median_price": "$0.91 USD"}
+{"success": "Snowfall (Glitter)", "lowest_price": "$3.19 USD", "volume": "19", "median_price": "$2.58 USD"}
+{"success": "mousesports | Berlin 2019", "lowest_price": "$2.27 USD"}
+{"success": "ZywOo | Paris 2023", "lowest_price": "$0.04 USD", "volume": "80", "median_price": "$0.02 USD"}
+{"success": "Terror Rice", "lowest_price": "$0.34 USD", "volume": "39", "median_price": "$0.30 USD"}
+{"success": "Perfecto | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "12", "median_price": "$0.01 USD"}
+{"success": "Retake Expert", "lowest_price": "$0.19 USD", "volume": "10", "median_price": "$0.16 USD"}
+{"success": "drop | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "13", "median_price": "$0.01 USD"}
+{"success": "Movistar Riders | Stockholm 2021", "lowest_price": "$0.13 USD", "volume": "46", "median_price": "$0.12 USD"}
+{"success": "Sphinx", "lowest_price": "$0.34 USD", "volume": "13", "median_price": "$0.34 USD"}
+{"success": "Poorly Drawn Chicken", "lowest_price": "$0.78 USD", "volume": "13", "median_price": "$0.81 USD"}
+{"success": "Renegades (Holo) | Berlin 2019", "lowest_price": "$0.26 USD", "volume": "6", "median_price": "$0.26 USD"}
+{"success": "Vertigo's Hero (Holo)", "lowest_price": "$0.66 USD", "volume": "40", "median_price": "$0.51 USD"}
+{"success": "IHC Esports (Glitter) | Antwerp 2022", "lowest_price": "$0.06 USD", "volume": "27", "median_price": "$0.05 USD"}
+{"success": "broky | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "3", "median_price": "$0.01 USD"}
+{"success": "CT in Banana", "lowest_price": "$1.12 USD", "volume": "48", "median_price": "$1.14 USD"}
+{"success": "Natus Vincere (Holo) | Paris 2023", "lowest_price": "$1.57 USD", "volume": "83", "median_price": "$1.62 USD"}
+{"success": "buster (Glitter) | Antwerp 2022", "lowest_price": "$0.07 USD", "volume": "1", "median_price": "$0.04 USD"}
+{"success": "hatz (Glitter) | Antwerp 2022", "lowest_price": "$0.05 USD", "volume": "17", "median_price": "$0.02 USD"}
+{"success": "suNny | Boston 2018", "lowest_price": "$1.56 USD", "volume": "3", "median_price": "$1.58 USD"}
+{"success": "PGL (Holo) | Stockholm 2021", "lowest_price": "$0.60 USD", "volume": "43", "median_price": "$0.50 USD"}
+{"success": "Mind Games (Holo)", "lowest_price": "$0.25 USD", "volume": "54", "median_price": "$0.26 USD"}
+{"success": "Renegades (Foil) | 2020 RMR", "lowest_price": "$0.23 USD", "volume": "19", "median_price": "$0.24 USD"}
+{"success": "forZe eSports | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "235", "median_price": "$0.02 USD"}
+{"success": "Metal Legendary Eagle", "lowest_price": "$1.55 USD"}
+{"success": "Liquid Fire", "lowest_price": "$8.62 USD", "volume": "6", "median_price": "$8.63 USD"}
+{"success": "Fearsome", "lowest_price": "$0.61 USD", "volume": "4", "median_price": "$0.53 USD"}
+{"success": "Aces High", "lowest_price": "$0.89 USD", "volume": "8", "median_price": "$0.84 USD"}
+{"success": "Dead Eye", "lowest_price": "$1.17 USD", "volume": "22", "median_price": "$1.17 USD"}
+{"success": "Flame Buttery (Holo)", "lowest_price": "$5.86 USD", "volume": "5", "median_price": "$5.92 USD"}
+{"success": "Miami Flow (Holo)", "lowest_price": "$17.45 USD", "volume": "1", "median_price": "$17.38 USD"}
+{"success": "Zeus | Katowice 2019", "lowest_price": "$0.36 USD", "volume": "14", "median_price": "$0.33 USD"}
+{"success": "SENER1 | Rio 2022", "lowest_price": "$0.04 USD", "volume": "39", "median_price": "$0.05 USD"}
+{"success": "FaZe Clan | Boston 2018", "lowest_price": "$2.92 USD", "volume": "2", "median_price": "$2.93 USD"}
+{"success": "HooXi | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "12", "median_price": "$0.01 USD"}
+{"success": "HooXi (Glitter) | Antwerp 2022", "lowest_price": "$0.05 USD", "volume": "2", "median_price": "$0.03 USD"}
+{"success": "Well Played", "lowest_price": "$0.04 USD", "volume": "79", "median_price": "$0.02 USD"}
+{"success": "kyxsan (Holo) | Paris 2023", "lowest_price": "$0.18 USD", "volume": "2", "median_price": "$0.16 USD"}
+{"success": "nawwk (Holo) | Paris 2023", "lowest_price": "$0.18 USD", "volume": "3", "median_price": "$0.18 USD"}
+{"success": "Fnatic | Krakow 2017", "lowest_price": "$1.77 USD", "volume": "2", "median_price": "$1.77 USD"}
+{"success": "Smoke Criminal", "lowest_price": "$3.50 USD", "volume": "16", "median_price": "$3.23 USD"}
+{"success": "FURIA (Foil) | 2020 RMR", "lowest_price": "$0.23 USD", "volume": "34", "median_price": "$0.16 USD"}
+{"success": "Snappi | Rio 2022", "lowest_price": "$0.04 USD", "volume": "13", "median_price": "$0.02 USD"}
+{"success": "xertioN | Rio 2022", "lowest_price": "$0.12 USD", "volume": "13", "median_price": "$0.10 USD"}
+{"success": "Jame | Rio 2022", "lowest_price": "$0.09 USD", "volume": "17", "median_price": "$0.09 USD"}
+{"success": "G2 Esports (Holo) | Berlin 2019", "lowest_price": "$1.09 USD", "volume": "1", "median_price": "$1.10 USD"}
+{"success": "NiKo | Stockholm 2021", "lowest_price": "$0.29 USD", "volume": "14", "median_price": "$0.27 USD"}
+{"success": "kyxsan | Paris 2023", "lowest_price": "$0.03 USD", "volume": "68", "median_price": "$0.01 USD"}
+{"success": "BOROS | Paris 2023", "lowest_price": "$0.03 USD", "volume": "204", "median_price": "$0.01 USD"}
+{"success": "Handle With Care (Holo)", "lowest_price": "$0.97 USD", "volume": "6", "median_price": "$0.89 USD"}
+{"success": "NAF | Paris 2023", "lowest_price": "$0.03 USD", "volume": "108", "median_price": "$0.01 USD"}
+{"success": "ENCE (Holo) | Rio 2022", "lowest_price": "$2.08 USD", "volume": "45", "median_price": "$1.81 USD"}
+{"success": "FURIA | Rio 2022", "lowest_price": "$0.03 USD", "volume": "257", "median_price": "$0.01 USD"}
+{"success": "JaCkz | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "57", "median_price": "$0.01 USD"}
+{"success": "Liazz | Antwerp 2022", "lowest_price": "$0.04 USD", "volume": "22", "median_price": "$0.02 USD"}
+{"success": "siuhy (Glitter) | Rio 2022", "lowest_price": "$0.11 USD", "volume": "7", "median_price": "$0.06 USD"}
+{"success": "DreamEaters (Holo) | Berlin 2019", "lowest_price": "$0.30 USD", "volume": "24", "median_price": "$0.34 USD"}
+{"success": "Ninjas in Pyjamas (Holo) | Paris 2023", "lowest_price": "$0.43 USD", "volume": "39", "median_price": "$0.42 USD"}
+{"success": "AdreN | Berlin 2019", "lowest_price": "$0.10 USD", "volume": "8", "median_price": "$0.10 USD"}
+{"success": "Stewie2K | Katowice 2019", "lowest_price": "$4.88 USD", "volume": "3", "median_price": "$3.11 USD"}
+{"success": "ropz (Glitter) | Rio 2022", "lowest_price": "$0.30 USD"}
+{"success": "Green Cyclawps", "lowest_price": "$0.19 USD", "volume": "12", "median_price": "$0.20 USD"}
+{"success": "ins | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "30", "median_price": "$0.01 USD"}
+{"success": "s1mple | Rio 2022", "lowest_price": "$0.38 USD", "volume": "17", "median_price": "$0.38 USD"}
+{"success": "ZywOo | Rio 2022", "lowest_price": "$0.11 USD", "volume": "4", "median_price": "$0.07 USD"}
+{"success": "No Pats (Holo)", "lowest_price": "$5.13 USD", "volume": "10", "median_price": "$5.03 USD"}
+{"success": "Natus Vincere | Boston 2018", "lowest_price": "$2.71 USD", "volume": "1", "median_price": "$2.36 USD"}
+{"success": "Too Old for This", "lowest_price": "$0.10 USD", "volume": "98", "median_price": "$0.08 USD"}
+{"success": "Silver (Foil)", "lowest_price": "$2.23 USD", "volume": "10", "median_price": "$2.54 USD"}
+{"success": "Spirit (Foil) | 2020 RMR", "lowest_price": "$1.22 USD", "volume": "41", "median_price": "$1.35 USD"}
+{"success": "Astralis | MLG Columbus 2016", "lowest_price": "$3.13 USD", "volume": "3", "median_price": "$2.88 USD"}
+{"success": "MOUZ (Holo) | Paris 2023", "lowest_price": "$1.38 USD", "volume": "189", "median_price": "$1.33 USD"}
+{"success": "Kill Count", "lowest_price": "$1.28 USD", "volume": "8", "median_price": "$1.26 USD"}
+{"success": "Spinx (Glitter, Champion) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "16", "median_price": "$0.01 USD"}
+{"success": "Mr. Chompy", "lowest_price": "$0.23 USD", "volume": "19", "median_price": "$0.21 USD"}
+{"success": "kRaSnaL (Glitter) | Paris 2023", "lowest_price": "$0.05 USD", "volume": "32", "median_price": "$0.05 USD"}
+{"success": "vexite | Paris 2023", "lowest_price": "$0.03 USD", "volume": "34", "median_price": "$0.01 USD"}
+{"success": "FaNg (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "5", "median_price": "$0.01 USD"}
+{"success": "Ork Waaagh!", "lowest_price": "$0.32 USD", "volume": "16", "median_price": "$0.31 USD"}
+{"success": "I See You (Holo)", "lowest_price": "$0.59 USD", "volume": "11", "median_price": "$0.67 USD"}
+{"success": "Squeaky Door", "lowest_price": "$0.31 USD", "volume": "41", "median_price": "$0.28 USD"}
+{"success": "MIBR | Katowice 2019", "lowest_price": "$0.88 USD", "volume": "1", "median_price": "$0.85 USD"}
+{"success": "Bart4k | Paris 2023", "lowest_price": "$0.03 USD", "volume": "125", "median_price": "$0.01 USD"}
+{"success": "Till Death Do Us Part", "lowest_price": "$1.09 USD", "volume": "5", "median_price": "$1.10 USD"}
+{"success": "REZ | Berlin 2019", "lowest_price": "$0.17 USD", "volume": "64", "median_price": "$0.17 USD"}
+{"success": "Vitality (Glitter) | Antwerp 2022", "lowest_price": "$0.08 USD", "volume": "22", "median_price": "$0.06 USD"}
+{"success": "Natus Vincere | Berlin 2019", "lowest_price": "$0.55 USD", "volume": "10", "median_price": "$0.58 USD"}
+{"success": "headtr1ck (Holo) | Paris 2023", "lowest_price": "$0.23 USD", "volume": "8", "median_price": "$0.19 USD"}
+{"success": "dupreeh | Berlin 2019", "lowest_price": "$0.15 USD", "volume": "39", "median_price": "$0.14 USD"}
+{"success": "Baby Medusa", "lowest_price": "$0.73 USD", "volume": "29", "median_price": "$0.70 USD"}
+{"success": "Ethereal Gaze (Foil)", "lowest_price": "$2.71 USD", "volume": "11", "median_price": "$2.71 USD"}
+{"success": "Nademan", "lowest_price": "$0.10 USD", "volume": "21", "median_price": "$0.06 USD"}
+{"success": "Jame (Foil) | Berlin 2019", "lowest_price": "$0.72 USD", "volume": "3", "median_price": "$0.67 USD"}
+{"success": "rox | Antwerp 2022", "lowest_price": "$0.17 USD", "volume": "28", "median_price": "$0.16 USD"}
+{"success": "NiKo (Foil) | Berlin 2019", "lowest_price": "$8.86 USD", "volume": "3", "median_price": "$8.35 USD"}
+{"success": "Leaving The Station (Holo)", "lowest_price": "$6.61 USD", "volume": "23", "median_price": "$6.50 USD"}
+{"success": "Orange Gnar", "lowest_price": "$0.24 USD", "volume": "6", "median_price": "$0.24 USD"}
+{"success": "FL1T | Stockholm 2021", "lowest_price": "$0.03 USD", "volume": "13", "median_price": "$0.01 USD"}
+{"success": "Stewie2K | Krakow 2017", "lowest_price": "$6.55 USD", "volume": "4", "median_price": "$6.23 USD"}
+{"success": "Team Liquid | Berlin 2019", "lowest_price": "$0.21 USD", "volume": "5", "median_price": "$0.21 USD"}
+{"success": "xertioN | Paris 2023", "lowest_price": "$0.03 USD", "volume": "385", "median_price": "$0.01 USD"}
+{"success": "k1to | Rio 2022", "lowest_price": "$0.03 USD", "volume": "4", "median_price": "$0.01 USD"}
+{"success": "Dosia | London 2018", "lowest_price": "$1.86 USD", "volume": "1", "median_price": "$1.86 USD"}
+{"success": "Non-Veg", "lowest_price": "$0.24 USD", "volume": "12", "median_price": "$0.23 USD"}
+{"success": "Sico (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "12", "median_price": "$0.01 USD"}
+{"success": "Cursed Penmanship", "lowest_price": "$0.05 USD", "volume": "163", "median_price": "$0.04 USD"}
+{"success": "CeRq | Berlin 2019", "lowest_price": "$0.24 USD", "volume": "7", "median_price": "$0.30 USD"}
+{"success": "Eco Rush", "lowest_price": "$0.32 USD", "volume": "3", "median_price": "$0.33 USD"}
+{"success": "Thug Life", "lowest_price": "$0.95 USD", "volume": "1", "median_price": "$0.94 USD"}
+{"success": "KRIMZ | Paris 2023", "lowest_price": "$0.03 USD", "volume": "29", "median_price": "$0.01 USD"}
+{"success": "FASHR | Paris 2023", "lowest_price": "$0.03 USD", "volume": "291", "median_price": "$0.01 USD"}
+{"success": "Astralis | Stockholm 2021", "lowest_price": "$0.15 USD", "volume": "41", "median_price": "$0.15 USD"}
+{"success": "Xyp9x (Glitter) | Antwerp 2022", "lowest_price": "$0.05 USD", "volume": "20", "median_price": "$0.05 USD"}
+{"success": "gla1ve (Glitter) | Antwerp 2022", "lowest_price": "$0.04 USD", "volume": "7", "median_price": "$0.04 USD"}
+{"success": "ANGE1 | Berlin 2019", "lowest_price": "$0.08 USD", "volume": "7", "median_price": "$0.08 USD"}
+{"success": "v4lde | Rio 2022", "lowest_price": "$0.04 USD", "volume": "85", "median_price": "$0.01 USD"}
+{"success": "Perry", "lowest_price": "$0.47 USD", "volume": "17", "median_price": "$0.39 USD"}
+{"success": "isak | Paris 2023", "lowest_price": "$0.03 USD", "volume": "325", "median_price": "$0.01 USD"}
+{"success": "Vitality (Glitter) | Rio 2022", "lowest_price": "$0.05 USD", "volume": "36", "median_price": "$0.03 USD"}
+{"success": "rain | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "18", "median_price": "$0.01 USD"}
+{"success": "Big Hugs", "lowest_price": "$0.07 USD", "volume": "53", "median_price": "$0.07 USD"}
+{"success": "Bombsquad (Foil)", "lowest_price": "$0.63 USD", "volume": "4", "median_price": "$0.54 USD"}
+{"success": "Little Mischief", "lowest_price": "$0.31 USD", "volume": "14", "median_price": "$0.28 USD"}
+{"success": "Boombl4 | Berlin 2019", "lowest_price": "$0.10 USD", "volume": "24", "median_price": "$0.09 USD"}
+{"success": "GuardiaN | Berlin 2019", "lowest_price": "$0.41 USD", "volume": "10", "median_price": "$0.43 USD"}
+{"success": "n0rb3r7 | Rio 2022", "lowest_price": "$0.07 USD", "volume": "450", "median_price": "$0.03 USD"}
+{"success": "dav1deuS (Glitter) | Rio 2022", "lowest_price": "$0.15 USD"}
+{"success": "GeT_RiGhT | Berlin 2019", "lowest_price": "$0.13 USD", "volume": "9", "median_price": "$0.12 USD"}
+{"success": "HooXi | Paris 2023", "lowest_price": "$0.03 USD", "volume": "29", "median_price": "$0.01 USD"}
+{"success": "Sico | Berlin 2019", "lowest_price": "$0.29 USD", "volume": "3", "median_price": "$0.36 USD"}
+{"success": "electronic | Berlin 2019", "lowest_price": "$0.12 USD", "volume": "46", "median_price": "$0.12 USD"}
+{"success": "AZR | Berlin 2019", "lowest_price": "$0.07 USD", "volume": "11", "median_price": "$0.06 USD"}
+{"success": "keshandr | Krakow 2017", "lowest_price": "$9.15 USD"}
+{"success": "felps | Boston 2018", "lowest_price": "$1.07 USD"}
+{"success": "Copenhagen Flames (Holo) | Antwerp 2022", "lowest_price": "$2.10 USD", "volume": "26", "median_price": "$2.10 USD"}
+{"success": "Heroic (Holo) | Antwerp 2022", "lowest_price": "$0.52 USD", "volume": "56", "median_price": "$0.52 USD"}
+{"success": "forZe eSports (Holo) | Antwerp 2022", "lowest_price": "$0.24 USD", "volume": "11", "median_price": "$0.24 USD"}
+{"success": "INTZ E-SPORTS CLUB (Holo) | Berlin 2019", "lowest_price": "$0.24 USD", "volume": "3", "median_price": "$0.24 USD"}
+{"success": "Jerry | Berlin 2019", "lowest_price": "$0.16 USD", "volume": "7", "median_price": "$0.16 USD"}
+{"success": "Welcome to the Clutch", "lowest_price": "$1.23 USD", "volume": "12", "median_price": "$1.24 USD"}
+{"success": "loWel | Berlin 2019", "lowest_price": "$0.11 USD", "volume": "18", "median_price": "$0.11 USD"}
+{"success": "Fireball", "lowest_price": "$0.05 USD", "volume": "92", "median_price": "$0.04 USD"}
+{"success": "FlameZ (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "10", "median_price": "$0.01 USD"}
+{"success": "Cloud9 | London 2018", "lowest_price": "$2.12 USD", "volume": "1", "median_price": "$1.67 USD"}
+{"success": "Kawaii CT (Holo)", "lowest_price": "$7.02 USD", "volume": "28", "median_price": "$6.00 USD"}
+{"success": "degster (Glitter) | Antwerp 2022", "lowest_price": "$0.10 USD", "volume": "13", "median_price": "$0.07 USD"}
+{"success": "chopper (Glitter) | Antwerp 2022", "lowest_price": "$0.11 USD", "volume": "5", "median_price": "$0.10 USD"}
+{"success": "hallzerk | Paris 2023", "lowest_price": "$0.03 USD", "volume": "226", "median_price": "$0.01 USD"}
+{"success": "Metal", "lowest_price": "$0.31 USD", "volume": "8", "median_price": "$0.31 USD"}
+{"success": "IHC Esports | Rio 2022", "lowest_price": "$0.03 USD", "volume": "72", "median_price": "$0.01 USD"}
+{"success": "nafany | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "29", "median_price": "$0.01 USD"}
+{"success": "EliGE | Rio 2022", "lowest_price": "$0.04 USD", "volume": "53", "median_price": "$0.02 USD"}
+{"success": "buster | Berlin 2019", "lowest_price": "$0.10 USD", "volume": "24", "median_price": "$0.12 USD"}
+{"success": "Team Liquid (Holo) | Paris 2023", "lowest_price": "$0.80 USD", "volume": "201", "median_price": "$0.70 USD"}
+{"success": "Team Liquid (Holo) | Rio 2022", "lowest_price": "$1.80 USD", "volume": "16", "median_price": "$1.80 USD"}
+{"success": "dav1d | Antwerp 2022", "lowest_price": "$0.04 USD", "volume": "19", "median_price": "$0.03 USD"}
+{"success": "Primaris Keychain", "lowest_price": "$0.49 USD", "volume": "56", "median_price": "$0.47 USD"}
+{"success": "BIG | Stockholm 2021", "lowest_price": "$0.06 USD", "volume": "70", "median_price": "$0.04 USD"}
+{"success": "zorte | Paris 2023", "lowest_price": "$0.03 USD", "volume": "58", "median_price": "$0.01 USD"}
+{"success": "Just Trolling", "lowest_price": "$1.00 USD", "volume": "4", "median_price": "$1.01 USD"}
+{"success": "magixx (Glitter) | Antwerp 2022", "lowest_price": "$0.14 USD", "volume": "5", "median_price": "$0.12 USD"}
+{"success": "The Baiter", "lowest_price": "$0.89 USD", "volume": "2", "median_price": "$0.89 USD"}
+{"success": "sinnopsyy (Glitter) | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "5", "median_price": "$0.01 USD"}
+{"success": "BIG (Foil) | 2020 RMR", "lowest_price": "$0.21 USD", "volume": "25", "median_price": "$0.16 USD"}
+{"success": "WorldEdit | Krakow 2017", "lowest_price": "$4.48 USD", "volume": "1", "median_price": "$4.45 USD"}
+{"success": "karrigan | Krakow 2017", "lowest_price": "$4.69 USD", "volume": "1", "median_price": "$4.43 USD"}
+{"success": "bondik | Cluj-Napoca 2015", "lowest_price": "$12.81 USD"}
+{"success": "Virtus.Pro | Krakow 2017", "lowest_price": "$3.14 USD", "volume": "6", "median_price": "$2.91 USD"}
+{"success": "NertZ (Holo) | Paris 2023", "lowest_price": "$0.16 USD", "volume": "21", "median_price": "$0.15 USD"}
+{"success": "floppy (Glitter) | Paris 2023", "lowest_price": "$0.04 USD", "volume": "18", "median_price": "$0.02 USD"}
+{"success": "Assassin (Holo)", "lowest_price": "$3.51 USD", "volume": "26", "median_price": "$3.51 USD"}
+{"success": "VINI | Antwerp 2022", "lowest_price": "$0.08 USD", "volume": "44", "median_price": "$0.05 USD"}
+{"success": "apEX | Krakow 2017", "lowest_price": "$2.46 USD", "volume": "1", "median_price": "$2.41 USD"}
+{"success": "Complexity Gaming (Gold) | Paris 2023", "lowest_price": "$1.40 USD", "volume": "41", "median_price": "$1.25 USD"}
+{"success": "Skulltorgeist", "volume": "5", "lowest_price": "$1.01 USD"}
+{"success": "Freeze (Lenticular)", "lowest_price": "$1.61 USD", "volume": "6", "median_price": "$1.65 USD"}
+{"success": "Hot Wings", "lowest_price": "$0.35 USD", "volume": "11", "median_price": "$0.35 USD"}
+{"success": "karrigan (Holo) | Antwerp 2022", "lowest_price": "$4.60 USD", "volume": "2", "median_price": "$4.47 USD"}
+{"success": "LNZ (Holo) | Stockholm 2021", "lowest_price": "$1.15 USD", "volume": "3", "median_price": "$1.14 USD"}
+{"success": "Fluxo (Holo) | Paris 2023", "lowest_price": "$1.08 USD", "volume": "147", "median_price": "$1.05 USD"}
+{"success": "FURIA (Holo) | Paris 2023", "lowest_price": "$2.23 USD", "volume": "73", "median_price": "$2.22 USD"}
+{"success": "OG (Gold) | Paris 2023", "lowest_price": "$0.85 USD", "volume": "20", "median_price": "$0.86 USD"}
+{"success": "Perfecto (Gold) | Paris 2023", "lowest_price": "$1.55 USD", "volume": "1", "median_price": "$1.56 USD"}
+{"success": "sinnopsyy (Gold) | Paris 2023", "lowest_price": "$0.89 USD", "volume": "3", "median_price": "$0.91 USD"}
+{"success": "G2 Esports (Holo) | Stockholm 2021", "lowest_price": "$2.16 USD", "volume": "22", "median_price": "$2.16 USD"}
+{"success": "s1mple (Holo) | Antwerp 2022", "lowest_price": "$15.19 USD", "volume": "2", "median_price": "$15.17 USD"}
+{"success": "Team Spirit (Holo) | Katowice 2019", "lowest_price": "$12.59 USD", "volume": "3", "median_price": "$10.87 USD"}
+{"success": "k0nfig (Holo) | Paris 2023", "lowest_price": "$0.20 USD", "volume": "3", "median_price": "$0.15 USD"}
+{"success": "REZ (Holo) | Antwerp 2022", "lowest_price": "$0.66 USD", "volume": "3", "median_price": "$0.67 USD"}
+{"success": "Stone Scales (Foil)", "lowest_price": "$5.66 USD", "volume": "50", "median_price": "$5.66 USD"}
+{"success": "FURIA (Holo) | Antwerp 2022", "lowest_price": "$6.35 USD", "volume": "11", "median_price": "$6.16 USD"}
+{"success": "Heroic (Gold) | Paris 2023", "lowest_price": "$1.04 USD", "volume": "19", "median_price": "$1.11 USD"}
+{"success": "Tamara (Holo)", "lowest_price": "$3.24 USD", "volume": "23", "median_price": "$3.15 USD"}
+{"success": "Battle Scarred (Holo)", "lowest_price": "$8.74 USD", "volume": "70", "median_price": "$8.72 USD"}
+{"success": "shox (Holo) | Antwerp 2022", "lowest_price": "$1.41 USD", "volume": "1", "median_price": "$1.41 USD"}
+{"success": "FURIA (Holo) | Stockholm 2021", "lowest_price": "$4.32 USD", "volume": "34", "median_price": "$4.11 USD"}
+{"success": "GamerLegion (Holo) | Paris 2023", "lowest_price": "$1.18 USD", "volume": "40", "median_price": "$1.18 USD"}
+{"success": "Natus Vincere (Holo) | Antwerp 2022", "lowest_price": "$2.72 USD", "volume": "9", "median_price": "$2.47 USD"}
+{"success": "Natus Vincere (Holo) | Stockholm 2021", "lowest_price": "$2.07 USD", "volume": "31", "median_price": "$2.06 USD"}
+{"success": "iM (Holo) | Paris 2023", "lowest_price": "$0.54 USD", "volume": "4", "median_price": "$0.25 USD"}
+{"success": "Ninjas in Pyjamas (Holo) | Cologne 2016", "lowest_price": "$8.33 USD"}
+{"success": "North | Boston 2018", "lowest_price": "$2.67 USD", "volume": "3", "median_price": "$2.60 USD"}
+{"success": "Mr. Chompy (Foil)", "lowest_price": "$2.49 USD", "volume": "1", "median_price": "$2.54 USD"}
+{"success": "Free Hugs (Holo)", "lowest_price": "$1.20 USD", "volume": "12", "median_price": "$1.24 USD"}
+{"success": "G2 Esports (Holo) | Paris 2023", "lowest_price": "$1.43 USD", "volume": "55", "median_price": "$1.26 USD"}
+{"success": "tabseN | Rio 2022", "lowest_price": "$0.04 USD", "volume": "2", "median_price": "$0.02 USD"}
+{"success": "Fnatic | Atlanta 2017", "lowest_price": "$4.56 USD", "volume": "1", "median_price": "$4.50 USD"}
+{"success": "Perfecto (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "48", "median_price": "$0.02 USD"}
+{"success": "Movistar Riders (Holo) | Stockholm 2021", "lowest_price": "$5.87 USD", "volume": "10", "median_price": "$5.67 USD"}
+{"success": "Miami Flick (Holo)", "lowest_price": "$8.71 USD"}
+{"success": "Toxic Tentaskull", "lowest_price": "$0.65 USD", "volume": "6", "median_price": "$0.68 USD"}
+{"success": "Plopski (Holo) | Stockholm 2021", "lowest_price": "$0.20 USD", "volume": "10", "median_price": "$0.20 USD"}
+{"success": "Ready For Battle (Holo)", "lowest_price": "$0.41 USD", "volume": "21", "median_price": "$0.41 USD"}
+{"success": "Mahjong Zhong", "lowest_price": "$0.94 USD", "volume": "10", "median_price": "$0.85 USD"}
+{"success": "FaZe Clan (Holo) | Berlin 2019", "lowest_price": "$0.78 USD", "volume": "21", "median_price": "$0.77 USD"}
+{"success": "Techno4K | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "18", "median_price": "$0.01 USD"}
+{"success": "Natus Vincere (Gold) | 2020 RMR", "lowest_price": "$3.27 USD", "volume": "9", "median_price": "$3.35 USD"}
+{"success": "dennis | MLG Columbus 2016", "lowest_price": "$3.15 USD", "volume": "2", "median_price": "$3.00 USD"}
+{"success": "s1mple | Antwerp 2022", "lowest_price": "$0.15 USD", "volume": "62", "median_price": "$0.13 USD"}
+{"success": "The Bot", "lowest_price": "$1.04 USD", "volume": "4", "median_price": "$1.03 USD"}
+{"success": "Work For Ammo", "lowest_price": "$1.18 USD", "volume": "3", "median_price": "$1.20 USD"}
+{"success": "allu | Berlin 2019", "lowest_price": "$0.10 USD", "volume": "10", "median_price": "$0.09 USD"}
+{"success": "drop (Holo) | Stockholm 2021", "lowest_price": "$0.42 USD", "volume": "4", "median_price": "$0.40 USD"}
+{"success": "nexa (Holo) | Stockholm 2021", "lowest_price": "$0.50 USD", "volume": "6", "median_price": "$0.40 USD"}
+{"success": "STYKO | Paris 2023", "lowest_price": "$0.03 USD", "volume": "133", "median_price": "$0.01 USD"}
+{"success": "broky (Glitter, Champion) | Antwerp 2022", "lowest_price": "$0.04 USD", "volume": "30", "median_price": "$0.04 USD"}
+{"success": "rain | Berlin 2019", "lowest_price": "$0.58 USD", "volume": "9", "median_price": "$0.58 USD"}
+{"success": "boltz | Rio 2022", "lowest_price": "$0.12 USD", "volume": "5", "median_price": "$0.14 USD"}
+{"success": "boltz | Rio 2022", "lowest_price": "$0.12 USD", "volume": "5", "median_price": "$0.14 USD"}
+{"success": "juanflatroo | Rio 2022", "lowest_price": "$0.05 USD", "volume": "11", "median_price": "$0.03 USD"}
+{"success": "boltz | Rio 2022", "lowest_price": "$0.12 USD", "volume": "5", "median_price": "$0.14 USD"}
+{"success": "juanflatroo | Rio 2022", "lowest_price": "$0.05 USD", "volume": "11", "median_price": "$0.03 USD"}
+{"success": "sk0R (Glitter) | Rio 2022", "lowest_price": "$0.16 USD", "volume": "25", "median_price": "$0.16 USD"}
+{"success": "boltz | Rio 2022", "lowest_price": "$0.12 USD", "volume": "5", "median_price": "$0.14 USD"}
+{"success": "juanflatroo | Rio 2022", "lowest_price": "$0.05 USD", "volume": "11", "median_price": "$0.03 USD"}
+{"success": "sk0R (Glitter) | Rio 2022", "lowest_price": "$0.16 USD", "volume": "25", "median_price": "$0.16 USD"}
+{"success": "degster | Rio 2022", "lowest_price": "$0.04 USD", "volume": "7", "median_price": "$0.02 USD"}
+{"success": "Hidden Hero (Foil)", "lowest_price": "$2.88 USD", "volume": "8", "median_price": "$2.75 USD"}
+{"success": "Vitality (Holo) | Stockholm 2021", "lowest_price": "$1.40 USD", "volume": "33", "median_price": "$1.30 USD"}
+{"success": "Showdown (Foil)", "lowest_price": "$5.69 USD", "volume": "17", "median_price": "$6.13 USD"}
+{"success": "Golden | London 2018", "lowest_price": "$1.52 USD"}
+{"success": "Natus Vincere (Holo) | Rio 2022", "lowest_price": "$2.37 USD", "volume": "21", "median_price": "$2.36 USD"}
+{"success": "Face Me (Foil)", "lowest_price": "$5.01 USD", "volume": "11", "median_price": "$4.10 USD"}
+{"success": "mousesports | Cluj-Napoca 2015", "lowest_price": "$6.80 USD", "volume": "3", "median_price": "$6.79 USD"}
+{"success": "Poorly Drawn SAS (Holo)", "lowest_price": "$2.50 USD", "volume": "1", "median_price": "$2.48 USD"}
+{"success": "Dycha | Rio 2022", "lowest_price": "$0.04 USD", "volume": "148", "median_price": "$0.02 USD"}
+{"success": "Poorly Drawn Bloody Darryl", "lowest_price": "$0.25 USD", "volume": "18", "median_price": "$0.28 USD"}
+{"success": "Kill Count (Holo)", "lowest_price": "$6.46 USD", "volume": "2", "median_price": "$6.41 USD"}
+{"success": "Aces High (Holo)", "lowest_price": "$4.33 USD", "volume": "2", "median_price": "$4.32 USD"}
+{"success": "One Sting (Holo)", "lowest_price": "$1.15 USD", "volume": "7", "median_price": "$1.08 USD"}
+{"success": "TACO (Foil) | Berlin 2019", "lowest_price": "$0.54 USD"}
+{"success": "Fowl Play", "lowest_price": "$0.39 USD", "volume": "4", "median_price": "$0.34 USD"}
+{"success": "b1t (Glitter) | Antwerp 2022", "lowest_price": "$0.07 USD", "volume": "3", "median_price": "$0.07 USD"}
+{"success": "DeadFox (Foil) | Berlin 2019", "lowest_price": "$0.40 USD"}
+{"success": "karrigan | Berlin 2019", "lowest_price": "$0.38 USD", "volume": "8", "median_price": "$0.38 USD"}
+{"success": "Edward (Foil) | Boston 2018", "lowest_price": "$5.84 USD"}
+{"success": "hampus (Glitter) | Antwerp 2022", "lowest_price": "$0.04 USD", "volume": "2", "median_price": "$0.04 USD"}
+{"success": "I Conquered", "lowest_price": "$0.40 USD", "volume": "6", "median_price": "$0.39 USD"}
+{"success": "Fools Gold Wave Rider", "lowest_price": "$0.43 USD", "volume": "5", "median_price": "$0.36 USD"}
+{"success": "jabbi | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "6", "median_price": "$0.02 USD"}
+{"success": "Renegades (Foil) | Stockholm 2021", "lowest_price": "$0.66 USD", "volume": "11", "median_price": "$0.67 USD"}
+{"success": "Ninjas in Pyjamas  | Katowice 2015", "lowest_price": "$10.42 USD", "volume": "2", "median_price": "$10.41 USD"}
+{"success": "Witchcraft", "lowest_price": "$1.17 USD", "volume": "8", "median_price": "$1.14 USD"}
+{"success": "Green Lethal", "lowest_price": "$0.51 USD", "volume": "7", "median_price": "$0.52 USD"}
+{"success": "Great Wave (Holo)", "lowest_price": "$7.63 USD", "volume": "3", "median_price": "$7.50 USD"}
+{"success": "Vega Squadron | Krakow 2017", "lowest_price": "$2.03 USD", "volume": "1", "median_price": "$2.03 USD"}
+{"success": "SmithZz | London 2018", "lowest_price": "$0.83 USD", "volume": "1", "median_price": "$0.81 USD"}
+{"success": "IEM | Katowice 2019", "lowest_price": "$2.24 USD", "volume": "2", "median_price": "$2.10 USD"}
+{"success": "rain (Glitter, Champion) | Antwerp 2022", "lowest_price": "$0.09 USD", "volume": "12", "median_price": "$0.09 USD"}
+{"success": "Tyranids Hive Tyrant (Holo)", "lowest_price": "$1.07 USD", "volume": "5", "median_price": "$1.01 USD"}
+{"success": "Hello MAC-10 (Gold)", "lowest_price": "$1.32 USD", "volume": "3", "median_price": "$1.26 USD"}
+{"success": "huNter- | Paris 2023", "lowest_price": "$0.03 USD", "volume": "56", "median_price": "$0.01 USD"}
+{"success": "Fnatic | Cluj-Napoca 2015", "lowest_price": "$2.95 USD", "volume": "4", "median_price": "$2.99 USD"}
+{"success": "FalleN | Rio 2022", "lowest_price": "$1.19 USD", "volume": "47", "median_price": "$1.20 USD"}
+{"success": "Ancient Beast (Foil)", "lowest_price": "$1.30 USD", "volume": "24", "median_price": "$1.30 USD"}
+{"success": "I'm Lit", "lowest_price": "$0.16 USD", "volume": "57", "median_price": "$0.17 USD"}
+{"success": "Nemiga (Foil) | 2020 RMR", "lowest_price": "$0.51 USD", "volume": "27", "median_price": "$0.43 USD"}
+{"success": "Hello MP7", "lowest_price": "$0.52 USD", "volume": "9", "median_price": "$0.52 USD"}
+{"success": "arT (Glitter) | Paris 2023", "lowest_price": "$0.05 USD", "volume": "25", "median_price": "$0.05 USD"}
+{"success": "autimatic | Krakow 2017", "lowest_price": "$2.37 USD"}
+{"success": "Plopski | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "15", "median_price": "$0.01 USD"}
+{"success": "YEKINDAR | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "33", "median_price": "$0.04 USD"}
+{"success": "Jerry (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "31", "median_price": "$0.01 USD"}
+{"success": "Longevity", "lowest_price": "$0.61 USD", "volume": "8", "median_price": "$0.58 USD"}
+{"success": "magixx | Antwerp 2022", "lowest_price": "$0.04 USD", "volume": "105", "median_price": "$0.02 USD"}
+{"success": "smooya | Katowice 2019", "lowest_price": "$0.42 USD", "volume": "1", "median_price": "$0.47 USD"}
+{"success": "blameF | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "102", "median_price": "$0.03 USD"}
+{"success": "Aerial | Berlin 2019", "lowest_price": "$0.09 USD", "volume": "11", "median_price": "$0.09 USD"}
+{"success": "olofmeister (Foil) | Boston 2018", "lowest_price": "$12.65 USD", "volume": "1", "median_price": "$11.04 USD"}
+{"success": "device | Stockholm 2021", "lowest_price": "$0.10 USD", "volume": "32", "median_price": "$0.09 USD"}
+{"success": "Rickeh (Foil) | Berlin 2019", "lowest_price": "$0.42 USD", "volume": "15", "median_price": "$0.42 USD"}
+{"success": "North (Holo) | Berlin 2019", "lowest_price": "$0.37 USD", "volume": "19", "median_price": "$0.31 USD"}
+{"success": "FlameZ (Holo) | Paris 2023", "lowest_price": "$0.23 USD", "volume": "11", "median_price": "$0.22 USD"}
+{"success": "VINI (Foil) | Berlin 2019", "lowest_price": "$1.24 USD"}
+{"success": "Baby Lore", "lowest_price": "$0.24 USD", "volume": "98", "median_price": "$0.23 USD"}
+{"success": "rain | Paris 2023", "lowest_price": "$0.03 USD", "volume": "143", "median_price": "$0.01 USD"}
+{"success": "n0thing | Katowice 2019", "lowest_price": "$0.40 USD", "volume": "5", "median_price": "$0.35 USD"}
+{"success": "Blitzkrieg", "lowest_price": "$1.12 USD", "volume": "2", "median_price": "$1.13 USD"}
+{"success": "GODSENT (Holo) | Stockholm 2021", "lowest_price": "$1.86 USD", "volume": "46", "median_price": "$1.86 USD"}
+{"success": "Fnatic (Holo) | Paris 2023", "lowest_price": "$0.70 USD", "volume": "152", "median_price": "$0.64 USD"}
+{"success": "Natus Vincere | Krakow 2017", "lowest_price": "$2.38 USD", "volume": "1", "median_price": "$2.38 USD"}
+{"success": "The Spartan", "lowest_price": "$0.34 USD", "volume": "18", "median_price": "$0.38 USD"}
+{"success": "GODSENT (Foil) | 2020 RMR", "lowest_price": "$0.40 USD", "volume": "7", "median_price": "$0.41 USD"}
+{"success": "Boom (Holo)", "lowest_price": "$1.46 USD", "volume": "4", "median_price": "$1.46 USD"}
+{"success": "Space Soldiers | London 2018", "lowest_price": "$2.04 USD", "volume": "1", "median_price": "$2.00 USD"}
+{"success": "Virtus.Pro | London 2018", "lowest_price": "$3.08 USD", "volume": "1", "median_price": "$3.06 USD"}
+{"success": "Fnatic | London 2018", "lowest_price": "$1.58 USD", "volume": "2", "median_price": "$1.58 USD"}
+{"success": "FACEIT | London 2018", "lowest_price": "$2.30 USD", "volume": "8", "median_price": "$2.60 USD"}
+{"success": "Ninjas in Pyjamas | Cluj-Napoca 2015", "lowest_price": "$3.10 USD", "volume": "4", "median_price": "$3.06 USD"}
+{"success": "Snax | Boston 2018", "lowest_price": "$4.49 USD"}
+{"success": "Team Spirit (Holo) | Stockholm 2021", "lowest_price": "$4.54 USD", "volume": "9", "median_price": "$3.61 USD"}
+{"success": "Rekt (Holo)", "lowest_price": "$1.23 USD", "volume": "9", "median_price": "$1.24 USD"}
+{"success": "ESL One | Katowice 2015", "lowest_price": "$7.70 USD", "volume": "6", "median_price": "$7.58 USD"}
+{"success": "Viggo (Holo)", "lowest_price": "$2.99 USD", "volume": "11", "median_price": "$2.69 USD"}
+{"success": "ropz (Holo) | Paris 2023", "lowest_price": "$4.25 USD", "volume": "19", "median_price": "$4.32 USD"}
+{"success": "Gold Web (Foil)", "lowest_price": "$3.49 USD", "volume": "81", "median_price": "$3.49 USD"}
+{"success": "KRIMZ (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "11", "median_price": "$0.01 USD"}
+{"success": "CS On The Mind", "lowest_price": "$1.12 USD", "volume": "15", "median_price": "$1.14 USD"}
+{"success": "stavn | Stockholm 2021", "lowest_price": "$0.03 USD", "volume": "15", "median_price": "$0.01 USD"}
+{"success": "v$m | Paris 2023", "lowest_price": "$0.03 USD", "volume": "166", "median_price": "$0.01 USD"}
+{"success": "shox | Antwerp 2022", "lowest_price": "$0.04 USD", "volume": "39", "median_price": "$0.02 USD"}
+{"success": "ShahZaM (Foil) | Berlin 2019", "lowest_price": "$0.58 USD"}
+{"success": "Get Smoked (Holo)", "lowest_price": "$1.49 USD", "volume": "45", "median_price": "$1.23 USD"}
+{"success": "IHC Esports (Holo) | Antwerp 2022", "lowest_price": "$0.58 USD", "volume": "17", "median_price": "$0.43 USD"}
+{"success": "broky | Paris 2023", "lowest_price": "$0.03 USD", "volume": "35", "median_price": "$0.01 USD"}
+{"success": "kRaSnaL | Paris 2023", "lowest_price": "$0.03 USD", "volume": "116", "median_price": "$0.01 USD"}
+{"success": "Magisk | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "29", "median_price": "$0.01 USD"}
+{"success": "F1KU | Rio 2022", "lowest_price": "$0.05 USD", "volume": "19", "median_price": "$0.03 USD"}
+{"success": "S1ren | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "17", "median_price": "$0.02 USD"}
+{"success": "degster | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "4", "median_price": "$0.01 USD"}
+{"success": "qikert (Foil) | Berlin 2019", "lowest_price": "$0.41 USD", "volume": "1", "median_price": "$0.36 USD"}
+{"success": "Ethan | Berlin 2019", "lowest_price": "$0.28 USD", "volume": "4", "median_price": "$0.24 USD"}
+{"success": "XANTARES (Glitter) | Antwerp 2022", "lowest_price": "$0.72 USD", "volume": "7", "median_price": "$0.72 USD"}
+{"success": "BnTeT (Foil) | Berlin 2019", "lowest_price": "$1.45 USD", "volume": "1", "median_price": "$0.96 USD"}
+{"success": "DavCost | London 2018", "lowest_price": "$1.42 USD"}
+{"success": "ALEX | Berlin 2019", "lowest_price": "$0.10 USD", "volume": "178", "median_price": "$0.05 USD"}
+{"success": "V For Victory (Holo)", "lowest_price": "$4.40 USD", "volume": "7", "median_price": "$4.60 USD"}
+{"success": "Patsi (Glitter) | Antwerp 2022", "lowest_price": "$0.08 USD", "volume": "2", "median_price": "$0.07 USD"}
+{"success": "jkaem | Katowice 2019", "lowest_price": "$0.48 USD", "volume": "1", "median_price": "$0.34 USD"}
+{"success": "Pocket BBQ", "lowest_price": "$0.20 USD", "volume": "8", "median_price": "$0.20 USD"}
+{"success": "dexter | Katowice 2019", "lowest_price": "$0.47 USD", "volume": "2", "median_price": "$0.36 USD"}
+{"success": "jkaem | Paris 2023", "lowest_price": "$0.03 USD", "volume": "35", "median_price": "$0.01 USD"}
+{"success": "Aeldari Avatar", "lowest_price": "$0.14 USD", "volume": "14", "median_price": "$0.10 USD"}
+{"success": "To B or not to B", "lowest_price": "$0.19 USD", "volume": "11", "median_price": "$0.18 USD"}
+{"success": "Snappi (Glitter) | Antwerp 2022", "lowest_price": "$0.04 USD", "volume": "3", "median_price": "$0.03 USD"}
+{"success": "Blood Moon Wave Rider", "lowest_price": "$0.61 USD", "volume": "1", "median_price": "$0.61 USD"}
+{"success": "maden | Paris 2023", "lowest_price": "$0.03 USD", "volume": "118", "median_price": "$0.01 USD"}
+{"success": "My Little Friend", "lowest_price": "$1.15 USD", "volume": "1", "median_price": "$0.93 USD"}
+{"success": "Vigilance", "lowest_price": "$0.35 USD", "volume": "12", "median_price": "$0.30 USD"}
+{"success": "Extermination", "lowest_price": "$0.70 USD", "volume": "31", "median_price": "$0.69 USD"}
+{"success": "Martha (Holo)", "lowest_price": "$0.38 USD", "volume": "35", "median_price": "$0.39 USD"}
+{"success": "fer | Cologne 2016", "lowest_price": "$5.49 USD", "volume": "1", "median_price": "$5.49 USD"}
+{"success": "Toy Tiger", "lowest_price": "$0.16 USD", "volume": "5", "median_price": "$0.16 USD"}
+{"success": "Fowl Play (Holo)", "lowest_price": "$1.40 USD", "volume": "2", "median_price": "$1.26 USD"}
+{"success": "Grim | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "17", "median_price": "$0.02 USD"}
+{"success": "EliGE (Glitter) | Antwerp 2022", "lowest_price": "$0.05 USD", "volume": "5", "median_price": "$0.06 USD"}
+{"success": "bLitz | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "9", "median_price": "$0.01 USD"}
+{"success": "Poorly Drawn Leet Crew", "lowest_price": "$0.26 USD", "volume": "13", "median_price": "$0.26 USD"}
+{"success": "Bad News Eagles (Glitter) | Rio 2022", "lowest_price": "$0.06 USD", "volume": "37", "median_price": "$0.03 USD"}
+{"success": "Heroic (Holo) | Rio 2022", "lowest_price": "$1.04 USD", "volume": "26", "median_price": "$0.88 USD"}
+{"success": "FL1T (Glitter) | Rio 2022", "lowest_price": "$0.14 USD", "volume": "2", "median_price": "$0.15 USD"}
+{"success": "Countdown (Holo)", "lowest_price": "$1.93 USD", "volume": "3", "median_price": "$1.77 USD"}
+{"success": "gla1ve | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "38", "median_price": "$0.01 USD"}
+{"success": "paiN Gaming | Stockholm 2021", "lowest_price": "$0.08 USD", "volume": "91", "median_price": "$0.06 USD"}
+{"success": "StarLadder | Berlin 2019", "lowest_price": "$0.34 USD", "volume": "1", "median_price": "$0.36 USD"}
+{"success": "torzsi | Rio 2022", "lowest_price": "$0.08 USD", "volume": "20", "median_price": "$0.04 USD"}
+{"success": "gxx- | Rio 2022", "lowest_price": "$0.09 USD", "volume": "8", "median_price": "$0.09 USD"}
+{"success": "FlameZ | Rio 2022", "lowest_price": "$0.04 USD", "volume": "14", "median_price": "$0.03 USD"}
+{"success": "WOOD7 (Glitter) | Paris 2023", "lowest_price": "$0.05 USD", "volume": "86", "median_price": "$0.03 USD"}
+{"success": "jL (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "30", "median_price": "$0.03 USD"}
+{"success": "Shave Master", "lowest_price": "$0.49 USD", "volume": "7", "median_price": "$0.43 USD"}
+{"success": "device | Katowice 2019", "lowest_price": "$1.69 USD", "volume": "1", "median_price": "$1.71 USD"}
+{"success": "Xizt | Cologne 2015", "lowest_price": "$2.22 USD"}
+{"success": "Twistzz | Katowice 2019", "lowest_price": "$2.23 USD", "volume": "1", "median_price": "$2.17 USD"}
+{"success": "Poorly Drawn Number K", "lowest_price": "$0.49 USD", "volume": "8", "median_price": "$0.22 USD"}
+{"success": "CRUC1AL (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "16", "median_price": "$0.01 USD"}
+{"success": "drop (Glitter) | Paris 2023", "lowest_price": "$0.06 USD", "volume": "56", "median_price": "$0.04 USD"}
+{"success": "ENCE (Holo) | Paris 2023", "lowest_price": "$0.15 USD", "volume": "187", "median_price": "$0.15 USD"}
+{"success": "rigoN | Paris 2023", "lowest_price": "$0.03 USD", "volume": "192", "median_price": "$0.01 USD"}
+{"success": "b1t (Glitter) | Rio 2022", "lowest_price": "$0.13 USD", "volume": "9", "median_price": "$0.12 USD"}
+{"success": "refrezh | Rio 2022", "lowest_price": "$0.11 USD", "volume": "20", "median_price": "$0.10 USD"}
+{"success": "Chief (Foil)", "lowest_price": "$1.23 USD", "volume": "15", "median_price": "$1.24 USD"}
+{"success": "Grayhound Gaming | Rio 2022", "lowest_price": "$0.03 USD", "volume": "45", "median_price": "$0.01 USD"}
+{"success": "Blood Moon Tentaskull", "lowest_price": "$1.00 USD", "volume": "8", "median_price": "$0.99 USD"}
+{"success": "Double Dip", "lowest_price": "$0.15 USD", "volume": "5", "median_price": "$0.11 USD"}
+{"success": "Sneaky Beaky Like", "lowest_price": "$0.31 USD", "volume": "8", "median_price": "$0.25 USD"}
+{"success": "apEX | Boston 2018", "lowest_price": "$1.35 USD", "volume": "2", "median_price": "$1.15 USD"}
+{"success": "TeSeS | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "21", "median_price": "$0.04 USD"}
+{"success": "GamerLegion (Holo) | Rio 2022", "lowest_price": "$0.60 USD", "volume": "5", "median_price": "$0.69 USD"}
+{"success": "Co Co Co", "lowest_price": "$0.97 USD", "volume": "121", "median_price": "$0.96 USD"}
+{"success": "Cloud9 | Cologne 2014", "lowest_price": "$12.21 USD"}
+{"success": "Quantum Bellator Fire | Boston 2018", "lowest_price": "$1.29 USD", "volume": "3", "median_price": "$1.26 USD"}
+{"success": "Cypher (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "7", "median_price": "$0.01 USD"}
+{"success": "Legendary Eagle Master", "lowest_price": "$0.11 USD", "volume": "62", "median_price": "$0.10 USD"}
+{"success": "TaZ | Atlanta 2017", "lowest_price": "$3.48 USD", "volume": "1", "median_price": "$2.98 USD"}
+{"success": "Jame (Holo) | Stockholm 2021", "lowest_price": "$1.63 USD", "volume": "2", "median_price": "$1.62 USD"}
+{"success": "INS (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "24", "median_price": "$0.02 USD"}
+{"success": "Twistzz | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "22", "median_price": "$0.02 USD"}
+{"success": "Gen.G (Holo) | 2020 RMR", "lowest_price": "$0.09 USD", "volume": "68", "median_price": "$0.08 USD"}
+{"success": "Vitality (Holo) | Antwerp 2022", "lowest_price": "$1.15 USD", "volume": "12", "median_price": "$1.14 USD"}
+{"success": "Silent Ninja (Foil)", "lowest_price": "$1.44 USD", "volume": "23", "median_price": "$1.42 USD"}
+{"success": "mynio (Glitter) | Paris 2023", "lowest_price": "$0.08 USD", "volume": "21", "median_price": "$0.07 USD"}
+{"success": "Goofy (Glitter) | Paris 2023", "lowest_price": "$0.05 USD", "volume": "22", "median_price": "$0.02 USD"}
+{"success": "KSCERATO | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "22", "median_price": "$0.02 USD"}
+{"success": "BIG | Rio 2022", "lowest_price": "$0.03 USD", "volume": "69", "median_price": "$0.01 USD"}
+{"success": "olofmeister | Berlin 2019", "lowest_price": "$0.18 USD", "volume": "15", "median_price": "$0.17 USD"}
+{"success": "Boombl4 | London 2018", "lowest_price": "$0.80 USD", "volume": "2", "median_price": "$0.80 USD"}
+{"success": "r3salt (Holo) | Paris 2023", "lowest_price": "$0.38 USD", "volume": "12", "median_price": "$0.42 USD"}
+{"success": "n0rb3r7 (Glitter, Champion) | Rio 2022", "lowest_price": "$0.09 USD", "volume": "29", "median_price": "$0.08 USD"}
+{"success": "Techno4K (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "85", "median_price": "$0.01 USD"}
+{"success": "Tyloo | London 2018", "lowest_price": "$0.92 USD", "volume": "8", "median_price": "$0.85 USD"}
+{"success": "9z Team (Holo) | Antwerp 2022", "lowest_price": "$6.13 USD", "volume": "11", "median_price": "$5.65 USD"}
+{"success": "Seeing Red (Foil)", "lowest_price": "$6.09 USD"}
+{"success": "coldzera (Glitter) | Rio 2022", "lowest_price": "$0.30 USD", "volume": "1", "median_price": "$0.31 USD"}
+{"success": "KRIMZ (Glitter) | Rio 2022", "lowest_price": "$0.14 USD", "volume": "3", "median_price": "$0.08 USD"}
+{"success": "hades (Glitter) | Paris 2023", "lowest_price": "$0.05 USD", "volume": "42", "median_price": "$0.03 USD"}
+{"success": "FURIA (Glitter) | Rio 2022", "lowest_price": "$0.08 USD", "volume": "61", "median_price": "$0.09 USD"}
+{"success": "Black Jaggyfish", "lowest_price": "$1.67 USD", "volume": "21", "median_price": "$1.66 USD"}
+{"success": "Yellow Jaggyfish", "lowest_price": "$1.00 USD", "volume": "9", "median_price": "$1.01 USD"}
+{"success": "Pink Jaggyfish", "lowest_price": "$1.26 USD", "volume": "11", "median_price": "$1.37 USD"}
+{"success": "Purple Jaggyfish", "lowest_price": "$1.57 USD", "volume": "21", "median_price": "$1.57 USD"}
+{"success": "Virtus.Pro | Atlanta 2017", "lowest_price": "$6.53 USD", "volume": "3", "median_price": "$6.00 USD"}
+{"success": "karrigan | Paris 2023", "lowest_price": "$0.03 USD", "volume": "145", "median_price": "$0.01 USD"}
+{"success": "loWel | Krakow 2017", "lowest_price": "$2.54 USD"}
+{"success": "markeloff | Krakow 2017", "lowest_price": "$5.54 USD", "volume": "1", "median_price": "$5.29 USD"}
+{"success": "KRIMZ | Krakow 2017", "lowest_price": "$3.46 USD"}
+{"success": "kNgV- | Krakow 2017", "lowest_price": "$2.15 USD"}
+{"success": "nitr0 | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "40", "median_price": "$0.02 USD"}
+{"success": "b1t (Glitter) | Paris 2023", "lowest_price": "$0.04 USD", "volume": "18", "median_price": "$0.02 USD"}
+{"success": "ShahZaM | London 2018", "lowest_price": "$0.96 USD", "volume": "3", "median_price": "$0.86 USD"}
+{"success": "rain | Katowice 2019", "lowest_price": "$1.56 USD", "volume": "1", "median_price": "$1.58 USD"}
+{"success": "SunPayus | Rio 2022", "lowest_price": "$0.03 USD", "volume": "13", "median_price": "$0.02 USD"}
+{"success": "9z Team (Glitter) | Rio 2022", "lowest_price": "$0.58 USD", "volume": "35", "median_price": "$0.52 USD"}
+{"success": "AMANEK | Stockholm 2021", "lowest_price": "$0.03 USD", "volume": "233", "median_price": "$0.01 USD"}
+{"success": "JW | Cologne 2015", "lowest_price": "$3.11 USD"}
+{"success": "FURIA | Katowice 2019", "lowest_price": "$1.29 USD", "volume": "12", "median_price": "$1.26 USD"}
+{"success": "Poorly Drawn Balkan", "lowest_price": "$0.20 USD", "volume": "12", "median_price": "$0.19 USD"}
+{"success": "JT (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "13", "median_price": "$0.03 USD"}
+{"success": "History (Glitter) | Paris 2023", "lowest_price": "$0.05 USD", "volume": "80", "median_price": "$0.05 USD"}
+{"success": "sh1ro | Antwerp 2022", "lowest_price": "$0.04 USD", "volume": "38", "median_price": "$0.02 USD"}
+{"success": "Natus Vincere (Gold) | Paris 2023", "lowest_price": "$2.62 USD", "volume": "20", "median_price": "$2.29 USD"}
+{"success": "BIG | Krakow 2017", "lowest_price": "$0.96 USD", "volume": "3", "median_price": "$0.96 USD"}
+{"success": "Overpass Diorama (Foil)", "lowest_price": "$0.28 USD", "volume": "19", "median_price": "$0.28 USD"}
+{"success": "Global Elite (Foil)", "lowest_price": "$12.85 USD", "volume": "3", "median_price": "$12.07 USD"}
+{"success": "G2 Esports | London 2018", "lowest_price": "$2.49 USD", "volume": "2", "median_price": "$2.48 USD"}
+{"success": "G2 Esports (Holo) | Antwerp 2022", "lowest_price": "$4.18 USD", "volume": "10", "median_price": "$4.20 USD"}
+{"success": "misutaaa (Holo) | Antwerp 2022", "lowest_price": "$0.38 USD", "volume": "3", "median_price": "$0.38 USD"}
+{"success": "allu | Cologne 2015", "lowest_price": "$2.30 USD", "volume": "3", "median_price": "$2.12 USD"}
+{"success": "Aleksib | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "74", "median_price": "$0.01 USD"}
+{"success": "huNter- | Stockholm 2021", "lowest_price": "$0.03 USD", "volume": "7", "median_price": "$0.01 USD"}
+{"success": "Miami Stabbyfish", "lowest_price": "$0.77 USD", "volume": "3", "median_price": "$0.79 USD"}
+{"success": "n0rb3r7 (Holo, Champion) | Rio 2022", "lowest_price": "$0.48 USD", "volume": "5", "median_price": "$0.33 USD"}
+{"success": "FL1T (Holo, Champion) | Rio 2022", "lowest_price": "$0.47 USD", "volume": "3", "median_price": "$0.33 USD"}
+{"success": "apEX | Berlin 2019", "lowest_price": "$0.10 USD", "volume": "28", "median_price": "$0.06 USD"}
+{"success": "Vortigaunt (Holo)", "lowest_price": "$2.58 USD", "volume": "11", "median_price": "$3.06 USD"}
+{"success": "SENER1 (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "23", "median_price": "$0.01 USD"}
+{"success": "b1t | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "33", "median_price": "$0.01 USD"}
+{"success": "nitr0 | Berlin 2019", "lowest_price": "$0.09 USD", "volume": "5", "median_price": "$0.09 USD"}
+{"success": "YEKINDAR (Holo) | Antwerp 2022", "lowest_price": "$2.44 USD", "volume": "3", "median_price": "$2.44 USD"}
+{"success": "North | Berlin 2019", "lowest_price": "$0.60 USD", "volume": "5", "median_price": "$0.58 USD"}
+{"success": "Hello MP7 (Gold)", "lowest_price": "$1.44 USD", "volume": "2", "median_price": "$1.45 USD"}
+{"success": "shalfey | Paris 2023", "lowest_price": "$0.03 USD", "volume": "62", "median_price": "$0.01 USD"}
+{"success": "f0rest | Berlin 2019", "lowest_price": "$0.13 USD", "volume": "9", "median_price": "$0.11 USD"}
+{"success": "Bad News Eagles (Glitter) | Antwerp 2022", "lowest_price": "$0.09 USD", "volume": "67", "median_price": "$0.06 USD"}
+{"success": "NBK- | Cluj-Napoca 2015", "lowest_price": "$4.18 USD"}
+{"success": "Happy | Cologne 2015", "lowest_price": "$4.75 USD", "volume": "1", "median_price": "$4.74 USD"}
+{"success": "fox | Cologne 2015", "lowest_price": "$6.27 USD"}
+{"success": "BIG (Holo) | Antwerp 2022", "lowest_price": "$0.30 USD", "volume": "26", "median_price": "$0.31 USD"}
+{"success": "Lambda (Holo)", "lowest_price": "$4.91 USD", "volume": "24", "median_price": "$5.26 USD"}
+{"success": "Pixiu (Foil)", "lowest_price": "$2.45 USD"}
+{"success": "HellRaisers | Berlin 2019", "lowest_price": "$2.91 USD", "volume": "13", "median_price": "$2.42 USD"}
+{"success": "MLG | MLG Columbus 2016", "lowest_price": "$12.20 USD", "volume": "5", "median_price": "$12.18 USD"}
+{"success": "Ninjas in Pyjamas | London 2018", "lowest_price": "$1.65 USD", "volume": "2", "median_price": "$1.74 USD"}
+{"success": "fame (Champion) | Rio 2022", "lowest_price": "$0.03 USD", "volume": "735", "median_price": "$0.01 USD"}
+{"success": "GODSENT (Gold) | 2020 RMR", "lowest_price": "$2.24 USD", "volume": "3", "median_price": "$1.84 USD"}
+{"success": "Ninjas in Pyjamas (Foil) | Stockholm 2021", "lowest_price": "$0.82 USD", "volume": "6", "median_price": "$0.82 USD"}
+{"success": "Natus Vincere (Foil) | Stockholm 2021", "lowest_price": "$2.30 USD", "volume": "3", "median_price": "$2.07 USD"}
+{"success": "Krad | Paris 2023", "lowest_price": "$0.03 USD", "volume": "83", "median_price": "$0.01 USD"}
+{"success": "REZ | Katowice 2019", "lowest_price": "$0.48 USD", "volume": "1", "median_price": "$0.52 USD"}
+{"success": "qikert | Katowice 2019", "lowest_price": "$0.47 USD", "volume": "2", "median_price": "$0.34 USD"}
+{"success": "hades (Holo) | Paris 2023", "lowest_price": "$0.62 USD", "volume": "7", "median_price": "$0.64 USD"}
+{"success": "JACKZ | Stockholm 2021", "lowest_price": "$0.03 USD", "volume": "9", "median_price": "$0.01 USD"}
+{"success": "Team Kinguin | Cologne 2015", "lowest_price": "$4.60 USD", "volume": "5", "median_price": "$4.40 USD"}
+{"success": "Huaji", "lowest_price": "$0.29 USD", "volume": "10", "median_price": "$0.21 USD"}
+{"success": "interz | Stockholm 2021", "lowest_price": "$0.03 USD", "volume": "22", "median_price": "$0.01 USD"}
+{"success": "vice | London 2018", "lowest_price": "$1.40 USD", "volume": "2", "median_price": "$1.40 USD"}
+{"success": "kennyS | London 2018", "lowest_price": "$6.18 USD", "volume": "4", "median_price": "$6.05 USD"}
+{"success": "compLexity Gaming | London 2018", "lowest_price": "$4.77 USD"}
+{"success": "Team Liquid | London 2018", "lowest_price": "$0.76 USD", "volume": "4", "median_price": "$0.61 USD"}
+{"success": "Skadoodle | London 2018", "lowest_price": "$2.69 USD", "volume": "3", "median_price": "$1.74 USD"}
+{"success": "crush | London 2018", "lowest_price": "$3.29 USD", "volume": "2", "median_price": "$3.23 USD"}
+{"success": "Rickeh | London 2018", "lowest_price": "$1.11 USD"}
+{"success": "One Sting", "lowest_price": "$0.26 USD", "volume": "54", "median_price": "$0.27 USD"}
+{"success": "North | Atlanta 2017", "lowest_price": "$3.05 USD"}
+{"success": "coldzera | Krakow 2017", "lowest_price": "$2.62 USD", "volume": "1", "median_price": "$2.60 USD"}
+{"success": "jks | Katowice 2019", "lowest_price": "$2.85 USD"}
+{"success": "gob b | Katowice 2019", "lowest_price": "$0.49 USD", "volume": "4", "median_price": "$0.50 USD"}
+{"success": "jabbi | Paris 2023", "lowest_price": "$0.03 USD", "volume": "37", "median_price": "$0.01 USD"}
+{"success": "JaCkz | Katowice 2019", "lowest_price": "$0.48 USD", "volume": "1", "median_price": "$0.45 USD"}
+{"success": "Cyber Chicken (Holo)", "lowest_price": "$0.58 USD", "volume": "24", "median_price": "$0.56 USD"}
+{"success": "Easy Peasy", "lowest_price": "$0.65 USD", "volume": "10", "median_price": "$0.65 USD"}
+{"success": "vice (Foil) | London 2018", "lowest_price": "$10.50 USD"}
+{"success": "Astralis (Holo) | Berlin 2019", "lowest_price": "$0.49 USD", "volume": "13", "median_price": "$0.50 USD"}
+{"success": "Red Cyclawps", "lowest_price": "$0.27 USD", "volume": "6", "median_price": "$0.27 USD"}
+{"success": "Dima | Katowice 2019", "lowest_price": "$3.52 USD", "volume": "14", "median_price": "$3.53 USD"}
+{"success": "stanislaw | Katowice 2019", "lowest_price": "$0.63 USD", "volume": "4", "median_price": "$0.63 USD"}
+{"success": "Forty Two", "lowest_price": "$0.70 USD", "volume": "59", "median_price": "$0.70 USD"}
+{"success": "Bonehead", "lowest_price": "$0.55 USD", "volume": "2", "median_price": "$0.52 USD"}
+{"success": "Hotpot", "lowest_price": "$0.11 USD", "volume": "353", "median_price": "$0.10 USD"}
+{"success": "woxic | Katowice 2019", "lowest_price": "$0.95 USD", "volume": "7", "median_price": "$0.93 USD"}
+{"success": "aizy | Boston 2018", "lowest_price": "$1.77 USD"}
+{"success": "malta | Katowice 2019", "lowest_price": "$0.43 USD"}
+{"success": "byali | Cologne 2015", "lowest_price": "$4.50 USD", "volume": "2", "median_price": "$3.12 USD"}
+{"success": "kioShiMa | Cologne 2015", "lowest_price": "$2.77 USD", "volume": "2", "median_price": "$2.44 USD"}
+{"success": "Maikelele | Cologne 2015", "lowest_price": "$2.90 USD", "volume": "1", "median_price": "$2.90 USD"}
+{"success": "flamie | Cologne 2015", "lowest_price": "$4.46 USD", "volume": "1", "median_price": "$3.00 USD"}
+{"success": "NBK- | Katowice 2019", "lowest_price": "$0.52 USD", "volume": "3", "median_price": "$0.52 USD"}
+{"success": "Kvik | Katowice 2019", "lowest_price": "$0.58 USD", "volume": "1", "median_price": "$0.56 USD"}
+{"success": "Freeman | Katowice 2019", "lowest_price": "$0.47 USD", "volume": "2", "median_price": "$0.50 USD"}
+{"success": "Free Range", "lowest_price": "$0.04 USD", "volume": "85", "median_price": "$0.02 USD"}
+{"success": "biguzera | Paris 2023", "lowest_price": "$0.03 USD", "volume": "69", "median_price": "$0.01 USD"}
+{"success": "nicoodoz (Glitter) | Antwerp 2022", "lowest_price": "$0.04 USD", "volume": "11", "median_price": "$0.02 USD"}
+{"success": "s1mple | Berlin 2019", "lowest_price": "$1.24 USD", "volume": "14", "median_price": "$1.25 USD"}
+{"success": "device (Foil) | Berlin 2019", "lowest_price": "$2.82 USD", "volume": "4", "median_price": "$2.82 USD"}
+{"success": "SENER1 | Paris 2023", "lowest_price": "$0.03 USD", "volume": "134", "median_price": "$0.03 USD"}
+{"success": "Bomb Code", "lowest_price": "$1.16 USD", "volume": "11", "median_price": "$1.15 USD"}
+{"success": "rigoN | Rio 2022", "lowest_price": "$0.10 USD", "volume": "11", "median_price": "$0.08 USD"}
+{"success": "SicK | Berlin 2019", "lowest_price": "$0.09 USD", "volume": "10", "median_price": "$0.07 USD"}
+{"success": "Burn Them All", "lowest_price": "$0.43 USD", "volume": "8", "median_price": "$0.45 USD"}
+{"success": "NRG (Holo) | Berlin 2019", "lowest_price": "$1.92 USD", "volume": "12", "median_price": "$1.97 USD"}
+{"success": "forZe eSports (Holo) | Berlin 2019", "lowest_price": "$0.31 USD", "volume": "5", "median_price": "$0.31 USD"}
+{"success": "Twistzz (Holo, Champion) | Antwerp 2022", "lowest_price": "$1.30 USD", "volume": "3", "median_price": "$1.24 USD"}
+{"success": "Imperial Esports (Glitter) | Antwerp 2022", "lowest_price": "$0.89 USD", "volume": "83", "median_price": "$0.88 USD"}
+{"success": "Snappi | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "98", "median_price": "$0.01 USD"}
+{"success": "HooXi (Glitter) | Paris 2023", "lowest_price": "$0.03 USD", "volume": "27", "median_price": "$0.01 USD"}
+{"success": "Sunset Ocean Tentaskull", "lowest_price": "$0.43 USD", "volume": "6", "median_price": "$0.43 USD"}
+{"success": "Zyphon | Antwerp 2022", "lowest_price": "$0.03 USD", "volume": "33", "median_price": "$0.04 USD"}
